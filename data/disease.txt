@@ -1,0 +1,5603 @@
+depressive disorder
+drug-induced liver injury
+mercury poisoning
+necrosis
+neoplasms
+anemia, hemolytic
+attention deficit and disruptive behavior disorders
+autistic disorder
+cognition disorders
+cystitis
+heavy metal toxicity
+hemolysis
+hypertension
+lead poisoning
+learning disorders
+lung injury
+micronuclei, chromosome-defective
+pneumonia
+anxiety disorders
+ataxia
+autoimmune diseases
+brain diseases
+brain edema
+brain injuries
+cardiomyopathies
+craniofacial abnormalities
+death
+disease models, animal
+drug toxicity
+epilepsy
+epilepsy, absence
+fetal growth retardation
+hyperkinesis
+hypersensitivity, delayed
+kidney diseases
+lead poisoning, nervous system
+memory disorders
+movement disorders
+myoclonus
+nerve degeneration
+prenatal exposure delayed effects
+reflex, abnormal
+seizures
+splenomegaly
+status epilepticus
+weight loss
+carcinoma
+liver neoplasms, experimental
+melanoma
+prostatic neoplasms
+respiratory distress syndrome, adult
+urinary bladder neoplasms
+abnormalities, drug-induced
+abnormalities, multiple
+acne vulgaris
+activated protein c resistance
+acute kidney injury
+adenocarcinoma
+adenoma, liver cell
+adrenal insufficiency
+adrenocortical hyperfunction
+albuminuria
+alcoholism
+alopecia
+amenorrhea
+amnesia
+anemia
+anemia, iron-deficiency
+anemia, macrocytic
+aneuploidy
+angioedema
+anorexia
+arrhythmias, cardiac
+arterial occlusive diseases
+arteriosclerosis
+arthritis, experimental
+asthenozoospermia
+atherosclerosis
+atrial septal defect 2
+atrophy
+attention deficit disorder with hyperactivity
+biliary dyskinesia
+birth weight
+blood coagulation disorders
+body weight changes
+bone diseases
+bone diseases, developmental
+bone marrow diseases
+bone resorption
+brain ischemia
+breast diseases
+breast neoplasms
+bronchial hyperreactivity
+budd-chiari syndrome
+cadmium poisoning
+candidiasis, vulvovaginal
+carcinoma, endometrioid
+carcinoma, hepatocellular
+carcinoma in situ
+cardiomegaly
+cardiomyopathy, hypertrophic
+cardiovascular abnormalities
+cardiovascular diseases
+carotid artery thrombosis
+catalepsy
+cell transformation, neoplastic
+cerebral hemorrhage
+cerebral infarction
+child behavior disorders
+chloracne
+cholangiocarcinoma
+choledochal cyst
+cholestasis
+cholestasis, intrahepatic
+chromosome aberrations
+chronobiology disorders
+cleft lip
+cleft palate
+cocaine-related disorders
+colitis
+congenital abnormalities
+congenital, hereditary, and neonatal diseases and abnormalities
+coronary artery disease
+coronary occlusion
+coxsackievirus infections
+cystadenoma
+cysts
+diabetes mellitus, type 1
+diabetes mellitus, type 2
+diabetic nephropathies
+diarrhea
+disorders of sex development
+disseminated intravascular coagulation
+dizziness
+drug hypersensitivity
+dyslipidemias
+dysmenorrhea
+dysostoses
+dyspepsia
+dysuria
+ear neoplasms
+eating disorders
+ebstein anomaly
+ectrodactyly
+edema
+edema, cardiac
+embryo loss
+encephalomyelitis, autoimmune, experimental
+endometrial neoplasms
+endometriosis
+epstein-barr virus infections
+eye abnormalities
+eye diseases
+fatigue
+fatty liver
+feminization
+fetal death
+fetal diseases
+fibrosis
+folic acid deficiency
+gallbladder diseases
+gallbladder neoplasms
+gallstones
+genital diseases, female
+genital diseases, male
+glucose intolerance
+glucose metabolism disorders
+glycosuria
+gonadal disorders
+growth disorders
+gynecomastia
+hamartoma
+hashimoto&apos;s encephalitis
+headache
+hearing disorders
+heart defects, congenital
+heart diseases
+heart failure
+heart septal defects, ventricular
+hematuria
+hemorrhage
+hepatomegaly
+herpes genitalis
+hirsutism
+hot flashes
+hydronephrosis
+hyperalgesia
+hyperglycemia
+hyperlipidemias
+hyperplasia
+hyperprolactinemia
+hypertension, malignant
+hypertension, renovascular
+hyperthyroidism
+hypertriglyceridemia
+hypertrophy
+hypertrophy, left ventricular
+hypocalcemia
+hypokinesia
+hypospadias
+immune system diseases
+immunologic deficiency syndromes
+infant, newborn, diseases
+infertility
+infertility, female
+infertility, male
+inflammation
+insulin resistance
+intestinal diseases
+intestinal neoplasms
+intracranial embolism and thrombosis
+intracranial hemorrhages
+iron overload
+jaundice, obstructive
+jaw abnormalities
+keratitis, herpetic
+kidney neoplasms
+lactation disorders
+leiomyoma
+liver cirrhosis, experimental
+liver diseases
+liver neoplasms
+lung diseases
+lung neoplasms
+lupus erythematosus, systemic
+lymphatic diseases
+lymphoma
+lymphopenia
+mammary neoplasms, animal
+mammary neoplasms, experimental
+manganese poisoning
+medulloblastoma
+melanosis
+mesothelioma
+metaplasia
+metrorrhagia
+microcephaly
+mood disorders
+musculoskeletal abnormalities
+myocardial infarction
+myocardial ischemia
+myocardial reperfusion injury
+myocarditis
+nausea
+neoplasm invasiveness
+neoplasm metastasis
+neoplasms, experimental
+neovascularization, pathologic
+nephritis
+nervous system diseases
+nervous system malformations
+neural tube defects
+neuronal migration disorders
+neurotoxicity syndromes
+olfaction disorders
+oligospermia
+osteoporosis, postmenopausal
+ovarian cysts
+ovarian diseases
+ovarian neoplasms
+pain
+pancreatic neoplasms
+panic disorder
+paralysis
+parkinson disease
+peanut hypersensitivity
+peliosis hepatis
+pericardial effusion
+pigmentation disorders
+pituitary diseases
+pituitary neoplasms
+placenta diseases
+pneumococcal infections
+poisoning
+polycystic ovary syndrome
+polyuria
+porphyria cutanea tarda
+porphyrias, hepatic
+precancerous conditions
+pre-eclampsia
+premature birth
+prenatal injuries
+prolactinoma
+prostatic diseases
+prostatic hyperplasia
+prostatic intraepithelial neoplasia
+prostatitis
+proteinuria
+pruritus
+psychotic disorders
+puberty, delayed
+puberty, precocious
+pulmonary embolism
+pyelonephritis
+respiratory system abnormalities
+salivary gland diseases
+sarcoma
+scoliosis
+sexual and gender disorders
+sinus thrombosis, intracranial
+skin diseases
+skin neoplasms
+skin ulcer
+sleep initiation and maintenance disorders
+somatosensory disorders
+spermatocele
+streptococcal infections
+stroke
+substance-related disorders
+substance withdrawal syndrome
+tachycardia
+tachycardia, ventricular
+taste disorders
+testicular diseases
+tetany
+thromboangiitis obliterans
+thromboembolism
+thrombophilia
+thrombophlebitis
+thrombosis
+thyroid diseases
+tibial fractures
+torsades de pointes
+tricuspid atresia
+ureteral obstruction
+urethral stricture
+urinary bladder calculi
+urinary retention
+urination disorders
+urogenital abnormalities
+uterine cervical neoplasms
+uterine diseases
+uterine hemorrhage
+uterine neoplasms
+vaginal diseases
+vascular malformations
+vasospasm, intracranial
+venous thromboembolism
+venous thrombosis
+ventricular dysfunction
+ventricular dysfunction, left
+ventricular fibrillation
+vestibular diseases
+vision disorders
+vomiting
+wasting syndrome
+weight gain
+xanthomatosis
+abortion, spontaneous
+bone neoplasms
+brain infarction
+congenital diaphragmatic hernia
+eosinophilia
+exanthema
+fanconi syndrome
+fibromatosis, aggressive
+gastrointestinal neoplasms
+gastrointestinal stromal tumors
+glioma
+glomerulonephritis
+hearing loss, sensorineural
+hepatitis
+hepatitis, autoimmune
+hypophosphatemia
+leukemia, experimental
+leukemia, myelogenous, chronic, bcr-abl positive
+leukemia, myeloid
+lichenoid eruptions
+liver cirrhosis
+liver failure, acute
+muscle cramp
+muscular dystrophy, animal
+neoplasms, hormone-dependent
+neuroectodermal tumors, primitive, peripheral
+osteolysis
+osteopetrosis
+peripheral nervous system diseases
+precursor cell lymphoblastic leukemia-lymphoma
+purpura
+renal insufficiency
+small cell lung carcinoma
+stomach neoplasms
+thrombocythemia, essential
+thyroid neoplasms
+vasculitis
+aberrant crypt foci
+angina pectoris
+anoxia
+antisocial personality disorder
+aortic aneurysm
+burns
+cerebrovascular disorders
+child development disorders, pervasive
+colonic neoplasms
+coronary disease
+cryptorchidism
+depressive disorder, major
+diabetes mellitus, experimental
+diabetic angiopathies
+diabetic neuropathies
+dyskinesia, drug-induced
+dysthymic disorder
+dystocia
+epilepsies, myoclonic
+erectile dysfunction
+fetal nutrition disorders
+firesetting behavior
+glioblastoma
+glomerulosclerosis, focal segmental
+hiv wasting syndrome
+hyperandrogenism
+hypercholesterolemia
+hyperinsulinism
+hyperphagia
+hypoglycemia
+hypogonadism
+hypopituitarism
+hypotension
+impulse control disorders
+klinefelter syndrome
+leydig cell tumor
+lithiasis
+lymphoma, non-hodgkin
+malaria
+melanoma, experimental
+mental disorders
+metabolic syndrome x
+muscular atrophy
+nephritis, interstitial
+non-alcoholic fatty liver disease
+obesity
+plaque, atherosclerotic
+polycythemia
+reperfusion injury
+salivary gland neoplasms
+sebaceous gland neoplasms
+sexual dysfunction, physiological
+sexual dysfunctions, psychological
+shock, hemorrhagic
+shock, traumatic
+sleep apnea, obstructive
+splenic diseases
+stomach diseases
+varicocele
+vascular calcification
+virilism
+voice disorders
+abdomen, acute
+abdominal pain
+abruptio placentae
+accelerated idioventricular rhythm
+acid-base imbalance
+acidosis
+acute coronary syndrome
+agoraphobia
+agranulocytosis
+aids dementia complex
+akathisia, drug-induced
+alveolitis, extrinsic allergic
+anaphylaxis
+aneurysm
+aneurysm, dissecting
+aneurysm, ruptured
+angina, unstable
+anisocoria
+anterior spinal artery syndrome
+anterior wall myocardial infarction
+anti-glomerular basement membrane disease
+anuria
+aortic diseases
+aortic rupture
+aphasia
+apnea
+arthralgia
+arthritis
+asthma
+athetosis
+atresia of small intestine
+atrial fibrillation
+atrial flutter
+atrioventricular block
+auditory perceptual disorders
+autonomic nervous system diseases
+basal ganglia cerebrovascular disease
+basal ganglia diseases
+basal ganglia hemorrhage
+bipolar disorder
+blindness
+blood platelet disorders
+botulism
+bradycardia
+brain damage, chronic
+brain stem infarctions
+bronchial diseases
+bronchial spasm
+bronchiolitis obliterans
+brown-sequard syndrome
+bundle-branch block
+cardiac complexes, premature
+cardiomyopathy, dilated
+carotid artery, internal, dissection
+catatonia
+cellulitis
+central nervous system cysts
+central nervous system diseases
+cerebellar diseases
+chest pain
+chills
+chorea
+churg-strauss syndrome
+cluster headache
+colitis, ischemic
+colonic diseases
+color vision defects
+coma
+compartment syndromes
+confusion
+constriction, pathologic
+coronary aneurysm
+coronary stenosis
+coronary thrombosis
+coronary vasospasm
+cough
+cranial nerve diseases
+cryoglobulinemia
+death, sudden
+death, sudden, cardiac
+deglutition disorders
+delirium
+demyelinating diseases
+developmental disabilities
+diabetes insipidus
+disorders of excessive somnolence
+drug eruptions
+dyspnea
+dystonia
+emphysema
+encephalomalacia
+encephalomyelitis, acute disseminated
+endarteritis
+endocarditis
+endophthalmitis
+enteritis
+enterocolitis
+epilepsy, tonic-clonic
+epistaxis
+exophthalmos
+eye hemorrhage
+eyelid diseases
+facial injuries
+facial pain
+fetal distress
+fetal membranes, premature rupture
+fever
+fibromuscular dysplasia
+finger injuries
+fistula
+flank pain
+gastroenteritis
+gastrointestinal hemorrhage
+gastroschisis
+gingival diseases
+gingival recession
+granuloma
+granuloma, foreign-body
+granuloma, lethal midline
+hallucinations
+hearing loss
+hearing loss, bilateral
+hearing loss, sudden
+heart arrest
+heart rupture, post-infarction
+heart septal defects, atrial
+heart valve diseases
+heat stroke
+helicobacter infections
+hematoma
+hematoma, epidural, spinal
+hematoma, subdural
+hematoma, subdural, acute
+hemolytic-uremic syndrome
+hemoperitoneum
+hepatic encephalopathy
+heroin dependence
+hiv infections
+hydranencephaly
+hyperammonemia
+hypercalcemia
+hyperkalemia
+hypertension, pulmonary
+hypertensive encephalopathy
+hypesthesia
+hyphema
+hypokalemia
+hypokalemic periodic paralysis
+hypothermia
+hypothyroidism
+hypoxia, brain
+hypoxia-ischemia, brain
+iliac aneurysm
+infant, premature, diseases
+infarction
+infarction, posterior cerebral artery
+infection
+intestinal obstruction
+intracranial arterial diseases
+intracranial thrombosis
+intraoperative complications
+intussusception
+ischemia
+ischemic attack, transient
+jaundice
+keratitis
+kidney failure, chronic
+kidney tubular necrosis, acute
+kleeblattschaedel syndrome
+labyrinth diseases
+lacrimal duct obstruction
+language development disorders
+laryngeal diseases
+laryngeal edema
+lateral medullary syndrome
+lethargy
+leukocytosis
+leukoencephalopathies
+leukoencephalopathy, progressive multifocal
+limb deformities, congenital
+lip diseases
+liver failure
+long qt syndrome
+low back pain
+lung diseases, interstitial
+magnesium deficiency
+meconium aspiration syndrome
+mediastinal emphysema
+meningitis
+mental disorders diagnosed in childhood
+mesenteric vascular disease
+mesenteric vascular occlusion
+migraine disorders
+mitral valve insufficiency
+mobius syndrome
+mononeuropathies
+motor skills disorders
+mouth abnormalities
+mouth diseases
+moyamoya disease
+multiple organ failure
+muscle hypertonia
+muscle rigidity
+muscle spasticity
+muscle weakness
+mutism
+myasthenia gravis
+mydriasis
+myocardial stunning
+nasal obstruction
+neonatal abstinence syndrome
+neoplasms, fibrous tissue
+neurobehavioral manifestations
+neuroleptic malignant syndrome
+neuromuscular diseases
+neutropenia
+nose deformities, acquired
+nose diseases
+nose neoplasms
+obsessive-compulsive disorder
+obstetric labor, premature
+ocular motility disorders
+ophthalmoplegia
+optic nerve diseases
+oral fistula
+orbital cellulitis
+orbital diseases
+osteomyelitis
+osteonecrosis
+pancreatitis
+panniculitis
+papilledema
+paranasal sinus diseases
+paranoid disorders
+paresis
+paresthesia
+peptic ulcer perforation
+periodontal diseases
+peripheral vascular diseases
+peritonitis
+personality disorders
+photosensitivity disorders
+placenta accreta
+pneumopericardium
+pneumothorax
+poland syndrome
+postoperative complications
+pregnancy complications
+pregnancy complications, cardiovascular
+pregnancy complications, hematologic
+priapism
+psychomotor agitation
+psychomotor disorders
+psychoses, substance-induced
+puerperal disorders
+pulmonary arterial hypertension
+pulmonary edema
+pulmonary emphysema
+pulmonary infarction
+pupil disorders
+purpura, schoenlein-henoch
+purpura, thrombotic thrombocytopenic
+putaminal hemorrhage
+pyoderma gangrenosum
+quadriplegia
+raynaud disease
+reactive attachment disorder
+reflex sympathetic dystrophy
+renal artery obstruction
+respiration disorders
+respiratory distress syndrome, newborn
+respiratory insufficiency
+respiratory tract fistula
+retinal artery occlusion
+retinal diseases
+retroperitoneal fibrosis
+rhabdomyolysis
+rhinitis
+schizophrenia
+scleroderma, systemic
+scotoma
+self mutilation
+sensation disorders
+shock
+shock, cardiogenic
+sialometaplasia, necrotizing
+sialorrhea
+sinoatrial block
+sinus arrest, cardiac
+sinusitis
+skin diseases, vascular
+sleep deprivation
+sleep disorders
+spasm
+speech disorders
+spinal cord ischemia
+splenic infarction
+stereotypic movement disorder
+stomach ulcer
+stomatognathic diseases
+strabismus
+subarachnoid hemorrhage
+subcutaneous emphysema
+sudden infant death
+syncope
+syphilis, congenital
+systemic vasculitis
+tachycardia, sinus
+tachycardia, supraventricular
+takotsubo cardiomyopathy
+temporomandibular joint disorders
+temporomandibular joint dysfunction syndrome
+thrombocytopenia
+thrombocytosis
+tic disorders
+tooth erosion
+torticollis
+tremor
+trichotillomania
+ulcer
+unconsciousness
+upper extremity deformities, congenital
+urinary incontinence
+uterine rupture
+vascular diseases
+vascular headaches
+vasculitis, central nervous system
+venous insufficiency
+vertebrobasilar insufficiency
+wegener granulomatosis
+xerostomia
+cerebral palsy
+dementia
+mercury poisoning, nervous system
+nephrosis
+neurologic manifestations
+trauma, nervous system
+adenocarcinoma of lung
+adenocarcinoma, papillary
+adenoma
+adenoma, bile duct
+ageusia
+agricultural workers&apos; diseases
+alcohol withdrawal delirium
+alzheimer disease
+amblyopia
+anemia, aplastic
+anemia, hemolytic, autoimmune
+anemia, megaloblastic
+anemia, sickle cell
+anemia, sideroblastic
+anencephaly
+anus neoplasms
+aortic aneurysm, abdominal
+arthritis, psoriatic
+astrocytoma
+brain neoplasms
+carcinoma, renal cell
+carcinoma, squamous cell
+cataract
+central nervous system neoplasms
+cerebellar ataxia
+chromosome breakage
+colorectal neoplasms
+corneal opacity
+coronary restenosis
+diabetes mellitus
+ectodermal dysplasia
+endometrial hyperplasia
+esophageal achalasia
+esophageal neoplasms
+exfoliation syndrome
+fatty liver, alcoholic
+fibrosarcoma
+flushing
+gastritis
+gastrointestinal diseases
+genital neoplasms, male
+genomic instability
+glaucoma
+glycosylphosphatidylinositol deficiency
+hemangioma
+hematologic diseases
+hepatoblastoma
+histiocytoma, malignant fibrous
+hiv seropositivity
+hydrocephalus
+hyperhomocysteinemia
+laryngeal neoplasms
+leukemia
+leukemia, myeloid, acute
+leukemic infiltration
+lice infestations
+lower extremity deformities, congenital
+lymphoma, b-cell
+lymphoma, t-cell
+lymphoproliferative disorders
+malaria, falciparum
+maxillofacial abnormalities
+meningioma
+microsatellite instability
+mouth neoplasms
+mucositis
+multiple chemical sensitivity
+muscular diseases
+nasopharyngeal neoplasms
+neurilemmoma
+neurodegenerative diseases
+occupational diseases
+oligodendroglioma
+osteomalacia
+osteoporosis
+papilloma
+pharyngeal neoplasms
+polyneuropathies
+psoriasis
+psychophysiologic disorders
+retinal degeneration
+retinoblastoma
+scabies
+spinal cord diseases
+spinal dysraphism
+sprue, tropical
+thymus neoplasms
+tongue neoplasms
+toxoplasmosis
+uremia
+wilms tumor
+abdominal neoplasms
+acidosis, lactic
+acidosis, respiratory
+acrodynia
+acute disease
+acute lung injury
+adenoma, islet cell
+adrenal gland neoplasms
+alcohol-related disorders
+alkalosis
+amnesia, retrograde
+anisometropia
+apraxias
+arnold-chiari malformation
+arteritis
+ascites
+astigmatism
+ataxia telangiectasia
+back pain
+blindness, cortical
+bone diseases, metabolic
+brain diseases, metabolic
+breast neoplasms, male
+camptocormia
+carcinoma, ductal, breast
+carcinoma, non-small-cell lung
+carcinoma, pancreatic ductal
+carcinoma, transitional cell
+cardiovirus infections
+cartilage diseases
+cecal diseases
+cholecystitis
+cholelithiasis
+choroid diseases
+conduct disorder
+consciousness disorders
+corneal diseases
+craniosynostoses
+cystic fibrosis
+dandy-walker syndrome
+dermatitis
+dermatitis, allergic contact
+dermatitis, atopic
+dermatitis, irritant
+dermatofibrosarcoma
+dermatomyositis
+diabetes complications
+diabetic cardiomyopathies
+diabetic ketoacidosis
+diabetic retinopathy
+double outlet right ventricle
+drug overdose
+dysarthria
+dyskinesias
+dyspareunia
+dysphonia
+ear diseases
+embolism
+embolism, fat
+endocardial cushion defects
+endocrine system diseases
+enuresis
+epidermal necrolysis, toxic
+epilepsies, partial
+epilepsy, complex partial
+epilepsy, generalized
+epilepsy, reflex
+epilepsy, rolandic
+epilepsy, temporal lobe
+erythema multiforme
+esophagitis, peptic
+essential tremor
+female urogenital diseases
+fetal resorption
+fibroadenoma
+fibromatosis, abdominal
+gait ataxia
+gait disorders, neurologic
+glaucoma, angle-closure
+glomerulonephritis, membranous
+gout
+granulosa cell tumor of the ovary
+hair diseases
+hemorrhagic disorders
+hepatitis, chronic
+hernia
+hyperemia
+hypergammaglobulinemia
+hyperlipidemia, familial combined
+hyperlipoproteinemias
+hyperlipoproteinemia type ii
+hyperlipoproteinemia type iv
+hyperoxaluria
+hypersensitivity
+hypertelorism
+hyperuricemia
+hyponatremia
+hypoplastic left heart syndrome
+immunoproliferative disorders
+inappropriate adh syndrome
+influenza, human
+intellectual disability
+intracranial embolism
+intracranial hypertension
+keloid
+ketosis
+leukopenia
+lipid metabolism disorders
+lipidoses
+lipomyelomeningocele
+lupus erythematosus, cutaneous
+lymphangiectasis, intestinal
+lymphoma, t-cell, cutaneous
+macular edema
+malformations of cortical development
+massive hepatic necrosis
+melanoma, amelanotic
+melas syndrome
+meningocele
+meningomyelocele
+micrognathism
+migraine with aura
+migraine without aura
+mitochondrial diseases
+mitochondrial myopathies
+mixed tumor, mullerian
+multiple myeloma
+muscle hypotonia
+musculoskeletal diseases
+myelodysplastic syndromes
+myoclonic epilepsy, juvenile
+myoglobinuria
+myositis
+neoplasm recurrence, local
+nephrosis, lipoid
+nephrotic syndrome
+nerve sheath neoplasms
+neurogenic bowel
+neurogenic inflammation
+neuromuscular manifestations
+niemann-pick disease, type c
+nocturnal enuresis
+nystagmus, congenital
+nystagmus, pathologic
+optic neuritis
+pain, postoperative
+pancreatic pseudocyst
+pancytopenia
+panniculitis, peritoneal
+papillomavirus infections
+parkinson disease, secondary
+parkinsonian disorders
+pericarditis
+pheochromocytoma
+pleural effusion
+pleural neoplasms
+poems syndrome
+polymyositis
+porphyria, acute intermittent
+postoperative hemorrhage
+protein deficiency
+pseudolymphoma
+pseudotumor cerebri
+red-cell aplasia, pure
+renal hypouricemia
+retinitis pigmentosa
+reye syndrome
+rhabdomyosarcoma
+schistosomiasis japonica
+schistosomiasis mansoni
+scleroderma, localized
+seizures, febrile
+signs and symptoms, digestive
+skin abnormalities
+spasms, infantile
+spina bifida cystica
+spina bifida occulta
+spinal cord injuries
+stevens-johnson syndrome
+stress disorders, post-traumatic
+stupor
+stuttering
+syndrome
+systemic carnitine deficiency
+tension-type headache
+tinnitus
+tongue diseases
+translocation, genetic
+transposition of great vessels
+twins, conjoined
+unverricht-lundborg syndrome
+urinary bladder diseases
+urinary bladder, neurogenic
+uterine prolapse
+valproic acid antenatal infection
+vasculitis, leukocytoclastic, cutaneous
+abducens nerve diseases
+alcohol withdrawal seizures
+anemia, hypochromic
+arthritis, gouty
+arthritis, rheumatoid
+azotemia
+behcet syndrome
+calcinosis
+cardiomyopathy, alcoholic
+central nervous system infections
+cholangitis
+dermatitis, exfoliative
+duodenal ulcer
+end stage liver disease
+extravasation of diagnostic and therapeutic materials
+facial paralysis
+fibromyalgia
+gingival hyperplasia
+gingival hypertrophy
+gingival overgrowth
+gingivitis
+graft vs host disease
+guillain-barre syndrome
+hemoglobinuria, paroxysmal
+hemostatic disorders
+hepatic veno-occlusive disease
+hepatitis b, chronic
+hepatitis c
+hyperbilirubinemia
+hypertension, renal
+hypertrichosis
+hypervitaminosis a
+immune suppression
+jaundice, neonatal
+keratoconjunctivitis sicca
+kidney calculi
+metabolic diseases
+metal metabolism, inborn errors
+monosomy
+multicystic dysplastic kidney
+myoclonic epilepsies, progressive
+nails, malformed
+nephrocalcinosis
+nephrosis, congenital
+neuralgia
+oral ulcer
+organophosphate poisoning
+osteosarcoma
+pain, intractable
+pancreatitis, chronic
+pemphigus
+polyploidy
+posterior leukoencephalopathy syndrome
+precursor t-cell lymphoblastic leukemia-lymphoma
+premenstrual syndrome
+protozoan infections, animal
+purpura, thrombocytopenic, idiopathic
+recurrence
+retinal vein occlusion
+scleroderma, diffuse
+serotonin syndrome
+spermatic cord torsion
+stomatitis, aphthous
+sturge-weber syndrome
+thrombotic microangiopathies
+thyroid cancer, follicular
+tourette syndrome
+trisomy
+urolithiasis
+uveitis
+uveitis, posterior
+vacuolar myopathy
+vascular system injuries
+vitamin b 12 deficiency
+xerophthalmia
+abnormalities, severe teratoid
+airway obstruction
+alcohol-induced disorders
+bile duct diseases
+biliary tract diseases
+cardiac output, high
+crohn disease
+drug-induced liver injury, chronic
+headache disorders
+hyperesthesia
+hyperventilation
+hypoalbuminemia
+hypovolemia
+kidney papillary necrosis
+male urogenital diseases
+methemoglobinemia
+oliguria
+osteoarthritis
+postoperative nausea and vomiting
+purpura fulminans
+respiratory hypersensitivity
+respiratory tract infections
+spondylosis
+ureteral neoplasms
+urologic diseases
+urticaria
+abscess
+accutane embryopathy
+acidosis, renal tubular
+acneiform eruptions
+acrodermatitis
+acth deficiency, isolated
+actinomycetales infections
+acute-phase reaction
+adams-stokes syndrome
+adenocarcinoma, bronchiolo-alveolar
+adenoviridae infections
+adrenal cortex diseases
+adrenal gland diseases
+adrenal hyperplasia, congenital
+adrenocortical adenoma
+adrenocortical carcinoma
+affective disorders, psychotic
+aids-related opportunistic infections
+akinetic mutism
+alopecia areata
+altitude sickness
+amphetamine-related disorders
+amyopathic dermatomyositis
+amyotrophic lateral sclerosis
+anemia, hypoplastic, congenital
+anemia, refractory, with excess of blasts
+angioedemas, hereditary
+anorexia nervosa
+anotia
+anti-neutrophil cytoplasmic antibody-associated vasculitis
+aortic valve stenosis
+aortitis
+aphasia, broca
+arsenic poisoning
+arthritis, juvenile rheumatoid
+aspergillosis
+asthenia
+atypical hemolytic uremic syndrome
+azoospermia
+bacteremia
+bacterial infections
+berylliosis
+biliary tract neoplasms
+blast crisis
+blastomycosis
+blepharospasm
+blue toe syndrome
+bone diseases, infectious
+bone marrow neoplasms
+brachial plexus neuritis
+brain abscess
+brain hemorrhage, traumatic
+bronchial neoplasms
+bronchitis
+bronchitis, chronic
+bronchopneumonia
+bronchopulmonary dysplasia
+burkitt lymphoma
+cachexia
+candidiasis
+candidiasis, chronic mucocutaneous
+candidiasis, invasive
+candidiasis, oral
+capillary leak syndrome
+carcinoma, bronchogenic
+carcinoma, ehrlich tumor
+carcinoma, large cell
+carcinoma, lewis lung
+carcinoma, lobular
+carcinoma, small cell
+carcinoma, squamous cell of head and neck
+carcinosarcoma
+cardiac output, low
+cardiac tamponade
+carotid artery injuries
+carotid stenosis
+cataplexy
+cavernous sinus thrombosis
+celiac disease
+central nervous system fungal infections
+cerebral hemorrhage, traumatic
+cheilitis
+cholangitis, sclerosing
+chorioamnionitis
+cicatrix
+cochlear diseases
+colitis, ulcerative
+community-acquired infections
+conjunctival diseases
+conjunctivitis
+constipation
+contusions
+corneal ulcer
+craniocerebral trauma
+cross infection
+cryptococcosis
+cushing syndrome
+cyanosis
+cysticercosis
+cytochrome-c oxidase deficiency
+deafness
+deficiency diseases
+dehydration
+delayed graft function
+dental caries
+dermatitis, contact
+diabetes insipidus, nephrogenic
+diabetic foot
+diffuse axonal injury
+diplopia
+discitis
+disease progression
+dissociative disorders
+dog diseases
+dysgerminoma
+echinococcosis
+eczema
+encephalitis
+endocarditis, bacterial
+endocarditis, subacute bacterial
+endolymphatic hydrops
+endomyocardial fibrosis
+endotoxemia
+enterobacteriaceae infections
+enterocolitis, necrotizing
+enterocolitis, neutropenic
+enterocolitis, pseudomembranous
+eosinophilia-myalgia syndrome
+epidural abscess
+erythema
+erythema nodosum
+esophageal diseases
+esophagitis
+eye injuries
+facial dermatoses
+facies
+fallopian tube neoplasms
+fasciculation
+fat necrosis
+fibrocystic breast disease
+fibroma
+focal nodular hyperplasia
+foreign-body reaction
+gas poisoning
+genital neoplasms, female
+germinoma
+giant cell arteritis
+glaucoma, open-angle
+gliosis
+glomerulonephritis, iga
+glomerulonephritis, membranoproliferative
+goiter
+gonadal dysgenesis
+gram-negative bacterial infections
+gram-positive bacterial infections
+granuloma, laryngeal
+granuloma, respiratory tract
+granulomatous allergic angiitis
+granulosa cell tumor
+graves disease
+graves ophthalmopathy
+hand-foot syndrome
+head and neck neoplasms
+hearing loss, cisplatin-induced, susceptibility to
+hearing loss, conductive
+hearing loss, high-frequency
+hearing loss, unilateral
+heart block
+heart injuries
+hemangioendothelioma
+hemangioma, cavernous
+hemiplegia
+hemoglobinuria
+hemoptysis
+hepatic insufficiency
+hepatitis, animal
+hepatitis b
+hepatolenticular degeneration
+hereditary angioedema types i and ii
+hernia, diaphragmatic
+hiccup
+hidradenitis suppurativa
+high serum cholesterol, familial
+histiocytic disorders, malignant
+histiocytosis
+histiocytosis, langerhans-cell
+histoplasmosis
+hoarseness
+hodgkin disease
+huntington disease
+hyperaldosteronism
+hypercalciuria
+hypereosinophilic syndrome
+hyperpigmentation
+hypersensitivity, immediate
+hypersplenism
+hypertension, portal
+hypertrophy, right ventricular
+hypoalphalipoproteinemias
+hypomagnesemia 2, renal
+hypomagnesemia primary
+hypoproteinemia
+hypotension, orthostatic
+ichthyosis
+idiopathic intracranial hypertension with papilledema
+ileal diseases
+ileus
+infarction, middle cerebral artery
+inflammatory bowel diseases
+intervertebral disc degeneration
+intestinal polyps
+intracranial aneurysm
+iridocyclitis
+iron metabolism disorders
+isotretinoin embryopathy like syndrome
+jaw diseases
+joint diseases
+kashin-beck disease
+kidney cortex necrosis
+kleine-levin syndrome
+lacrimal apparatus diseases
+laryngostenosis
+latent tuberculosis
+leiomyosarcoma
+leishmaniasis
+leishmaniasis, cutaneous
+leishmaniasis, mucocutaneous
+leishmaniasis, visceral
+leprosy, lepromatous
+leukemia, lymphocytic, chronic, b-cell
+leukemia, lymphoid
+leukemia, myelomonocytic, chronic
+leukemia, promyelocytic, acute
+leukomalacia, periventricular
+leukorrhea
+lichen planus
+lipodystrophy
+liver abscess, amebic
+liver cirrhosis, biliary
+liver diseases, alcoholic
+lung diseases, fungal
+lung diseases, obstructive
+lupus nephritis
+lymphatic metastasis
+lymphedema
+lymphocele
+lymphoma, aids-related
+lymphoma, large b-cell, diffuse
+lymphoma, t-cell, peripheral
+macrostomia
+malnutrition
+mastitis
+mastodynia
+maxillary sinus neoplasms
+mediastinitis
+meningeal neoplasms
+meningitis, aseptic
+meningitis, bacterial
+meningitis, cryptococcal
+meningitis, listeria
+meningitis, pneumococcal
+meningoencephalitis
+menkes kinky hair syndrome
+menorrhagia
+menstruation disturbances
+microphthalmos
+microstomia
+microvascular angina
+miller fisher syndrome
+miosis
+motion sickness
+motor neuron disease
+multiple pulmonary nodules
+multiple sclerosis
+multiple sclerosis, chronic progressive
+mushroom poisoning
+mycobacterium infections
+mycobacterium infections, nontuberculous
+mycoses
+myelinolysis, central pontine
+myopia
+myositis, inclusion body
+myxedema
+narcolepsy
+neointima
+neoplasms, germ cell and embryonal
+neoplasms, glandular and epithelial
+neoplasms, unknown primary
+nephrolithiasis
+neurasthenia
+neuritis
+neuroblastoma
+neurocysticercosis
+neuroectodermal tumors
+neuromuscular junction diseases
+neurotic disorders
+neutrophil chemotactic response
+night blindness
+nocardiosis
+nonseminomatous germ cell tumor
+occipital horn syndrome
+ocular hypertension
+ocular hypotension
+onychomycosis
+opportunistic infections
+osteosclerosis
+ovarian epithelial cancer
+pancreatic diseases
+panniculitis, lupus erythematosus
+paraganglioma, extra-adrenal
+paraparesis, tropical spastic
+paraproteinemias
+paronychia
+pellagra
+pemphigoid, bullous
+penile diseases
+perceptual disorders
+periodontitis
+peripheral arterial disease
+phlebitis
+pica
+picornaviridae infections
+pituitary apoplexy
+placental insufficiency
+plasmacytoma
+pleural diseases
+pneumonia, bacterial
+pneumonia, pneumococcal
+pneumonia, staphylococcal
+polyarteritis nodosa
+polycystic kidney, autosomal dominant
+polycystic kidney diseases
+polycythemia vera
+polyomavirus infections
+polyradiculoneuropathy, chronic inflammatory demyelinating
+poultry diseases
+precursor b-cell lymphoblastic leukemia-lymphoma
+pre-excitation syndromes
+pregnancy complications, infectious
+primary myelofibrosis
+prion diseases
+proctitis
+protein c deficiency
+pseudomonas infections
+psoas abscess
+pulmonary disease, chronic obstructive
+pulmonary fibrosis
+pulpitis
+pyomyositis
+rectal neoplasms
+respiratory sounds
+retroperitoneal liposarcoma
+rhabdoviridae infections
+rheumatic diseases
+rheumatic fever
+rippling muscle disease, 1
+rosacea
+sacroiliitis
+sagittal sinus thrombosis
+salmonella infections, animal
+sarcoidosis
+sarcoma, ewing
+sarcoma, synovial
+sarcopenia
+sciatic neuropathy
+scleral diseases
+scleritis
+scleromyxedema
+sclerosis
+scrapie
+scurvy
+sepsis
+shock, septic
+shoulder pain
+shwartzman phenomenon
+sjogren&apos;s syndrome
+skin diseases, bacterial
+sleep apnea, central
+somatoform disorders
+spinocerebellar degenerations
+staphylococcal infections
+staphylococcal skin infections
+starvation
+status asthmaticus
+stiff-person syndrome
+stomatitis
+striae distensae
+striatonigral degeneration
+surgical wound dehiscence
+syncope, vasovagal
+tachycardia, atrioventricular nodal reentry
+tachycardia, reciprocating
+telangiectasis
+teratoma
+testicular neoplasms
+thrombocytopenic purpura, autoimmune
+thyrotoxicosis
+tinea versicolor
+tissue adhesions
+tooth injuries
+tooth loss
+toxoplasmosis, cerebral
+tracheal diseases
+tracheal neoplasms
+trypanosomiasis
+tuberculosis
+tuberculosis, central nervous system
+tuberculosis, gastrointestinal
+tuberculosis, lymph node
+tuberculosis, meningeal
+tuberculosis, multidrug-resistant
+tuberculosis, pleural
+tuberculosis, pulmonary
+tuberculosis, spinal
+tuberous sclerosis
+urethral neoplasms
+urethritis
+urinary tract infections
+urogenital neoplasms
+urologic neoplasms
+uveomeningoencephalitic syndrome
+vaginal neoplasms
+ventricular flutter
+ventricular outflow obstruction
+ventricular premature complexes
+ventricular remodeling
+vertigo
+viremia
+virus diseases
+vitamin b 6 deficiency
+vitiligo
+vocal cord paralysis
+vulvar diseases
+waldenstrom macroglobulinemia
+water-electrolyte imbalance
+wolff-parkinson-white syndrome
+wounds and injuries
+wounds, penetrating
+arrest of spermatogenesis
+arthritis, infectious
+chlamydia infections
+glycosuria, renal
+renal aminoacidurias
+angina pectoris, variant
+hemangiosarcoma
+leukemia, erythroblastic, acute
+leukostasis
+lipoma
+liposarcoma
+neoplasms, adipose tissue
+peritoneal fibrosis
+persistent fetal circulation syndrome
+splenic neoplasms
+vascular neoplasms
+coloboma
+corneal neovascularization
+fetal weight
+hereditary sensory and motor neuropathy
+muscular atrophy, spinal
+nervous system neoplasms
+respiratory tract diseases
+tobacco use disorder
+achalasia addisonianism alacrimia syndrome
+amyloidosis
+anus, imperforate
+bladder exstrophy
+blepharoptosis
+blister
+cheyne-stokes respiration
+cholestasis, extrahepatic
+conjunctivitis, allergic
+cryptogenic organizing pneumonia
+cutis marmorata telangiectatica congenita
+digestive system abnormalities
+down syndrome
+eclampsia
+endocrine gland neoplasms
+eosinophilic granuloma
+epidermolysis bullosa
+epilepsia partialis continua
+fatigue syndrome, chronic
+fecal impaction
+fetal hydantoin syndrome
+foot deformities, congenital
+ganglioneuroblastoma
+hand deformities, congenital
+hernia, umbilical
+holoprosencephaly
+hyperhidrosis
+hyperparathyroidism, secondary
+hypopigmentation
+iga deficiency
+immunoblastic lymphadenopathy
+isaacs syndrome
+lymphocytosis
+median neuropathy
+megacolon
+mesenchymoma
+mucocutaneous lymph node syndrome
+myotonia congenita
+myotonic dystrophy
+neuroaxonal dystrophies
+neuroectodermal tumor, melanotic
+neuroectodermal tumors, primitive
+ornithine carbamoyltransferase deficiency disease
+peroneal neuropathies
+polydactyly
+pregnancy, prolonged
+reflex, babinski
+serum sickness
+skin diseases, papulosquamous
+systemic necrotizing angiitis
+tachycardia, ectopic junctional
+thymus hyperplasia
+tibial neuropathy
+trigeminal neuralgia
+ulnar neuropathies
+vitamin d deficiency
+cryptosporidiosis
+subdural effusion
+acquired immunodeficiency syndrome
+adrenal cortex neoplasms
+alstrom syndrome
+brucellosis
+carotid artery diseases
+corynebacterium infections
+delayed emergence from anesthesia
+dystonic disorders
+leprosy
+leprosy, borderline
+leprosy, multibacillary
+leprosy, tuberculoid
+lipodystrophy, familial partial
+meningitis, meningococcal
+meningococcal infections
+mycobacterium avium-intracellulare infection
+panuveitis
+phosphorus metabolism disorders
+plant poisoning
+pleurisy
+retinal vasculitis
+tooth demineralization
+tuberculosis, renal
+agammaglobulinemia
+alcoholic intoxication
+alcohol-induced disorders, nervous system
+alexander disease
+amnesia, transient global
+amyotrophic lateral sclerosis 1
+anophthalmos
+aortopulmonary septal defect
+aphonia
+arthropathy, neurogenic
+body temperature changes
+body weight
+bone marrow failure syndromes
+bulimia
+calculi
+capgras syndrome
+carcinoid tumor
+carcinoma, basal cell
+cardiomyopathy dilated with woolly hair and keratoderma
+chalazion
+cholestasis, intrahepatic of pregnancy
+cholestasis, progressive familial intrahepatic 1
+clubfoot
+congenital hypothyroidism
+conotruncal cardiac defects
+coronary vessel anomalies
+desmoid disease, hereditary
+desmoplastic small round cell tumor
+digestive system diseases
+dilatation, pathologic
+endocardial fibroelastosis
+epididymitis
+epilepsy, benign neonatal
+erythromelalgia
+esophageal and gastric varices
+esophageal atresia
+familial primary gastric lymphoma
+fetal alcohol syndrome
+foot dermatoses
+foot ulcer
+galactorrhea
+hand dermatoses
+headache disorders, primary
+hearing loss, noise-induced
+hematologic neoplasms
+hemosiderosis
+hepatitis, alcoholic
+hepatitis c, chronic
+hepatorenal syndrome
+hydrothorax
+inflammatory breast neoplasms
+irritable bowel syndrome
+lens diseases
+leukemia l1210
+lewy body disease
+liver abscess
+liver cirrhosis, alcoholic
+morphine dependence
+mucocele
+neoplasms, bone tissue
+nephrosclerosis
+neuralgia, postherpetic
+neurodermatitis
+optic atrophy
+optic atrophy, hereditary, leber
+optic neuropathy, ischemic
+pancreatitis, acute necrotizing
+pancreatitis, alcoholic
+paraplegia
+pelvic pain
+peripheral nerve injuries
+phantom limb
+pharyngitis
+phobic disorders
+photophobia
+phyllodes tumor
+polyradiculoneuropathy
+porphyrias
+proctocolitis
+qt interval, variation in
+radiation injuries
+radiculopathy
+rem sleep behavior disorder
+restless legs syndrome
+reticulocytosis
+sarcoma, kaposi
+schizophrenia, paranoid
+schizotypal personality disorder
+serositis
+sick sinus syndrome
+signs and symptoms, respiratory
+sleep bruxism
+soft tissue neoplasms
+somnambulism
+spinal diseases
+spinocerebellar ataxias
+spondylarthropathies
+spondylitis, ankylosing
+succinic semialdehyde dehydrogenase deficiency
+superior vena cava syndrome
+supranuclear palsy, progressive
+sweat gland diseases
+synovitis
+tauopathies
+telangiectasia, hereditary hemorrhagic
+tetralogy of fallot
+thalamic diseases
+thyroiditis
+trochlear nerve diseases
+ureteral diseases
+vacterl association
+vasoplegia
+ventricular dysfunction, right
+vision, low
+vitamin e deficiency
+bulimia nervosa
+ecchymosis
+hematoma, epidural, cranial
+keratoderma, palmoplantar
+marijuana abuse
+tics
+bruxism
+delirium, dementia, amnestic, cognitive disorders
+fragile x syndrome
+lymphadenitis
+multiple sclerosis, relapsing-remitting
+myasthenic syndromes, congenital
+pick disease of the brain
+renal osteodystrophy
+trismus
+paraquat lung
+ataxia with vitamin e deficiency
+bird diseases
+carbon tetrachloride poisoning
+carcinoma, signet ring cell
+eales disease
+muscular dystrophies
+renal insufficiency, chronic
+retinal hemorrhage
+retinopathy of prematurity
+short bowel syndrome
+sigmoid neoplasms
+aortic valve insufficiency
+arrhythmia, sinus
+brugada syndrome
+carpal tunnel syndrome
+darier disease
+dementia, vascular
+herpes simplex
+hyperglycemic hyperosmolar nonketotic coma
+hypernatremia
+hyperparathyroidism
+meniere disease
+mobility limitation
+nocturia
+panophthalmitis
+parathyroid neoplasms
+polyhydramnios
+schizophrenia, catatonic
+seasonal affective disorder
+sexually transmitted diseases
+shellfish poisoning
+sleep disorders, circadian rhythm
+soft tissue infections
+substance abuse, intravenous
+syphilis
+tachypnea
+tooth diseases
+bowen&apos;s disease
+chronic disease
+foot diseases
+hyperkeratosis, epidermolytic
+keratosis
+acantholysis
+acquired ichthyosis
+adenocarcinoma, clear cell
+adenocarcinoma, mucinous
+anodontia
+arteriovenous malformations
+atrial septal defect ostium primum
+barrett esophagus
+carcinoma, adenosquamous
+carcinoma, embryonal
+caudal regression syndrome
+cervical intraepithelial neoplasia
+choriocarcinoma
+colic
+cystadenocarcinoma
+ectropion
+femur head necrosis
+keratosis, actinic
+lentigo
+lichen planus, oral
+metabolism, inborn errors
+paraparesis
+parovarian cyst
+pterygium
+retroperitoneal neoplasms
+teratocarcinoma
+uterine cervical diseases
+uterine cervical dysplasia
+uveal neoplasms
+vaginal discharge
+vitreous hemorrhage
+xeroderma pigmentosum
+acrodermatitis enteropathica
+adenomatous polyps
+arachnoiditis
+ascorbic acid deficiency
+athletic injuries
+bartter syndrome
+blepharitis
+bulbar palsy, progressive
+calcium metabolism disorders
+carcinoma, papillary
+charcot-marie-tooth disease
+charcot-marie-tooth disease, axonal, type 2n
+common cold
+complex regional pain syndromes
+condylomata acuminata
+disease susceptibility
+duodenal neoplasms
+dysgeusia
+escherichia coli infections
+esophageal squamous cell carcinoma
+haemophilus infections
+htlv-i infections
+hypocapnia
+hypoprothrombinemias
+klebsiella infections
+leukemia-lymphoma, adult t-cell
+leukemia, monocytic, acute
+leukemia, t-cell
+meningitis, haemophilus
+mycosis fungoides
+nail diseases
+oculomotor nerve diseases
+oligohydramnios
+osteoarthritis, hip
+otitis media
+paraganglioma
+paraneoplastic syndromes
+parotid neoplasms
+peptic ulcer
+polyradiculopathy
+prinzmetal&apos;s variant angina
+prosthesis-related infections
+proteus infections
+pseudoxanthoma elasticum
+pulmonary eosinophilia
+rectal diseases
+retinitis
+salmonella infections
+sarcoma 180
+scleroderma, limited
+serratia infections
+spondylitis
+suppuration
+thiamine deficiency
+tumor lysis syndrome
+uveal melanoma
+uveitis, anterior
+vestibulocochlear nerve diseases
+vipoma
+argyria
+hyperlysinemias
+insect bites and stings
+ophthalmoplegia, chronic progressive external
+saccharopinuria
+aortic aneurysm, familial thoracic 1
+arthrogryposis
+mptp poisoning
+myxoma
+opioid-related disorders
+osteoporotic fractures
+pressure ulcer
+spinal cord compression
+spinal fractures
+tobacco addiction, susceptibility to
+vulvar neoplasms
+aortic valve disease 1
+bone diseases, endocrine
+cattle diseases
+gamma aminobutyric acid transaminase deficiency
+gastroesophageal reflux
+genetic predisposition to disease
+hyperphosphatemia
+hypoparathyroidism
+hypophosphatemic rickets, x-linked dominant
+osteochondrodysplasias
+parathyroid diseases
+pseudohypoparathyroidism
+rickets
+achlorhydria
+adenomatous polyposis coli
+adrenoleukodystrophy
+alkalosis, respiratory
+amaurosis fugax
+amnesia, anterograde
+anterior compartment syndrome
+antiphospholipid syndrome
+aortic coarctation
+asphyxia
+asthma, aspirin-induced
+asthma, occupational
+brain death
+bronchiolitis
+carcinoma, ductal
+causalgia
+ceroid lipofuscinosis, neuronal 1, infantile
+chickenpox
+choanal atresia
+cholestasis, benign recurrent intrahepatic 1
+chordoma
+chromosomal instability
+contracture
+cystitis, interstitial
+dengue
+diabetes mellitus, lipoatrophic
+distal myopathies
+diverticulum
+duane retraction syndrome
+dysgnathia complex
+dyspnea, paroxysmal
+ectromelia
+embolism and thrombosis
+encephalocele
+ependymoma
+episodic ataxia with nystagmus
+esophageal stenosis
+facial nerve diseases
+factor 8 deficiency, acquired
+familial apoceruloplasmin deficiency
+familial hdl deficiency
+fanconi anemia
+fecal incontinence
+food hypersensitivity
+foot deformities
+gagging
+galactorrhea-hyperprolactinemia
+gastric fistula
+gastroparesis
+gaucher disease
+gerstmann syndrome
+giant lymph node hyperplasia
+glossopharyngeal nerve diseases
+graft occlusion, vascular
+granulomatosis, orofacial
+heartburn
+hemangioblastoma
+hematemesis
+hematoma, subdural, chronic
+hemospermia
+hemothorax
+hernia, hiatal
+histiocytic sarcoma
+hiv-associated lipodystrophy syndrome
+hyperacusis
+hypercholesterolemia, familial
+hyperlipoproteinemia type iii
+hyperlipoproteinemia type v
+hypertension, pregnancy-induced
+hypertensive nephropathy
+hypoglossal nerve diseases
+hypolipoproteinemias
+iatrogenic disease
+intervertebral disc disease
+intervertebral disc displacement
+intestinal atresia
+intestinal pseudo-obstruction
+intracranial hemorrhage, traumatic
+jejunal diseases
+kartagener syndrome
+keratosis, seborrheic
+kidney diseases, cystic
+labor pain
+laryngismus
+laryngopharyngeal reflux
+leukemia, plasma cell
+lupus erythematosus, discoid
+lymphoma, b-cell, marginal zone
+lymphoma, follicular
+lymphoma, mantle-cell
+mastocytosis, systemic
+melena
+meningism
+mesothelioma, malignant
+mild cognitive impairment
+myotonia
+myotonic disorders
+nasopharyngeal carcinoma
+neck pain
+neoplasms, neuroepithelial
+neoplasms, second primary
+neurofibroma, plexiform
+optic nerve glioma
+osteoarthritis, knee
+pemphigoid, benign mucous membrane
+peptic ulcer hemorrhage
+polymyalgia rheumatica
+porokeratosis
+postpartum hemorrhage
+potassium deficiency
+primary sclerosing cholangitis
+prurigo
+pulmonary alveolar proteinosis
+pulmonary valve insufficiency
+renal colic
+respiratory paralysis
+respiratory syncytial virus infections
+retrograde degeneration
+rhinitis, allergic, perennial
+schnitzler syndrome
+sezary syndrome
+silicosis
+sitosterolemia
+sjogren-larsson syndrome
+skin manifestations
+smith-lemli-opitz syndrome
+spastic paraplegia type 5a, recessive
+spinal cord neoplasms
+spinal neoplasms
+spondylolysis
+steatorrhea
+still&apos;s disease, adult-onset
+supratentorial neoplasms
+tangier disease
+testicular hydrocele
+thyroid cancer, medullary
+thyroid cancer, papillary
+toothache
+trigeminal nerve diseases
+truncus arteriosus, persistent
+ureteral calculi
+urinary bladder, overactive
+urinary calculi
+vagus nerve diseases
+vestibular neuronitis
+vlcad deficiency
+wallerian degeneration
+werner syndrome
+wheat hypersensitivity
+zollinger-ellison syndrome
+ciliophora infections
+dermatitis, occupational
+fish diseases
+formaldehyde poisoning
+pneumonia, aspiration
+warts
+anovulation
+harlequin type ichthyosis
+ichthyosis, lamellar
+lamellar ichthyosis, type 2
+pneumoconiosis
+persian gulf syndrome
+sex chromosome aberrations
+leukemia, prolymphocytic, t-cell
+lymphoma, primary effusion
+rhabdomyosarcoma, alveolar
+rhabdomyosarcoma, embryonal
+alveolar bone loss
+carcinoma, medullary
+chondrocalcinosis
+coronavirus infections
+ductus arteriosus, patent
+dyssomnias
+folliculitis
+hydrops fetalis
+hyperamylasemia
+hypoaldosteronism
+ileitis
+intestinal perforation
+mastocytosis
+ossification, heterotopic
+ovarian hyperstimulation syndrome
+paroxysmal hemicrania
+pseudohypoaldosteronism
+pulmonary heart disease
+sciatica
+surfactant metabolism dysfunction, pulmonary, 3
+tendinopathy
+tricuspid valve insufficiency
+acquired hyperostosis syndrome
+cone-rod dystrophy 3
+femoral fractures
+giant cell tumor of bone
+macular degeneration
+macular degeneration, age-related, 2
+retinitis pigmentosa 19
+stargardt disease 1
+aids-related kaposi sarcoma
+aneurysm, false
+language disorders
+neuroendocrine tumors
+onycholysis
+plaque, amyloid
+thyroid cancer, anaplastic
+tonsillar neoplasms
+acute generalized exanthematous pustulosis
+articulation disorders
+connective tissue diseases
+diabetes insipidus primary central
+esotropia
+facial neuralgia
+hemifacial spasm
+intracranial arteriovenous malformations
+leukemoid reaction
+parapsoriasis
+purpura, thrombocytopenic
+radiation injuries, experimental
+tyrosinemias
+water intoxication
+atrial premature complexes
+bidirectional tachycardia
+chagas cardiomyopathy
+cytomegalovirus retinitis
+eye pain
+gonorrhea
+myoclonic dystonia
+pelvic inflammatory disease
+penile induration
+tachycardia, ectopic atrial
+tachycardia, paroxysmal
+5q- syndrome
+achalasia microcephaly
+acquired angioedema
+acrocephalosyndactylia
+acromegaly
+addison disease
+adenocarcinoma, follicular
+adenomatosis, pulmonary
+agnosia
+agraphia
+aids-related complex
+airway remodeling
+alexia, pure
+anemia, pernicious
+anemia, refractory
+angina, stable
+anomia
+anxiety, separation
+aortic aneurysm, thoracic
+apparent mineralocorticoid excess
+apraxia, ideomotor
+arthritis, reactive
+ascaridida infections
+asperger syndrome
+aspergillosis, allergic bronchopulmonary
+bile duct neoplasms
+binge-eating disorder
+blepharophimosis
+borderline personality disorder
+brachial plexus neuropathies
+burning mouth syndrome
+burns, chemical
+bursitis
+campylobacter infections
+cardiomyopathy, restrictive
+cerebellar neoplasms
+cerebral arterial diseases
+cerebral ventriculitis
+cerebrospinal fluid otorrhea
+cerebrospinal fluid rhinorrhea
+child nutrition disorders
+cholecystitis, acute
+choledocholithiasis
+cholestasis, progressive familial intrahepatic 3
+chondrodysplasia punctata
+chondrosarcoma
+choristoma
+choroid hemorrhage
+chromosome 17 deletion
+chromosome 7, monosomy
+chronic pain
+coccidioidomycosis
+coccidiosis
+collagen diseases
+colonic diseases, functional
+colorectal neoplasms, hereditary nonpolyposis
+combat disorders
+corneal dystrophy avellino type
+corneal edema
+corneal perforation
+crest syndrome
+cutaneous fistula
+cytomegalovirus infections
+decerebrate state
+dental plaque
+dermatitis, phototoxic
+dermatomycoses
+dextrocardia
+dirofilariasis
+diurnal enuresis
+diverticulitis, colonic
+dry eye syndromes
+dupuytren contracture
+dystonia musculorum deformans
+edema of the optic disc
+elephantiasis, filarial
+embolism, air
+embolism, cholesterol
+empty sella syndrome
+encephalitis, herpes simplex
+encephalomyelitis
+enterobiasis
+epileptic encephalopathy, lennox-gastaut type
+erythema migrans
+esophageal motility disorders
+euthyroid sick syndromes
+exotropia
+eye neoplasms
+facial nerve injuries
+factitious disorders
+failed back surgery syndrome
+failure to thrive
+familial mediterranean fever
+fasciitis, plantar
+femoral neuropathy
+fetal hypoxia
+fetishism (psychiatric)
+fissure in ano
+flatulence
+fractures, bone
+frontotemporal dementia
+gangrene
+genetic diseases, inborn
+gliosarcoma
+granuloma, plasma cell
+growth hormone-secreting pituitary adenoma
+halitosis
+heart failure, diastolic
+heart failure, systolic
+helminthiasis
+helminthiasis, animal
+hemianopsia
+hemobilia
+hemophilia a
+hepatitis, viral, human
+hepatopulmonary syndrome
+hernia, abdominal
+herpes zoster
+horner syndrome
+horse diseases
+hypercapnia
+hypochondriasis
+hypohidrosis
+hypopharyngeal neoplasms
+hypotrichosis
+hypoventilation
+ichthyosis, x-linked
+inflammatory bowel disease 13
+intermittent claudication
+intestinal fistula
+intestinal polyposis
+intracranial hemorrhage, hypertensive
+intrahepatic cholangiocarcinoma
+iris diseases
+iritis
+juvenile pauciarticular chronic arthritis
+klatskin&apos;s tumor
+kluver-bucy syndrome
+kyphosis
+lambert-eaton myasthenic syndrome
+leg ulcer
+leukemia, b-cell
+leukemia, myeloid, chronic, atypical, bcr-abl negative
+leukemia, myelomonocytic, acute
+leukemia, radiation-induced
+leukoplakia
+leukoplakia, oral
+liddle syndrome
+lipomatosis
+livedo reticularis
+loiasis
+lupus vasculitis, central nervous system
+lyme disease
+lymphohistiocytosis, hemophagocytic
+lymphoma, large-cell, anaplastic
+lymphoma, large-cell, immunoblastic
+lymphomatoid granulomatosis
+macroglossia
+malabsorption syndromes
+malaria, cerebral
+malaria, vivax
+malignant carcinoid syndrome
+malignant mesenchymal tumor
+marfan syndrome
+maxillary diseases
+meige syndrome
+meningeal carcinomatosis
+microscopic polyangiitis
+mitochondrial cytopathy
+mitochondrial encephalopathy
+mitochondrial myopathy with lactic acidosis
+mitral valve stenosis
+monkey diseases
+mucopolysaccharidosis iii
+multiple system atrophy
+muscular dystrophy, duchenne
+mycoplasma infections
+mycotoxicosis
+myelitis
+myelitis, transverse
+myokymia
+nematode infections
+neoplasms, radiation-induced
+nerve compression syndromes
+neuromyelitis optica
+night terrors
+nonpuerperal galactorrhea
+no-reflow phenomenon
+olfactory nerve diseases
+oligomenorrhea
+onchocerciasis
+oral submucous fibrosis
+orbital pseudotumor
+orthostatic intolerance
+osteitis deformans
+otitis media with effusion
+oxyuriasis
+pallor
+paranasal sinus neoplasms
+paraparesis, spastic
+paraphilias
+parasitemia
+parasitic diseases
+pars planitis
+pelvic infection
+pemphigus, benign familial
+penile neoplasms
+pericarditis, constrictive
+persistent vegetative state
+peters anomaly
+pharyngeal diseases
+pityriasis rubra pilaris
+pleural effusion, malignant
+pneumocephalus
+pneumonia, pneumocystis
+polymorphic catecholergic ventricular tachycardia
+post-exercise hypotension
+postural orthostatic tachycardia syndrome
+prader-willi syndrome
+pregnancy complications, neoplastic
+pregnancy, ectopic
+primary ovarian insufficiency
+prostatism
+prosthesis failure
+pseudobulbar palsy
+pulmonary aspergillosis
+pulmonary veno-occlusive disease
+pyelitis
+pyuria
+radial neuropathy
+rapidly progressive glomerulonephritis with pulmonary hemorrhage
+respiratory aspiration
+retinal dysplasia
+retroviridae infections
+rheumatic heart disease
+rheumatoid vasculitis
+rhinitis, allergic, seasonal
+rupture
+rupture, spontaneous
+sarcoma, clear cell
+sarcoma, experimental
+schizophrenia and disorders with psychotic features
+schizophrenia, childhood
+schizophrenia, disorganized
+seminoma
+severe acute respiratory syndrome
+severe cutaneous adverse reaction, susceptibility to
+sialadenitis
+simian acquired immunodeficiency syndrome
+situs inversus
+skin diseases, infectious
+skin diseases, vesiculobullous
+sleep disorders, intrinsic
+sleep-wake transition disorders
+smith-magenis syndrome
+sneezing
+snoring
+spermatogenic failure 6
+sphincter of oddi dysfunction
+spinal cord vascular diseases
+spinal stenosis
+sporotrichosis
+strongyle infections, equine
+sunburn
+sunct syndrome
+sweet syndrome
+syndactyly
+systemic candidiasis
+systemic inflammatory response syndrome
+tendon injuries
+tetanus
+thoracic neoplasms
+thyroiditis, autoimmune
+tinea
+tinea capitis
+tinea pedis
+tonic pupil
+tonsillitis
+tooth abrasion
+tooth discoloration
+toxoplasmosis, congenital
+toxoplasmosis, ocular
+tracheal stenosis
+trichinellosis
+trichostrongyloidiasis
+trophoblastic neoplasms
+trypanosomiasis, african
+tuberculosis, osteoarticular
+typhus, endemic flea-borne
+urethral obstruction
+urinary bladder fistula
+urinary bladder neck obstruction
+urinary incontinence, stress
+uterine cervicitis
+vaginitis
+vesico-ureteral reflux
+vesicovaginal fistula
+vitamin a deficiency
+warfarin syndrome
+wernicke encephalopathy
+afibrinogenemia congenital
+aids-associated nephropathy
+auditory neuropathy
+carcinoma, islet cell
+cholecystolithiasis
+cholestasis, benign recurrent intrahepatic 2
+cholestasis, progressive familial intrahepatic 2
+coproporphyria, hereditary
+extensively drug-resistant tuberculosis
+fanconi like syndrome
+insulinoma
+nocturnal myoclonus syndrome
+polydipsia
+surgical wound infection
+varicose ulcer
+angiomatosis
+dislocations
+epilepsy, post-traumatic
+fascioliasis
+gingival hemorrhage
+goiter, nodular
+immune complex diseases
+intestinal diseases, parasitic
+lung diseases, parasitic
+mite infestations
+speech disturbance - use of faulty phrasing and unrelated words
+strongyloidiasis
+asbestosis
+hyperoxia
+neoplastic processes
+neuritis, autoimmune, experimental
+opisthorchiasis
+diverticulitis
+gallbladder disease 1
+retinal detachment
+anemia, sideroblastic spinocerebellar ataxia
+appendiceal neoplasms
+beta-thalassemia
+foot injuries
+hand injuries
+antley-bixler syndrome phenotype
+candidiasis, cutaneous
+afibrinogenemia
+alpha 1-antitrypsin deficiency
+anemia, hypochromic microcytic
+antithrombin iii deficiency
+asthma, exercise-induced
+blood loss, surgical
+critical illness
+croup
+decompression sickness
+endometritis
+familial cerebral cavernous malformation
+fractures, closed
+friedreich ataxia
+head injuries, closed
+hemochromatosis
+hereditary angioedema type iii
+leriche syndrome
+mixed connective tissue disease
+multi-centric castleman&apos;s disease
+nasal polyps
+optic nerve injuries
+parasomnias
+postphlebitic syndrome
+primary amyloidosis
+primary graft dysfunction
+protozoan infections
+retrobulbar hemorrhage
+sarcoma, myeloid
+subarachnoid hemorrhage, traumatic
+toxemia
+vulvitis
+adjustment disorders
+anus diseases
+body dysmorphic disorders
+bone demineralization, pathologic
+dermatitis herpetiformis
+granuloma annulare
+hashimoto disease
+hyperthyroxinemia
+jaundice, chronic idiopathic
+lead poisoning, nervous system, childhood
+listeriosis
+liver diseases, parasitic
+mitochondrial encephalomyopathies
+neurosyphilis
+pneumocystis infections
+porphyria, variegate
+rectal fistula
+urinary incontinence, urge
+urinoma
+bacteriuria
+balkan nephropathy
+dysentery, bacillary
+salmonella food poisoning
+vibrio infections
+acinetobacter infections
+anthrax
+bordetella infections
+brachydactyly with hypertension
+dent disease
+flavobacteriaceae infections
+glossalgia
+hyperostosis, cortical, congenital
+impotence, vasculogenic
+moraxellaceae infections
+neisseriaceae infections
+obstetric labor complications
+osteitis
+osteoarthropathy, secondary hypertrophic
+otitis
+pulmonary atresia
+rickettsia infections
+typhoid fever
+congenital hyperinsulinism
+diabetes mellitus, permanent neonatal
+diabetes mellitus, transient neonatal, 2
+diabetic coma
+hyperinsulinemic hypoglycemia, familial, 1
+hypoglycemia, leucine-induced
+cantu syndrome
+cardiomyopathy, dilated, 1o
+sleep apnea syndromes
+hemangiopericytoma
+keratoacanthoma
+zellweger syndrome
+carcinoma 256, walker
+homocystinuria
+imerslund-grasbeck syndrome
+subacute combined degeneration
+enterovirus infections
+encephalitis, viral
+herpesviridae infections
+herpes zoster ophthalmicus
+herpes zoster oticus
+malignant hyperthermia
+miyoshi myopathy
+multiple endocrine neoplasia
+nutritional and metabolic diseases
+retinal necrosis syndrome, acute
+temporomandibular ankylosis
+lipid metabolism, inborn errors
+gallbladder disease 4
+murine acquired immunodeficiency syndrome
+post-dural puncture headache
+burkholderia infections
+chylothorax
+kidney disorder involving deposition of calcium and oxalate or phosphate in the renal tubules
+polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract
+refsum disease
+triglyceride storage disease with impaired long-chain fatty acid oxidation
+mastocytosis, cutaneous
+myeloproliferative disorders
+chromosome 22, microdeletion 22 q11
+low tension glaucoma
+filariasis
+leukocyte disorders
+d-bifunctional protein deficiency
+spinal curvatures
+isobutyryl-coa dehydrogenase deficiency
+acyl-coa dehydrogenase family, member 9, deficiency of
+medium chain acyl coa dehydrogenase deficiency
+short chain acyl coa dehydrogenase deficiency
+2-methylbutyryl-coa dehydrogenase deficiency
+neuronal ceroid-lipofuscinoses
+jet lag syndrome
+muscular dystrophy, facioscapulohumeral
+osteochondritis dissecans, short stature, and early-onset osteoarthritis
+spondyloepimetaphyseal dysplasia, aggrecan type
+spondyloepiphyseal dysplasia, kimberley type
+acute chest syndrome
+beta ketothiolase deficiency
+common bile duct diseases
+frostbite
+hemorrhoids
+herpes labialis
+hyaline membrane disease
+hip fractures
+paroxysmal nonkinesigenic dyskinesia
+allanson pantzar mcleod syndrome
+barotrauma
+chilblains
+evan&apos;s syndrome
+eyelid neoplasms
+fasciitis
+glossitis
+glycogen storage disease type v
+hearing loss, mixed conductive-sensorineural
+infarction, anterior cerebral artery
+microvascular complications of diabetes, susceptibility to, 1
+microvascular complications of diabetes, susceptibility to, 3
+parasystole
+pleurodynia, epidemic
+pneumonia, lipid
+pneumonia, viral
+pneumoperitoneum
+polyps
+renal tubular dysgenesis
+segmental glomerulosclerosis
+tietze&apos;s syndrome
+ascariasis
+cat diseases
+flea infestations
+hookworm infections
+hymenolepiasis
+oxyurida infections
+tick infestations
+trichuriasis
+cayler cardiofacial syndrome
+aggressive periodontitis
+chromosome 13q trisomy
+dementia, multi-infarct
+esophageal spasm, diffuse
+fluorosis, dental
+foodborne diseases
+fusariosis
+heart rupture
+hematoma, subdural, spinal
+hyperglycinemia, nonketotic
+job&apos;s syndrome
+myofascial pain syndromes
+neural tube defect, folate-sensitive
+parasitic diseases, animal
+schistosomiasis
+schistosomiasis haematobia
+acrocallosal syndrome
+anemia, diamond-blackfan
+nasopharyngitis
+thalassemia
+puerperal infection
+duodenitis
+pilonidal sinus
+peroxisomal acyl-coa oxidase deficiency
+spondyloenchondrodysplasia
+malonic aciduria
+methylmalonic acidemia
+mental retardation, x-linked 63
+myopathy, congenital, with fiber-type disproportion
+nemaline myopathy 3
+abortion, habitual
+aortic aneurysm, familial thoracic 6
+chylous ascites
+idiopathic pulmonary fibrosis
+leukemia, hairy cell
+leukemia, myelomonocytic, juvenile
+neoplasms, multiple primary
+nephrogenic fibrosing dermopathy
+pancreatic islet cell tumors
+thymoma
+juvenile-onset dystonia
+smoke inhalation injury
+neoplasms, mesothelial
+atrial septal defect 5
+cardiomyopathy, familial hypertrophic, 1
+cardiomyopathy, familial hypertrophic, 11
+refractive errors
+acetabular dysplasia
+deafness, autosomal dominant 20
+cecal neoplasms
+muscle neoplasms
+cardiomyopathy, dilated, 1aa
+hysteria
+takayasu arteritis
+myositis ossificans
+heterotaxy syndrome
+osler-rendu-weber syndrome 2
+aminoacylase 1 deficiency
+aicardi syndrome
+nelson syndrome
+pituitary acth hypersecretion
+severe combined immunodeficiency due to adenosine deaminase deficiency
+cone-rod dystrophy 9
+weill-marchesani syndrome
+weill-marchesani-like syndrome
+ehlers-danlos syndrome, type vii, autosomal recessive
+acromicric dysplasia
+geleophysic dysplasia 1
+ectopia lentis 2, isolated, autosomal recessive
+aicardi-goutieres syndrome
+dyschromatosis symmetrica hereditaria 1
+coenzyme q10 deficiency, primary, 1
+spinocerebellar ataxia, autosomal recessive 9
+hypercalciuria, absorptive, 2
+colonic polyps
+asphyxia neonatorum
+echinococcosis, hepatic
+giardiasis
+autonomic dysreflexia
+facial asymmetry
+chromosome fragility
+hypertension, essential
+parkinson disease, late-onset
+adiponectin, serum level of, quantitative trait locus 2
+adiponectin, serum level of, quantitative trait locus 3
+diabetes, gestational
+dystonia, dopa-responsive
+neurodegeneration with brain iron accumulation (nbia)
+parkinson disease, juvenile, autosomal recessive
+phencyclidine abuse
+segawa syndrome, autosomal recessive
+shy-drager syndrome
+transvestism
+gambling
+heart murmurs
+hyperemesis gravidarum
+neoplasms, squamous cell
+thyroid hormone resistance syndrome
+gait apraxia
+smooth muscle tumor
+aging, premature
+protoporphyria, erythropoietic
+adenylosuccinate lyase deficiency
+mental retardation, x-linked, associated with fragile site fraxe
+spinocerebellar ataxia 28
+aspartylglucosaminuria
+ciguatera poisoning
+klippel-trenaunay-weber syndrome
+glycogen storage disease type iii
+dysentery, amebic
+lipodystrophy, congenital generalized, type 1
+rhizomelic chondrodysplasia punctata, type 3
+congenital myasthenic syndrome ib
+acquired cjd
+anemia, neonatal
+autoimmune lymphoproliferative syndrome
+craniofacial dysostosis
+parotitis
+soft tissue injuries
+conversion disorder
+echolalia
+mental retardation, x-linked
+primary hyperoxaluria type 1
+amino acid metabolism, inborn errors
+bell palsy
+flavivirus infections
+hemorrhagic fever, american
+hemorrhagic fever, crimean
+hemorrhagic fever with renal syndrome
+hepatitis a
+hypertensive retinopathy
+lassa fever
+orthomyxoviridae infections
+paramyxoviridae infections
+phlebotomus fever
+reoviridae infections
+rift valley fever
+sarcoidosis, pulmonary
+subacute sclerosing panencephalitis
+joubert syndrome 3
+chromoblastomycosis
+hyperoxaluria, primary
+kernicterus
+mental fatigue
+pancreatic adenoma
+pancreatic cancer, adult
+sulfhemoglobinemia
+immunodeficiency with hyper-igm, type 2
+combined oxidative phosphorylation deficiency 6
+eosinophilic pustular folliculitis
+glycogen storage disease
+laryngomalacia
+nesidioblastosis
+preeclamptic toxemia
+ureaplasma infections
+west nile fever
+wound infection
+acth-secreting pituitary adenoma
+leber congenital amaurosis 4
+autoimmune polyendocrinopathy syndrome, type 1
+polyendocrinopathies, autoimmune
+autoimmune disease, susceptibility to, 1
+adenylate kinase deficiency, hemolytic anemia due to
+reticular dysgenesis
+severe combined immunodeficiency
+lichen nitidus
+cardiac conduction defect
+long qt syndrome 11
+laryngitis
+abortion, threatened
+lymphangioleiomyomatosis
+omphalocele exstrophy imperforate anus
+pityriasis lichenoides
+salpingitis
+bile acid synthesis defect, congenital, 2
+cestode infections
+diphyllobothriasis
+taeniasis
+trematode infections
+breast-ovarian cancer, familial, susceptibility to, 1
+depression, postpartum
+empyema
+fever of unknown origin
+myoma
+pedophilia
+polycystic liver disease
+macrocephaly
+dermatitis, photoallergic
+diffuse alopecia
+felty syndrome
+hyperparathyroidism, primary
+hypothalamic diseases
+porphyria, acute hepatic
+vulvodynia
+protoporphyria, erythropoietic, x-linked
+x-linked sideroblastic anemia
+abdominal abscess
+amebiasis
+bacteroides infections
+borrelia infections
+bronchiectasis
+central nervous system bacterial infections
+clostridium infections
+entamoebiasis
+heart septal defects
+hyperthyroxinemia, familial dysalbuminemic
+hypoparathyroidism familial isolated
+leukemia, biphenotypic, acute
+lyme neuroborreliosis
+nocardia infections
+pulmonary atelectasis
+trichomonas infections
+trichomonas vaginitis
+zinc, elevated plasma
+eye diseases, hereditary
+mucinoses
+urethral diseases
+alcohol sensitivity, acute
+hyperprolinemia type 2
+pyridoxine-dependent epilepsy
+glycogen storage disease xii
+hematoma, subdural, intracranial
+fructose intolerance
+congenital disorder of glycosylation type 1k
+congenital disorder of glycosylation, type ip
+congenital disorder of glycosylation type 1g
+congenital disorder of glycosylation type 1i
+congenital disorder of glycosylation type 1d
+congenital disorder of glycosylation type 1c
+congenital disorder of glycosylation type 1h
+congenital disorder of glycosylation type 1l
+plasma cell granuloma, pulmonary
+cystinuria
+glucosephosphate dehydrogenase deficiency
+hemarthrosis
+lafora disease
+myasthenia gravis, autoimmune, experimental
+thrombotic thrombocytopenic purpura, acquired
+ichthyosiform erythroderma, brocq congenital, nonbullous form
+periapical diseases
+fibrous dysplasia of bone
+hypophosphatasia, adult
+hypophosphatasia, childhood
+hypophosphatasia, infantile
+osteoporosis-pseudoglioma syndrome
+allergic rhinitis
+amyotrophic lateral sclerosis 2, juvenile
+hereditary spastic paralysis, infantile onset ascending
+primary lateral sclerosis juvenile
+frontonasal dysplasia 3
+frontonasal dysplasia 1
+frontonasal dysplasia 2
+parietal foramina
+parietal foramina 2
+bile acid synthesis defect, congenital, 4
+amelogenesis imperfecta, hypoplastic/hypomaturation, x-linked 1
+osteopathia striata cranial sclerosis
+persistent mullerian duct syndrome
+alport syndrome, mental retardation, midface hypoplasia, and elliptocytosis
+megaloblastic anemia 1
+adenosine monophosphate deaminase deficiency
+bone cysts, aneurysmal
+angelman syndrome
+amyotrophic lateral sclerosis 9
+ergotism
+hypobetalipoproteinemia, familial, 2
+spherocytosis, type 1
+cardiac arrhythmia, ankyrin-b-related
+chondrocalcinosis 2
+craniometaphyseal dysplasia, autosomal dominant
+tooth abnormalities
+dental enamel hypoplasia
+dental pulp calcification
+nutrition disorders
+gnathodiaphyseal dysplasia
+muscular dystrophy, limb-girdle, type 2l
+scott syndrome
+eye infections
+hemangioma, capillary infantile
+hyalinosis, systemic
+dermatitis, seborrheic
+paratuberculosis
+abdominal obesity metabolic syndrome
+mental retardation, x-linked, syndromic, fried type
+familial benign hypercalcemia, type 3
+hermansky pudlak syndrome 2
+spastic paraplegia 50, autosomal recessive
+spastic paraplegia 48, autosomal recessive
+turcot syndrome
+hypotrichosis simplex
+granuloma, pyogenic
+hutchinson&apos;s melanotic freckle
+amyloidosis, familial visceral
+intestinal volvulus
+hypertriglyceridemia, familial
+hypercholesterolemia, autosomal dominant, type b
+hypobetalipoproteinemia, familial, apolipoprotein b
+hyperlipoproteinemia type i
+alzheimer disease, familial
+alzheimer disease type 2
+cerebral amyloid angiopathy
+lipoprotein glomerulopathy
+macular degeneration, age-related, 1
+sea-blue histiocyte syndrome
+candidemia
+cerebral amyloid angiopathy, app-related
+cerebral hemorrhage with amyloidosis, hereditary, dutch type
+colonic pseudo-obstruction
+fungemia
+labyrinthitis
+meningitis, fungal
+mucormycosis
+zygomycosis
+early-onset ataxia with oculomotor apraxia and hypoalbuminemia
+carcinoma, adenoid cystic
+diabetes insipidus, neurogenic
+androgen-insensitivity syndrome
+aspermia
+bulbospinal neuronopathy, x-linked recessive
+epispadias
+hypospadias 1, x-linked
+sexual precocity
+heterotopia, periventricular, autosomal recessive
+erythema chronicum migrans
+hyperargininemia
+impetigo
+pruritus vulvae
+slowed nerve conduction velocity, autosomal dominant
+mental retardation, x-linked 46
+epileptic encephalopathy, early infantile, 8
+adenocarcinoma of esophagus
+coffin-siris syndrome
+joubert syndrome 8
+bardet-biedl syndrome
+retinitis pigmentosa 55
+leukodystrophy, metachromatic
+mucopolysaccharidosis vi
+chondrodysplasia punctata, brachytelephalangic
+epileptic encephalopathy, early infantile, 1
+lissencephaly, x-linked, 2
+mental retardation, x-linked, with or without seizures, arx-related
+partington x-linked mental retardation syndrome
+proud syndrome
+farber lipogranulomatosis
+tuberculoma, intracranial
+congenital central hypoventilation syndrome
+acanthamoeba keratitis
+babesiosis
+argininosuccinic aciduria
+anterior segment mesenchymal dysgenesis
+canavan disease
+microcephaly 5, primary, autosomal recessive
+sarcoma, alveolar soft part
+citrullinemia
+bohring syndrome
+cerebellar ataxia, cayman type
+jeune syndrome
+atrial fibrillation, familial 1
+inflammatory bowel disease 10
+aicar transformylase/imp cyclohydrolase deficiency
+spastic paraplegia 3, autosomal dominant
+dermatitis, atopic, 1
+wounds, nonpenetrating
+parkinson disease 9
+emaciation
+alternating hemiplegia of childhood
+migraine, familial hemiplegic, 2
+dystonia 12
+brody myopathy
+deafness, autosomal recessive 12
+mental retardation, x-linked, with epilepsy
+cutis laxa, autosomal recessive, type iia
+wrinkly skin syndrome
+renal tubular acidosis, distal, autosomal recessive
+renal tubular acidosis, distal, with progressive nerve deafness
+spinal muscular atrophy, distal, x-linked 3
+mitochondrial complex v (atp synthase) deficiency, nuclear type 1;mc5dn1 mitochondrial complex v (atp synthase) deficiency, atpaf2 type
+seckel syndrome 1
+alpha-thalassemia myelodysplasia syndrome
+atr-x syndrome
+mental retardation-hypotonic facies syndrome, x-linked, 1
+thoracic diseases
+spinocerebellar ataxia 10
+machado-joseph disease
+3-methylglutaconic aciduria, type i
+spermatogenic failure 5
+genetic diseases, x-linked
+nephrogenic syndrome of inappropriate antidiuresis
+atrioventricular septal defect 3
+caudal duplication anomaly
+oligodontia-colorectal cancer syndrome
+spermatogenic failure, nonobstructive, y-linked
+hypoproteinemia, hypercatabolic
+krause-kivlin syndrome
+congenital disorder of glycosylation type 2d
+ehlers-danlos syndrome, progeroid form
+hypercholanemia, familial
+choroidal neovascularization
+retinal neovascularization
+rhinitis, vasomotor
+encephalopathy, bovine spongiform
+myopathy, myofibrillar 6, mfm6
+nevi and melanomas
+acitretin embryopathy
+alien hand syndrome
+chorioretinitis
+infant nutrition disorders
+larva migrans
+olfactory nerve injuries
+papillon-lefevre disease
+secernentea infections
+sparganosis
+williams syndrome
+maple syrup urine disease
+bamforth syndrome
+butyrylcholinesterase deficiency
+paralysis, obstetric
+pseudocholinesterase deficiency
+sweating, gustatory
+chondrosarcoma, mesenchymal
+t-lymphocytopenia
+hypercarotenemia and vitamin a deficiency, autosomal dominant
+microphthalmia, syndromic 2
+bjornstad syndrome
+finnish lethal neonatal metabolic syndrome
+leigh disease
+mitochondrial complex iii deficiency
+brachydactyly type a1
+chromosome 2q37 deletion syndrome
+absence of tibia
+headache disorders, secondary
+obesity, morbid
+wilms tumor, aniridia, genitourinary anomalies, mental retardation, and obesity syndrome
+spinocerebellar ataxia 31
+bestrophinopathy, autosomal recessive
+macular dystrophy, concentric annular
+macular dystrophy, vitelliform, adult-onset
+retinitis pigmentosa 50
+vitelliform macular dystrophy
+vitreoretinochoroidopathy
+cataract, cortical, juvenile-onset
+cataract, autosomal dominant
+cataract, autosomal dominant, multiple types 1
+mandibular diseases
+myopathies, structural, congenital
+myopathy, centronuclear, 2
+leukemia, megakaryoblastic, acute
+maturity-onset diabetes of the young, type 11
+bloom syndrome
+agammaglobulinemia 4, autosomal recessive
+albinism with hemorrhagic diathesis and pigmented reticuloendothelial cells
+body mass index quantitative trait locus 4
+ovarian dysgenesis 2
+microphthalmia, syndromic 6
+orofacial cleft 11
+hamartoma syndrome, multiple
+juvenile polyposis syndrome
+polyposis syndrome, hereditary mixed, 2
+brachydactyly type a2
+chondrodysplasia, acromesomelic, with genital anomalies
+pulmonary edema of mountaineers
+bisphosphoglycerate mutase deficiency
+cardiofaciocutaneous syndrome
+costello syndrome
+leopard syndrome 3
+noonan syndrome
+noonan syndrome 7
+hereditary breast and ovarian cancer syndrome
+breast-ovarian cancer, familial, susceptibility to, 2
+fanconi anemia, complementation group d1
+fanconi anemia, complementation group j
+mental retardation, x-linked 93
+lipodystrophy, congenital generalized, type 2
+neuronopathy, distal hereditary motor, type va
+spastic paraplegia 17
+bartter syndrome, type 4a
+biotinidase deficiency
+bruton type agammaglobulinemia
+hypogammaglobulinemia and isolated growth hormone deficiency, x-linked
+mosaic variegated aneuploidy syndrome
+premature chromatid separation trait
+mitochondrial dna depletion syndrome 3 (hepatocerebral type)
+mitochondrial dna depletion syndrome 7 (hepatocerebral type)
+progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 3
+sensory ataxic neuropathy, dysarthria, and ophthalmoparesis
+combined oxidative phosphorylation deficiency 7
+tn syndrome
+late-onset retinal degeneration
+complement component c1r/c1s deficiency
+complement component 2 deficiency
+macular degeneration, age-related, 9
+complement component 5 deficiency
+complement component 6 deficiency
+complement component 7 deficiency
+complement component 8 deficiency, type i
+complement component 8 deficiency, type ii
+hyperchlorhidrosis, isolated
+osteopetrosis with renal tubular acidosis
+retinitis pigmentosa 17
+cerebellar ataxia, mental retardation, and dysequilibrium syndrome 3
+anaplasia
+carcinoma, intraductal, noninfiltrating
+night blindness, congenital stationary, type 2b
+hemiplegic migraine, familial type 1
+migraine, familial hemiplegic, 1
+brugada syndrome 3
+timothy syndrome
+aland island eye disease
+cone-rod dystrophy, x-linked, 3
+night blindness, congenital stationary, type 2a
+hypokalemic periodic paralysis, type 1
+malignant hyperthermia susceptibility type 5
+thyrotoxic periodic paralysis, susceptibility to, 1
+retinal cone dystrophy 4
+brugada syndrome 4
+episodic ataxia, type 5
+spherocytosis, hereditary
+adiposis dolorosa
+myocardial bridging
+syphilis, secondary
+desbuquois syndrome
+diabetes mellitus, noninsulin-dependent, 1
+limb-girdle muscular dystrophy type 2a
+candidiasis, familial, 2
+mental retardation and microcephaly with pontine and cerebellar hypoplasia
+opitz-kaveggia syndrome
+autoimmune lymphoproliferative syndrome, type iia
+lymphoma, non-hodgkin, familial
+creatine deficiency, x-linked
+leukoencephalitis, acute hemorrhagic
+sprains and strains
+ventricular tachycardia, catecholaminergic polymorphic, 1, with or without atrial dysfunction and/or dilated cardiomyopathy
+ventricular tachycardia, catecholaminergic polymorphic, 2
+hyperparathyroidism, neonatal severe primary
+hypocalciuric hypercalcemia, familial, type 1
+acatalasia
+cri-du-chat syndrome
+opsoclonus-myoclonus syndrome
+purpura, hyperglobulinemic
+spermatogenic failure 7
+lipodystrophy, congenital generalized, type 3
+chromosome 3, monosomy 3p25
+creatine phosphokinase, elevated serum
+long qt syndrome 9
+muscular dystrophies, limb-girdle
+muscular dystrophy, limb-girdle, type 1c
+noonan syndrome-like disorder with or without juvenile myelomonocytic leukemia
+46, xy sex reversal 5
+mental retardation, autosomal recessive 3
+coach syndrome
+joubert syndrome 9
+meckel syndrome, type 6
+cerulean cataract
+hennekam lymphangiectasia lymphedema syndrome
+deafness, autosomal dominant 44
+mycobacterium tuberculosis, susceptibility to
+eosinophilic esophagitis
+cerebral cavernous malformations 2
+hemangioma, cavernous, central nervous system
+peritoneal neoplasms
+von hippel-lindau disease
+chagas disease
+diabetes mellitus, insulin-dependent, 22
+pulmonary valve stenosis
+otorhinolaryngologic diseases
+cataract, total congenital
+neuropathy, hereditary sensory, with spastic paraplegia, autosomal recessive
+nephropathy with pretibial epidermolysis bullosa and deafness
+common variable immunodeficiency
+immunodeficiency due to defect in cd3-zeta
+methylmalonic aciduria due to transcobalamin receptor defect
+actinomycosis
+bacillaceae infections
+plasmodium falciparum blood infection level
+platelet glycoprotein iv deficiency
+severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-positive, nk cell-negative
+severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-positive, nk cell-positive
+immunodeficiency with hyper-igm, type 3
+immunodeficiency with hyper-igm, type 1
+measles
+cd59 deficiency
+dermatitis, perioral
+agammaglobulinemia 6, autosomal recessive
+radiodermatitis
+cd8 deficiency, familial
+c syndrome
+anemia, dyserythropoietic, congenital
+corneal dystrophy, thiel-behnke type
+meier-gorlin syndrome
+prostate cancer, familial
+mental retardation, autosomal dominant 3
+usher syndrome, type 1d
+ectodermal dysplasia, ectrodactyly, and macular dystrophy
+juvenile macular degeneration and hypotrichosis
+cone-rod dystrophy 15
+melanoma, cutaneous malignant, susceptibility to, 3
+microcephaly 3, primary, autosomal recessive
+epileptic encephalopathy, early infantile, 2
+rett syndrome
+multiple endocrine neoplasia, type iv
+beckwith-wiedemann syndrome
+li-fraumeni syndrome
+melanoma astrocytoma syndrome
+melanoma, cutaneous malignant, susceptibility to, 2
+melanoma-pancreatic cancer syndrome
+vulvar lichen sclerosus
+hypotrichosis 2
+specific granule deficiency
+maturity-onset diabetes of the young, type 8, with exocrine dysfunction
+exocrine pancreatic insufficiency
+microcephaly 6, primary, autosomal recessive
+seckel syndrome 4
+microcephaly 4, primary, autosomal recessive
+joubert syndrome 5
+leber congenital amaurosis 10
+meckel syndrome, type 4
+senior-loken syndrome 6
+retinitis pigmentosa 26
+coproporphyria
+hyperalphalipoproteinemia 1
+conotruncal heart malformations
+heterotaxy, visceral, 2, autosomal
+basal laminar drusen
+complement factor h deficiency
+macular degeneration, age-related, 4
+complement factor i deficiency
+nemaline myopathy 7
+lymphoma, extranodal nk-t-cell
+cystic fibrosis, modifier of, 1
+properdin deficiency, x-linked
+bronchiectasis with or without elevated sweat chloride 1
+congenital bilateral aplasia of vas deferens
+hereditary pancreatitis
+congenital myasthenic syndrome with episodic apnea
+charge association--coloboma, heart anomaly, choanal atresia, retardation, genital and ear anomalies
+charge syndrome
+kallmann syndrome
+scoliosis, idiopathic, susceptibility to, 3
+asthma-related traits, susceptibility to, 7
+choroideremia
+frontotemporal dementia, chromosome 3-linked
+frontotemporal lobar degeneration
+cataract, posterior polar, 3
+multiple pterygium syndrome, lethal type
+myasthenic syndrome, congenital, fast-channel
+myasthenic syndrome, congenital, postsynaptic slow-channel
+epilepsy, nocturnal frontal lobe, type 4
+epilepsy, frontal lobe
+epilepsy, nocturnal frontal lobe, type 1
+myasthenic syndrome, congenital, associated with acetylcholine receptor deficiency
+epilepsy, nocturnal frontal lobe, type 3
+multiple pterygium syndrome
+ehlers-danlos syndrome, musculocontractural type
+joint instability
+spondyloepiphyseal dysplasia with congenital joint dislocations
+macular dystrophy, corneal type 1
+cocoon syndrome
+usher syndrome, type ij
+bare lymphocyte syndrome 2
+north american indian childhood cirrhosis
+wolfram syndrome
+cervical dystonia, primary
+cold-induced sweating syndrome 1
+myotonia congenita, autosomal dominant
+myotonia congenita, autosomal recessive
+epilepsy juvenile absence
+dent disease 1
+hypophosphatemic rickets, x-linked recessive
+low molecular weight proteinuria with hypercalciuria and nephrocalcinosis
+nephrolithiasis, x-linked recessive, with renal failure
+osteopetrosis,  autosomal recessive 4
+bartter syndrome, type 4b
+bartter syndrome, type 3
+ichthyosis, leukocyte vacuoles, alopecia, and sclerosing cholangitis
+hypomagnesemia 3, renal
+hypomagnesemia 5, renal, with ocular involvement
+dengue hemorrhagic fever
+candidiasis familial chronic mucocutaneous, autosomal recessive
+ceroid lipofuscinosis, neuronal 3, juvenile
+ceroid lipofuscinosis, neuronal 5
+ceroid lipofuscinosis, neuronal, 6
+ceroid lipofuscinosis, neuronal 8
+ceroid lipofuscinosis, neuronal 9
+usher syndrome, type iiia
+familial dilated cardiomyopathy
+cardiomyopathy, dilated, 1c
+melanoma, cutaneous malignant, susceptibility to, 1
+dystrophia myotonica 2
+carney complex
+homocarnosinosis
+achromatopsia 2
+achromatopsia 3
+jalili syndrome
+myopathy, congenital, compton-north
+cortical dysplasia-focal epilepsy syndrome
+pitt-hopkins syndrome
+deafness, autosomal dominant 9
+congenital disorder of glycosylation, type 2g
+congenital disorder of glycosylation, type iij
+congenital disorder of glycosylation, type iii
+congenital disorder of glycosylation type 2e
+congenital disorder of glycosylation, type iih
+metaphyseal chondrodysplasia schmid type
+marshall syndrome
+stickler syndrome, type 2
+deafness, autosomal dominant 13
+deafness, autosomal recessive 53
+nance sweeney chondrodysplasia
+otospondylomegaepiphyseal dysplasia
+pierre robin syndrome with fetal chondrodysplasia
+stickler syndrome, type 3
+epidermolysis bullosa, junctional, non-herlitz type
+knobloch syndrome
+ehlers-danlos syndrome type 1
+ehlers-danlos syndrome, type vii, autosomal dominant
+osteogenesis imperfecta
+osteogenesis imperfecta, type 2a
+osteogenesis imperfecta, type 3
+osteogenesis imperfecta, type 4
+ehlers-danlos syndrome, cardiac valvular form
+achondrogenesis type 2
+epiphyseal dysplasia, multiple, with myopia and conductive deafness
+hyaloideoretinal degeneration of wagner
+kniest dysplasia
+legg-calve-perthes disease
+osteoarthritis with mild chondrodysplasia
+platyspondylic lethal skeletal dysplasia, torrance type
+spondyloepiphyseal dysplasia, congenita
+spondylometaphyseal dysplasia, kozlowski type
+spondyloperipheral dysplasia
+stickler syndrome, type 1
+stickler syndrome, type i, nonsyndromic ocular
+strudwick syndrome
+ehlers-danlos syndrome type 3
+ehlers danlos syndrome type 4, autosomal dominant
+angiopathy, hereditary, with nephropathy, aneurysms, and muscle cramps
+brain small vessel disease with hemorrhage
+familial porencephaly
+alport syndrome, recessive type
+hematuria, benign familial
+nephritis, hereditary
+alport syndrome, x-linked
+leiomyoma, epithelioid
+leiomyomatosis, diffuse, with alport syndrome
+ehlers-danlos syndrome type 2
+bethlem myopathy
+ossification of the posterior longitudinal ligament of the spine
+scleroatonic muscular dystrophy
+myosclerosis, autosomal recessive
+epidermolysis bullosa dystrophica, autosomal recessive
+epidermolysis bullosa dystrophica, pasini type
+epidermolysis bullosa, pretibial
+epidermolysis bullosa pruriginosa
+epidermolysis bullosa with congenital localized absence of skin and deformity of nails
+nail disorder, nonsyndromic congenital, 8
+transient bullous dermolysis of the newborn
+corneal dystrophy, fuchs&apos; endothelial, 1
+corneal dystrophy, posterior polymorphous, 1
+corneal dystrophy, posterior polymorphous, 2
+epiphyseal dysplasia, multiple, 2
+epiphyseal dysplasia, multiple, 3
+carnevale syndrome
+malpuech facial clefting syndrome
+oculopalatoskeletal syndrome
+endplate acetylcholinesterase deficiency
+epiphyseal dysplasia, multiple, 1
+fairbank disease
+pseudoachondroplasia
+digeorge syndrome
+exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis
+mitochondrial complex iv deficiency
+pasteurellaceae infections
+carboxypeptidase n deficiency
+alveolar capillary dysplasia
+carbamoyl-phosphate synthase i deficiency disease
+carnitine palmitoyl transferase 1a deficiency
+carnitine palmitoyltransferase ii deficiency, infantile
+carnitine palmitoyltransferase ii deficiency, late-onset
+carnitine palmitoyltransferase ii deficiency, lethal neonatal
+leber congenital amaurosis
+pigmented paravenous chorioretinal atrophy
+retinal telangiectasis
+retinitis pigmentosa 12
+mental retardation, autosomal recessive 2
+histiocytoma, angiomatoid fibrous
+rubinstein-taybi syndrome
+atrioventricular septal defect, partial, with heterotaxy syndrome
+intraoperative awareness
+crisponi syndrome
+purine-pyrimidine metabolism, inborn errors
+osteogenesis imperfecta, type 7
+cone-rod dystrophy 2
+alpha-b crystallinopathy
+cataract, congenital zonular, with sutural opacities
+cataract, lamellar 2
+microphthalmia, isolated, with cataract 4
+cataract, congenital nuclear, autosomal recessive 3
+cataract, congenital, cerulean type, 2
+cataract, coppock-like
+cataract, sutural, with punctate and cerulean opacities
+cataract, congenital nuclear, autosomal recessive 2
+cataract, congenital, cerulean type, 3
+cataract congenital dominant non nuclear
+cataract, crystalline aculeiform
+neoplasm, residual
+surfactant metabolism dysfunction, pulmonary, 4
+surfactant metabolism dysfunction, pulmonary, 1
+neutrophilia, hereditary
+silver-russell syndrome
+cardiomyopathy, dilated, 1m
+cardiomyopathy, familial hypertrophic, 12
+cerebral amyloid angiopathy, familial
+macular degeneration, age-related, 11
+gastric antral vascular ectasia
+congenital cataracts, facial dysmorphism, and neuropathy
+gamma-cystathionase deficiency
+diabetes mellitus, insulin-dependent, 12
+pilomatrixoma
+cystinosis, late-onset juvenile or adolescent nephropathic type
+cystinosis, ocular nonnephropathic
+nephropathic cystinosis
+neuraminidase deficiency with beta-galactosidase deficiency
+keratosis palmoplantaris with periodontopathia and onychogryposis
+ceroid lipofuscinosis, neuronal, 10
+optic atrophy, autosomal dominant
+tuberculosis, miliary
+pycnodysostosis
+mental retardation, x-linked, with short stature, hypogonadism, and abnormal gait
+three m syndrome 1
+basal ganglia disease, biotin-responsive
+chronic periodontitis
+trimethylaminuria
+whim syndrome
+methemoglobinemia type iv
+nadh cytochrome b5 reductase deficiency
+granulomatous disease, chronic
+granulomatous disease, chronic, autosomal recessive, cytochrome b-negative
+granulomatous disease, chronic, x-linked
+heredodegenerative disorders, nervous system
+familial cylindromatosis
+trichoepithelioma, multiple familial, 1
+46, xy disorders of sex development
+lipoid congenital adrenal hyperplasia
+congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency
+glucocorticoid-remediable aldosteronism
+18-hydroxylase deficiency
+adrenal hyperplasia, congenital, type 5
+aromatase deficiency
+sexual infantilism
+ischemic contracture
+skin and connective tissue diseases
+upper extremity deep vein thrombosis
+glaucoma 1, open angle, a
+glaucoma 3, primary congenital, a
+glaucoma, primary open angle
+congenital adrenal hyperplasia due to 21 hydroxylase deficiency
+xanthomatosis, cerebrotendinous
+vitamin d hydroxylation-deficient rickets, type 1a
+coumarin resistance
+drug metabolism, poor, cyp2c19-related
+invasive pulmonary aspergillosis
+neuroaspergillosis
+paracoccidioidomycosis
+exsanguination
+drug metabolism, poor, cyp2d6-related
+vitamin d hydroxylation-deficient rickets, type 1b
+hemangioma, capillary
+uterine cervical incompetence
+ventricular septal rupture
+lamellar ichthyosis, type 3
+bietti&apos;s crystalline dystrophy
+spastic paraplegia, hereditary
+chondroma
+d-2-hydroxyglutaric aciduria 1
+leukoencephalopathy with brainstem and spinal cord involvement and lactate elevation
+dopamine beta hydroxylase deficiency
+woodhouse sakati syndrome
+mirror movements 1
+dyslexia
+reticuloendotheliosis, familial, with eosinophilia
+severe combined immunodeficiency with sensitivity to ionizing radiation
+corneal dystrophy, congenital stromal
+dysplastic nevus syndrome
+neuronopathy, distal hereditary motor, type viib
+perry syndrome
+lissencephaly, x-linked, 1
+pentosuria
+xeroderma pigmentosum, complementation group e
+aromatic amino acid decarboxylase deficiency
+liposarcoma, myxoid
+spondylometaepiphyseal dysplasia, short limb-hand type
+warsaw breakage syndrome
+peutz-jeghers syndrome
+wagr syndrome
+hypotonia-cystinuria syndrome
+chromosome xp11.3 deletion syndrome
+epilepsy, partial, with variable foci
+cardiomyopathy, dilated, 1i
+myopathy, myofibrillar, 1
+scapuloperoneal syndrome, neurogenic, kaeser type
+deafness, autosomal dominant 5
+deafness, autosomal recessive 31
+usher syndrome, type iid
+deafness, autosomal recessive 59
+desmosterolosis
+46,xy gonadal dysgenesis, complete or partial, dhh-related
+46,xy gonadal dysgenesis, partial, with minifascicular neuropathy
+deafness, autosomal dominant 1
+premature ovarian failure 2a
+auditory neuropathy, autosomal dominant, 1
+pleuropulmonary blastoma
+mental retardation, fra12a type
+nephroblastomatosis, fetal ascites, macrosomia and wilms tumor
+dyskeratosis congenita
+hoyeraal hreidarsson syndrome
+pyruvate dehydrogenase e2 deficiency
+spondylocostal dysostosis 1, autosomal recessive
+amelogenesis imperfecta, type iv
+trichodentoosseous syndrome
+cardiomyopathy, dilated, 3b
+dimethylglycine dehydrogenase deficiency
+human herpesvirus 6 encephalitis
+hypophosphatemia, familial
+hypophosphatemic rickets, autosomal recessive, 1
+dystrophia myotonica 1
+ciliary dyskinesia, primary, 13
+ciliary dyskinesia, primary, 10
+ciliary dyskinesia, primary, 7
+primary ciliary dyskinesia, 3
+ciliary dyskinesia, primary, 9
+3-methylglutaconic aciduria, type v
+dysentery
+charcot-marie-tooth disease, dominant intermediate b
+myopathy, centronuclear, 1
+hereditary sensory and autonomic neuropathies
+immunodeficiency-centromeric instability-facial anomalies syndrome 1
+hyper-ige recurrent infection syndrome, autosomal recessive
+pena shokeir syndrome, type 1
+congenital disorder of glycosylation, type im
+congenital disorder of glycosylation type 1j
+diffuse panbronchiolitis
+congenital disorder of glycosylation type 1e
+congenital disorder of glycosylation, type io
+paroxysmal ventricular fibrillation
+varicose veins
+dihydropyrimidine dehydrogenase deficiency
+dihydropyrimidinase deficiency
+psychoses, alcoholic
+westphal disease
+tremor hereditary essential, 1
+novelty seeking personality trait
+benign essential blepharospasm
+arrhythmogenic right ventricular dysplasia, familial, 11
+hypotrichosis and recurrent skin vesicles
+keratosis palmoplantaris striata 1
+arrhythmogenic right ventricular dysplasia, familial, 10
+cardiomyopathy, dilated, 1bb
+arrhythmogenic right ventricular dysplasia, familial, 8
+epidermolysis bullosa, lethal acantholytic
+keratosis palmoplantaris striata ii
+skin fragility-woolly hair syndrome
+deafness, autosomal dominant 39, with dentinogenesis imperfecta 1
+dentin dysplasia, type ii
+dentinogenesis imperfecta
+dentinogenesis imperfecta, shields type 3
+left ventricular noncompaction 1
+thyroid dyshormonogenesis 6
+thyroid dyshormonogenesis 5
+dyggve-melchior-clausen syndrome
+smith-mccort dysplasia
+asphyxiating thoracic dystrophy 3
+short rib-polydactyly syndrome
+short rib-polydactyly syndrome, verma-naumoff type
+limb-girdle muscular dystrophy, type 2b
+myopathy, distal, with anterior tibial onset
+familial paroxysmal dystonia
+chondrodysplasia punctata 2, x-linked dominant
+erythrocytosis, familial, 2
+hirschsprung disease
+lipoid proteinosis of urbach and wiethe
+ectodermal dysplasia 1, anhidrotic
+tooth agenesis, selective, x-linked, 1
+ectodermal dysplasia 3, anhidrotic
+ectodermal dysplasia, hypohidrotic, autosomal recessive
+waardenburg syndrome, type 4
+waardenburg syndrome, type 4a
+waardenburg syndrome, type 4b
+abcd syndrome
+doyne honeycomb retinal dystrophy
+cutis laxa, autosomal recessive, type ia
+craniofrontonasal dysplasia
+frontonasal dysplasia
+hypomagnesemia 4, renal
+polycystic kidney, autosomal recessive
+erythrocytosis, familial, 3
+charcot-marie-tooth disease, type 1d
+charcot-marie-tooth disease, type 4e
+prostate cancer, hereditary, 12
+kleefstra syndrome
+wolcott-rallison syndrome
+leukoencephalopathy with vanishing white matter
+myoclonic epilepsy, familial infantile
+cyclic neutropenia
+neutropenia, severe congenital, 1, autosomal dominant
+aortic stenosis, supravalvular
+cutis laxa
+cutis laxa, autosomal dominant 1
+stargardt disease 3
+muscular dystrophy, emery-dreifuss
+bowen-conradi syndrome
+schizencephaly
+amelogenesis imperfecta
+amelogenesis imperfecta, type ib
+amelogenesis imperfecta, type ic
+glycogen storage disease xiii
+arterial calcification of infancy
+hypophosphatemic rickets, autosomal recessive, 2
+erythrocytosis, familial, 4
+elliptocytosis 1
+spherocytosis, type 5
+colorectal cancer, hereditary nonpolyposis, type 8
+diarrhea 5, with tufting enteropathy, congenital
+lynch syndrome i (site-specific colonic cancer)
+absent corpus callosum cataract immunodeficiency
+cataract, age-related cortical, 2
+prostate cancer/brain cancer susceptibility
+microvascular complications of diabetes, susceptibility to, 2
+polycythemia, primary familial and congenital
+lethal congenital contracture syndrome 2
+cerebrooculofacioskeletal syndrome 4
+cerebrooculofacioskeletal syndrome 2
+trichothiodystrophy, photosensitive;ttdp ichthyosiform erythroderma with hair abnormality and mental and growth
+xeroderma pigmentosum, complementation group d
+xeroderma pigmentosum, complementation group b
+xeroderma pigmentosum, complementation group f
+xfe progeroid syndrome
+cerebrooculofacioskeletal syndrome 1
+xeroderma pigmentosum, complementation group g
+cockayne syndrome
+de sanctis-cacchione syndrome
+uv-sensitive syndrome 1
+roberts syndrome
+sc phocomelia syndrome
+deafness, autosomal recessive 36, with or without vestibular involvement
+pyometra
+deafness, autosomal recessive 35
+multiple acyl coenzyme a dehydrogenase deficiency
+ethylmalonic encephalopathy
+myeloproliferative disorder, chronic, with eosinophilia
+ellis-van creveld syndrome
+weyers acrofacial dysostosis
+pontocerebellar hypoplasia type 1
+exostoses, multiple hereditary
+exostoses, multiple, type i
+exostoses, multiple, type ii
+branchio-oto-renal syndrome
+branchiootorenal syndrome 1
+otofaciocervical syndrome
+cardiomyopathy, dilated, 1j
+deafness, autosomal dominant 10
+myelodysplastic-myeloproliferative diseases
+factor x deficiency
+factor xi deficiency
+factor xii deficiency
+factor xiii deficiency
+prothrombin deficiency, congenital
+factor v deficiency
+thrombophilia due to activated protein c resistance
+thrombophilia, hereditary
+factor vii deficiency
+hemophilia b
+thrombophilia, x-linked, due to factor ix defect
+spastic paraplegia 35, autosomal recessive
+leukodystrophy, hypomyelinating, 5
+neuropathy, hereditary sensory and autonomic, type iib
+raine syndrome
+toe syndactyly, telecanthus, and anogenital and renal malformations
+amelogenesis imperfecta, type iii
+megalocytic interstitial nephritis
+fanconi anemia, complementation group b
+vacterl association with hydrocephaly, x-linked
+fanconi anemia, complementation group c
+fanconi anemia, complementation group d2
+fanconi anemia, complementation group e
+fanconi anemia, complementation group f
+fanconi anemia, complementation group i
+synpolydactyly 2
+cutis laxa, recessive
+macular degeneration, age-related, 3
+arachnodactyly
+ectopia lentis
+ectopia lentis 1, isolated, autosomal dominant
+mass syndrome
+shprintzen golberg craniosynostosis
+stiff skin syndrome
+congenital contractural arachnodactyly
+fructose-1,6-diphosphatase deficiency
+parkinson disease 15, autosomal recessive early-onset
+fibrosis of extraocular muscles, congenital, 3a, with or without extraocular involvement
+poikiloderma of kindler
+leukocyte adhesion deficiency, type iii
+amyloidosis, familial
+aarskog syndrome
+charcot-marie-tooth disease, type 4h
+aplasia of lacrimal and salivary glands
+lacrimoauriculodentodigital syndrome
+spinocerebellar ataxia 27
+carcinoid heart disease
+periapical periodontitis
+hypophosphatemic rickets, autosomal dominant
+tumoral calcinosis, hyperphosphatemic, familial
+deafness, congenital, with inner ear agenesis, microtia, and microdontia
+22q11 deletion syndrome
+multiple synostoses syndrome 3
+antley-bixler syndrome without genital anomalies or disordered steroidogenesis
+jackson-weiss syndrome
+osteoglophonic dwarfism
+pfeiffer type acrocephalosyndactyly
+trigonocephaly 1
+ankylosis
+cutis gyrata syndrome of beare and stevenson
+plagiocephaly, nonsynostotic
+scaphocephaly, maxillary retrusion, and mental retardation
+achondroplasia
+catshl syndrome
+crouzon syndrome with acanthosis nigricans
+hypochondroplasia
+muenke syndrome
+nevus, epidermal
+thanatophoric dysplasia
+thanatophoric dysplasia, type 1
+thanatophoric dysplasia, type 2
+fumaric aciduria
+leiomyomatosis and renal cell cancer, hereditary
+reed&apos;s syndrome
+myopathy, reducing body, x-linked, childhood-onset
+myopathy, reducing body, x-linked, early-onset, severe
+myopathy, x-linked, with postural muscle atrophy
+scapuloperoneal myopathy, x-linked dominant
+amyotrophic lateral sclerosis 11
+charcot-marie-tooth disease, type 4j
+premature ovarian failure 6
+muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 1
+muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 5
+muscular dystrophy-dystroglycanopathy (congenital with or without mental retardation), type b, 5
+muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 5
+walker-warburg syndrome
+cardiomyopathy, dilated, 1x
+muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 4
+muscular dystrophy-dystroglycanopathy (congenital without mental retardation), type b, 4
+muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 4
+birt-hogg-dube syndrome
+oncocytoma, renal
+pneumothorax, primary spontaneous
+dermatitis, atopic, 2
+ichthyosis vulgaris
+cardiac valvular dysplasia, x-linked
+congenital idiopathic intestinal pseudoobstruction
+frontometaphyseal dysplasia
+heterotopia, periventricular, ehlers-danlos variant
+heterotopia, periventricular, x-linked dominant
+oto-palato-digital syndrome type 1
+oto-palato-digital syndrome, type 2
+terminal osseous dysplasia
+atelosteogenesis, type 1
+atelosteogenesis, type iii
+boomerang dysplasia
+larsen syndrome, dominant type
+spondylocarpotarsal synostosis
+filaminopathy, autosomal dominant
+lymphedema, hereditary, ia
+posterior column ataxia with retinitis pigmentosa
+encephaloclastic proliferative vasculopathy
+amyotrophic lateral sclerosis, sporadic
+fragile x mental retardation syndrome
+fragile x tremor ataxia syndrome
+glomerulopathy with fibronectin deposits
+keratoconus
+brain diseases, metabolic, inborn
+neurodegeneration due to cerebral folate transport deficiency
+amyloid neuropathies, familial
+embolism, amniotic fluid
+axenfeld-rieger syndrome, type 1
+axenfeld-rieger syndrome, type 3
+iridogoniodysgenesis, type 1
+lymphedema distichiasis syndrome
+lymphedema, hereditary, ii
+yellow nail syndrome
+aphakia, congenital primary
+rett syndrome, congenital variant
+deafness, autosomal recessive 4, with enlarged vestibular aqueduct
+blepharophimosis, ptosis, and epicanthus inversus
+blepharophimosis syndrome type 1
+bpes with duane retraction syndrome
+premature ovarian failure 3
+t-cell immunodeficiency, congenital alopecia and nail dystrophy
+mental retardation with language impairment and autistic features
+speech-language disorder 1
+immunodysregulation, polyendocrinopathy, and enteropathy, x-linked
+mitochondrial complex i deficiency
+fraser syndrome
+bifid nose
+bifid nose with or without anorectal and renal anomalies
+hereditary renal agenesis
+marles greenberg persaud syndrome
+nystagmus 1, congenital, x- linked
+retinitis pigmentosa 30
+follicle-stimulating hormone deficiency, isolated
+facioscapulohumeral muscular dystrophy 1b
+ovarian dysgenesis 1
+glutamate formiminotransferase deficiency
+hyperferritinemia, hereditary, with congenital cataracts
+neurodegeneration with brain iron accumulation 3
+growth retardation, developmental delay, coarse facies, and early death
+mental retardation, x-linked 9
+fucosidosis
+amyotrophic lateral sclerosis 6, autosomal recessive
+caliciviridae infections
+vitamin b12 plasma level quantitative trait locus 1
+exudative vitreoretinopathy 1
+glycogen storage disease type i
+neutropenia, severe congenital, 4, autosomal recessive
+anemia, hemolytic, congenital nonspherocytic
+favism
+phagocyte bactericidal dysfunction
+glycogen storage disease type ii
+entropion
+generalized epilepsy with febrile seizures plus, type 1
+generalized epilepsy with febrile seizures plus, type 3
+cerebral palsy, spastic quadriplegic, 1
+leukodystrophy, globoid cell
+galactosemias
+mucopolysaccharidosis iv
+guanidinoacetate methyltransferase deficiency
+giant axonal neuropathy
+charcot-marie-tooth disease, type 2d
+thrombocytopenia with beta-thalassemia, x-linked
+thrombocytopenia, x-linked, with or without dyserythropoietic anemia
+barakat syndrome
+arginine:glycine amidinotransferase deficiency
+gaucher disease, perinatal lethal
+gaucher-like disease
+glycogen storage disease type iv
+glucocorticoid deficiency 2
+glutaric aciduria 1
+hyperphenylalaninemia, bh4-deficient, b
+hyperinsulinemic hypoglycemia, familial, 3
+maturity-onset diabetes of the young
+maturity-onset diabetes of the young, type 2
+gamma-glutamylcysteine synthetase deficiency, hemolytic anemia due to
+cataract, congenital or juvenile
+charcot-marie-tooth disease, axonal, with vocal cord paresis, autosomal recessive
+charcot-marie-tooth disease, recessive intermediate a
+charcot-marie-tooth disease, type 2k
+charcot-marie-tooth disease, type 4a
+klippel-feil syndrome 3, autosomal dominant
+microphthalmia, isolated 7
+microphthalmia, isolated, with coloboma 6
+acromesomelic dysplasia hunter-thompson type
+brachydactyly type c
+chondrodysplasia, grebe type
+cushing&apos;s symphalangism
+fibular hypoplasia and complex brachydactyly
+multiple synostoses syndrome 2
+klippel-feil syndrome
+klippel feil syndrome dominant type
+microphthalmia, isolated 4
+spondylocostal dysostosis 5, autosomal dominant
+mental retardation, x-linked 3
+myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay
+neutropenia, nonimmune chronic idiopathic, of adults
+neutropenia, severe congenital, 2, autosomal dominant
+combined oxidative phosphorylation deficiency 1
+pseudoxanthoma elasticum-like disorder with multiple coagulation factor deficiency
+vitamin k-dependent clotting factors, combined deficiency of, 1
+glutathionuria
+isolated growth hormone deficiency, type ia
+isolated growth hormone deficiency, type ib
+isolated growth hormone deficiency, type ii
+kowarski syndrome
+short stature, idiopathic, autosomal
+turner syndrome
+laron syndrome
+goldenhar syndrome
+digestive system neoplasms
+intrinsic factor deficiency
+parkinson disease 11, autosomal dominant
+fibromatosis, gingival, 1
+hallermann&apos;s syndrome
+oculodentodigital dysplasia
+oculodentodigital dysplasia, autosomal recessive
+syndactyly, type 3
+cataract, zonular pulverulent 3
+atrial standstill
+cataract microcornea syndrome
+cataract, zonular pulverulent 1
+charcot-marie-tooth disease, x-linked, 1
+deafness, autosomal dominant 3a
+deafness, autosomal recessive 1a
+ichthyosis, hystrix-like, with deafness
+keratitis-ichthyosis-deafness syndrome, autosomal dominant
+keratoderma palmoplantar deafness
+knuckle pads, leuconychia and sensorineural deafness
+vohwinkel syndrome
+deafness, autosomal dominant 2a
+deafness, autosomal dominant 2b
+erythrokeratodermia variabilis
+deafness, autosomal dominant 3b
+deafness, autosomal recessive 1b
+ectodermal dysplasia 2, hidrotic
+leukodystrophy, hypomyelinating, 2
+lymphedema, hereditary, ic
+spastic paraplegia 44, autosomal recessive
+hyperglycerolemia
+angiokeratoma
+fabry disease
+gangliosidosis, gm1
+lethal arthrogryposis with anterior horn cell disease
+lethal congenital contracture syndrome 1
+basal cell nevus syndrome
+holoprosencephaly 9
+greig cephalopolysyndactyly syndrome
+hypothalamic hamartomas
+pallister-hall syndrome
+polydactyly, postaxial, type a1
+polydactyly, preaxial 4
+nephronophthisis 7
+diabetes mellitus, neonatal, with congenital hypothyroidism
+glomus vagale tumors
+hyperexplexia hereditary
+anemia, sideroblastic, pyridoxine-refractory, autosomal recessive
+hyperinsulinemic hypoglycemia, familial, 6
+glutamine deficiency, congenital
+tay-sachs disease, ab variant
+ventricular tachycardia, familial
+albright&apos;s hereditary osteodystrophy
+brachydactyly
+cafe-au-lait spots
+fibrous dysplasia, polyostotic
+osseous heteroplasia, progressive
+pseudohypoparathyroidism type 1b
+pseudohypoparathyroidism, type ia
+pseudopseudohypoparathyroidism
+night blindness, congenital stationary, autosomal dominant 3
+distal myopathy, nonaka type
+inclusion body myopathy autosomal recessive
+sialic acid storage disease
+glycine n-methyltransferase deficiency
+rhizomelic chondrodysplasia punctata, type 2
+mucolipidosis ii alpha/beta
+mucolipidosis iii alpha/beta
+mucolipidosis iii gamma
+fertile eunuch syndrome
+gerodermia osteodysplastica
+bernard-soulier syndrome
+bernard-soulier syndrome, type a2, autosomal dominant
+nonarteritic anterior ischemic optic neuropathy, susceptibility to
+von willebrand disease, platelet type
+simpson-golabi-behmel syndrome, type 1
+omodysplasia type 1
+brugada syndrome 2
+molybdenum cofactor deficiency
+hemolytic anemia, nonspherocytic, due to glucose phosphate isomerase deficiency
+nystagmus 6, congenital, x-linked
+ocular albinism type 1
+polymicrogyria, bilateral frontoparietal
+febrile seizures, familial, 4
+usher syndrome, type 2c
+chudley-mccullough syndrome
+deafness, autosomal dominant 28
+primary hyperoxaluria type 2
+mental retardation, x-linked 94
+mental retardation, autosomal recessive 6
+oguchi disease
+night blindness, congenital stationary, type 1b
+frontotemporal lobar degeneration with tdp43 inclusions, grn-related
+meretoja syndrome
+glutathione synthetase deficiency
+glutathione synthetase deficiency of erythrocytes, hemolytic anemia due to
+cone dystrophy 3
+amaurosis congenita of leber, type 1
+cone-rod dystrophy 5
+retinal cone dystrophy 2
+mucopolysaccharidosis vii
+glycogen storage disease xv
+glycogen storage disease 0, muscle
+glycogen storage disease 0, liver
+cortisone reductase deficiency
+3-hydroxyacyl-coa dehydrogenase deficiency
+hyperinsulinemic hypoglycemia, familial, 4
+long-chain 3-hydroxyacyl-coa dehydrogenase deficiency
+trifunctional protein deficiency
+histidinemia
+biliary atresia
+hemochromatosis, type 2a
+hemochromatosis, type 2b
+dwarfism
+ige responsiveness, atopic
+neutropenia, severe congenital, 3, autosomal recessive
+alpha-thalassemia
+heinz body anemias
+beta-thalassemia, dominant inclusion body type
+hemoglobinopathies
+progressive familial heart block, type ia
+progressive familial heart block, type ib
+thyroid cancer, hurthle cell
+microphthalmia, syndromic 7
+brugada syndrome 8
+sick sinus syndrome 2, autosomal dominant
+high density lipoprotein cholesterol level quantitative trait locus 6
+spondylocostal dysostosis 4, autosomal recessive
+hypopituitarism and septooptic &apos;dysplasia&apos;
+tay-sachs disease
+sandhoff disease
+microvascular complications of diabetes, susceptibility to, 7
+porphyria, south african type
+alkaptonuria
+deafness, autosomal recessive 39
+beta-hydroxyisobutyryl coa deacylase deficiency
+inherited peripheral neuropathy
+hemolytic anemia, nonspherocytic, due to hexokinase deficiency
+creutzfeldt-jakob syndrome
+holocarboxylase synthetase deficiency
+lipomatosis, multiple
+hmg coa lyase deficiency
+3-hydroxy-3-methylglutaryl-coa synthase 2 deficiency
+marie unna congenital hypotrichosis
+oculoauricular syndrome
+diabetes mellitus, insulin-dependent, 20
+hepatic adenomas, familial
+maturity-onset diabetes of the young, type 3
+prostate cancer, hereditary, 11
+renal cysts and diabetes syndrome
+maturity-onset diabetes of the young, type 1
+hyperoxaluria, primary, type iii
+athabaskan brainstem dysgenesis
+radioulnar synostosis with amegakaryocytic thrombocytopenia
+hand foot uterus syndrome
+preaxial deficiency, postaxial polydactyly and hypospadias
+microtia, hearing impairment, and cleft palate
+lymphatic abnormalities
+vertical talus, congenital
+brachydactyly-syndactyly syndrome
+brachydactyly, type d
+brachydactyly, type e1
+syndactyly, type v
+synpolydactyly 1
+vater association
+hawkinsinuria
+digital clubbing, isolated congenital
+hypertrophic osteoarthropathy, primary, autosomal recessive, 1
+osteoarthropathy, primary hypertrophic
+hyperpigmentation, familial progressive, 2
+osteoblastoma
+kelley-seegmiller syndrome
+lesch-nyhan syndrome
+urofacial syndrome
+alopecia universalis
+atrichia with papular lesions
+nevus, sebaceous of jadassohn
+thrombophilia due to histidine-rich glycoprotein deficiency
+obesity, abdominal
+hydroxyacyl-coa dehydrogenase, type 2, deficiency
+mental retardation, x-linked 17
+mental retardation, x-linked, syndromic 10
+17-hydroxysteroid dehydrogenase deficiency
+peroxisomal disorders
+adrenal hyperplasia 2
+bile acid synthesis defect, congenital, 1
+cataract, zonular
+heat stress disorders
+knee injuries
+osteochondritis
+charcot-marie-tooth disease, type 2f
+neuronopathy, distal hereditary motor, type iib
+neuronopathy, distal hereditary motor, type iic
+charcot-marie-tooth disease, axonal, type 2l
+neuronopathy, distal hereditary motor, type iia
+leukodystrophy, hypomyelinating, 4
+spastic paraplegia 13, autosomal dominant
+dyssegmental dysplasia
+macular degeneration, age-related, 7
+parkinson disease 13, autosomal dominant, susceptibility to
+mental retardation, x-linked, syndromic, turner type
+mucopolysaccharidosis type ix
+hydrolethalus syndrome 1
+diabetes mellitus, transient neonatal, 1
+inflammatory bowel disease 25, autosomal recessive
+idiopathic basal ganglia calcification 1
+endocrine-cerebroosteodysplasia
+diabetes mellitus, insulin-dependent, 10
+diabetes mellitus, insulin-dependent, 2
+enchondromatosis
+d-2-hydroxyglutaric aciduria 2
+mucopolysaccharidosis ii
+mucopolysaccharidosis i
+diabetes mellitus, insulin-dependent, 19
+hemangioendothelioma, epithelioid
+appendicitis
+legionnaires&apos; disease
+ciliary motility disorders
+cranioectodermal dysplasia
+asphyxiating thoracic dystrophy 2
+corpus callosum, agenesis of, with mental retardation, ocular coloboma, and micrognathia
+insulin-like growth factor i deficiency
+insulin-like growth factor i, resistance to
+agammaglobulinemia 1, autosomal recessive
+spinal muscular atrophy with respiratory distress 1
+dysgammaglobulinemia
+hemihyperplasia, isolated
+acrocapitofemoral dysplasia
+dysautonomia, familial
+atypical mycobacteriosis, familial, x-linked 1
+ectodermal dysplasia, anhidrotic, with immunodeficiency, osteopetrosis, and lymphedema
+ectodermal dysplasia, hypohidrotic, with immune deficiency
+immunodeficiency without anhidrotic ectodermal dysplasia
+incontinentia pigmenti
+invasive pneumococcal disease, recurrent isolated, 2
+superinfection
+inflammatory bowel disease 28, autosomal recessive
+central serous chorioretinopathy
+angioid streaks
+anthracosis
+kearns-sayre syndrome
+merrf syndrome
+gastritis, atrophic
+mental retardation, x-linked 21
+microvascular complications of diabetes, susceptibility to, 4
+osteomyelitis, sterile multifocal, with periostitis and pustulosis
+inflammatory bowel disease 17
+interleukin 2 receptor, alpha, deficiency of
+severe combined immunodeficiency, x-linked
+x-linked combined immunodeficiency diseases
+tuberculosis, bovine
+diaper rash
+deafness, autosomal recessive 42
+retinitis pigmentosa 10
+retinitis pigmentosa 56
+joubert syndrome 1
+morm syndrome
+maturity-onset diabetes of the young, type 10
+telomeric 22q13 monosomy syndrome
+diabetes mellitus, insulin-resistant, with acanthosis nigricans
+donohue syndrome
+hyperinsulinemic hypoglycemia, familial, 5
+nephronophthisis 2
+senior-loken syndrome 5
+mental retardation, x-linked 1
+asthma-related traits, susceptibility to, 5
+invasive pneumococcal disease, recurrent isolated, 1
+irak4 deficiency
+inflammatory bowel disease 14
+orofacial cleft 6, susceptibility to
+popliteal pterygium syndrome
+van der woude syndrome
+myopathy with lactic acidosis, hereditary
+autoimmune disease, syndromic multisystem
+thrombasthenia
+epidermolysis bullosa junctionalis with pyloric atresia
+muscular dystrophy, congenital, due to integrin alpha-7 deficiency
+leukocyte-adhesion deficiency syndrome
+leukocyte adhesion deficiency, type i
+thrombocytopenia, neonatal alloimmune
+epidermolysis bullosa simplex
+lymphoproliferative syndrome, ebv-associated, autosomal, 1
+dementia, familial british
+dementia, familial danish
+spinocerebellar ataxia 15
+spinocerebellar ataxia 29
+heterotaxy, visceral, 5, autosomal
+acidemia, isovaleric
+thyroid dyshormonogenesis 4
+alagille syndrome
+hemorrhagic destruction of the brain, subependymal calcification, and cataracts
+huntington disease-like 2
+arrhythmogenic right ventricular dysplasia, familial, 12
+naxos disease
+cerebral palsy, spastic quadriplegic, 2
+charcot-marie-tooth disease, recessive intermediate b
+nemaline myopathy 6
+episodic ataxia, type 1
+atrial fibrillation, familial, 7
+spinocerebellar ataxia 13
+jervell-lange nielsen syndrome
+long qt syndrome 5
+atrial fibrillation, familial, 3
+atrial fibrillation, familial, 4
+long qt syndrome 6
+brugada syndrome 6
+paralysis, hyperkalemic periodic
+long qt syndrome 2
+short qt syndrome 1
+bartter syndrome, antenatal , type 2
+seizures, sensorineural deafness, ataxia, mental retardation, and electrolyte imbalance
+diabetes mellitus, transient neonatal, 3
+hyperinsulinemic hypoglycemia, familial, 2
+snowflake vitreoretinal degeneration
+andersen syndrome
+short qt syndrome 3
+long qt syndrome 13
+birk-barel mental retardation dysmorphism syndrome
+generalized epilepsy and paroxysmal dyskinesia
+hypertension, diastolic, resistance to
+romano-ward syndrome
+short qt syndrome 2
+epileptic encephalopathy, early infantile, 7
+seizures, benign familial neonatal, 1
+seizures, benign familial neonatal, 2
+retinal cone dystrophy 3b
+epilepsy, progressive myoclonic 3, with or without intracellular inclusions
+mental retardation, x-linked, syndromic, jarid1c-related
+cornea plana 2
+fructosuria
+spastic paraplegia 8, autosomal dominant
+goldberg-shprintzen megacolon syndrome
+charcot-marie-tooth disease, axonal, type 2a1
+fibrosis of extraocular muscles, congenital, 1
+spastic paraplegia 10, autosomal dominant
+hydrolethalus syndrome
+mental retardation, autosomal dominant 4
+precocious puberty, central
+piebaldism
+testicular germ cell tumor
+maturity-onset diabetes of the young, type 7
+retinitis pigmentosa 42
+amelogenesis imperfecta pigmented hypomaturation type
+prekallikrein deficiency
+flaujeac factor deficiency
+noonan syndrome 3
+ichthyosis, cyclic, with epidermolytic hyperkeratosis
+ichthyosis hystrix, curth macklin type
+keratoderma, palmoplantar, epidermolytic
+keratosis palmoplantaris striata 3
+palmoplantar keratoderma, nonepidermolytic
+erythroderma, ichthyosiform, congenital reticular
+corneal dystrophy, juvenile epithelial of meesmann
+leukokeratosis, hereditary mucosal
+dermatopathia pigmentosa reticularis
+epidermolysis bullosa simplex, autosomal recessive
+naegeli syndrome
+pachyonychia congenita
+palmoplantar keratoderma, nonepidermolytic, focal
+pachyonychia congenita jackson lawler type
+steatocystoma multiplex
+cirrhosis, familial
+ichthyosis bullosa of siemens
+dowling-degos disease
+epidermolysis bullosa simplex with migratory circinate erythema
+epidermolysis bullosa simplex with mottled pigmentation
+adenoma, oxyphilic
+woolly hair, autosomal dominant
+pseudofolliculitis barbae
+monilethrix
+ectodermal dysplasia 4, hair/nail type
+hydroxykynureninuria
+corpus callosum, partial agenesis of, x-linked
+hydrocephalus, x-linked
+masa (mental retardation, aphasia, shuffling gait, adducted thumbs) syndrome
+l-2-hydroxyglutaric aciduria
+muscular dystrophy congenital, merosin negative
+epidermolysis bullosa, junctional
+laryngo onycho cutaneous syndrome
+mesangial sclerosis, diffuse
+pierson syndrome
+pelvic organ prolapse
+glycogen storage disease type iib
+immunodeficiency due to defect in mapbp-interacting protein
+laryngeal adductor paralysis
+muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 6
+muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 6
+hydrops-ectopic calcification-moth-eaten skeletal dysplasia
+pelger-huet anomaly
+reynolds syndrome
+amaurosis congenita of leber, type 5
+lecithin acyltransferase deficiency
+blue cone monochromatism
+lactase deficiency, congenital
+lactose intolerance, adult type
+myopathy, myofibrillar, 4
+lactate dehydrogenase deficiency type a
+splenic rupture
+hypercholesterolemia, autosomal recessive
+buschke-ollendorff syndrome
+melorheostosis
+overweight
+osteogenesis imperfecta, type viii
+wolf-hirschhorn syndrome
+spondylocostal dysostosis 3, autosomal recessive
+epilepsy, familial temporal lobe, 1
+familial testotoxicosis
+leydig cell hypoplasia, type i
+deafness, autosomal recessive 67
+pituitary hormone deficiency, combined, 2
+winkelman bethge pfeiffer syndrome
+pituitary hormone deficiency, combined, 4
+stuve-wiedemann syndrome
+lig4 syndrome
+lysosomal acid lipase deficiency
+high density lipoprotein cholesterol level quantitative trait locus 12
+charcot-marie-tooth disease, type 1c
+factor v and factor viii, combined deficiency of, 1
+acheiropodia
+polydactyly, preaxial ii
+syndactyly, type iv
+methylmalonic aciduria and homocystinuria, cblf type
+lipase deficiency combined
+charcot-marie-tooth disease, type 2b1
+heart-hand syndrome, slovenian type
+hutchinson gilford progeria syndrome
+limb-girdle muscular dystrophy, type 1b
+lipodystrophy, familial partial, type 2
+mandibuloacral dysplasia with type a lipodystrophy
+muscular dystrophy, congenital, lmna-related
+progeria
+tight skin contracture syndrome, lethal
+pelizaeus-merzbacher disease
+lipodystrophy, partial, acquired, susceptibility to
+nail-patella syndrome
+vohwinkel syndrome, variant form
+myoglobinuria, acute recurrent, autosomal recessive
+majeed syndrome
+leber congenital amaurosis 14
+donnai-barrow syndrome
+syndactyly cenani lenz type
+exudative vitreoretinopathy 4
+hyperostosis corticalis generalisata, benign form of worth, with torus palatinus
+osteopetrosis autosomal dominant type 1
+van buchem disease type 2
+vitreoretinopathy, proliferative
+coronary artery disease, autosomal dominant 2
+leigh syndrome , french canadian type
+parkinson disease 8, autosomal dominant
+deafness, autosomal recessive 63
+glaucoma 3, primary congenital, d
+tooth agenesis, selective, 6
+cutis laxa with severe pulmonary, gastrointestinal, and urinary abnormalities
+chediak-higashi syndrome
+cataract, pulverulent, juvenile-onset
+major affective disorder 1
+mental retardation, x-linked 95
+hypospadias 2, x-linked
+alpha-mannosidosis
+beta-mannosidosis
+brunner syndrome
+progressive supranuclear palsy atypical
+deafness, autosomal recessive 49
+masp2 deficiency
+methionine adenosyltransferase deficiency
+epiphyseal dysplasia, multiple, 5
+spondyloepimetaphyseal dysplasia, matrilin-3 related
+mental retardation, autosomal dominant 1
+ichthyosis follicularis atrichia photophobia syndrome
+melanoma, cutaneous malignant, susceptibility to, 5
+oculocutaneous albinism type 2
+protein-losing enteropathies
+glucocorticoid deficiency 1
+body mass index quantitative trait locus 9
+3-methylcrotonyl coa carboxylase 1 deficiency
+3-methylcrotonyl coa carboxylase 2 deficiency
+methylmalonyl-coa epimerase deficiency
+factor v and factor viii, combined deficiency of, 2
+medullary cystic kidney disease 1
+mucolipidoses
+mucolipidosis iv
+microcephaly 1, primary, autosomal recessive
+autism, susceptibility to, x-linked 3
+encephalopathy, neonatal severe, due to mecp2 mutations
+lubs x-linked mental retardation syndrome
+mental retardation, x-linked, syndromic 13
+lujan fryns syndrome
+transposition of the great arteries, dextro-looped 1
+microcephaly, postnatal progressive, with seizures and brain atrophy
+charcot-marie-tooth disease, type 2b2
+coronary artery disease, autosomal dominant, 1
+mental retardation, autosomal dominant 20
+familial mediterranean fever, autosomal dominant
+gastrinoma
+glucagonoma
+multiple endocrine neoplasia type 1
+spondylocostal dysostosis 2, autosomal recessive
+charcot-marie-tooth disease, axonal, type 2a2
+hereditary motor and sensory neuropathy vi
+microphthalmia, isolated 5
+nanophthalmos 2
+ceroid lipofuscinosis, neuronal, 7
+congenital disorder of glycosylation type 2a
+keutel syndrome
+opitz gbbb syndrome, x-linked
+laurin-sandrow syndrome
+deafness, autosomal dominant 50
+albinism ocular late onset sensorineural deafness
+albinism, oculocutaneous
+tietz syndrome
+waardenburg syndrome type 2
+waardenburg syndrome type 2a
+mckusick kaufman syndrome
+meckel syndrome type 1
+megalencephalic leukoencephalopathy with subcortical cysts
+cafe au lait spots, multiple
+lynch syndrome ii
+muir-torre syndrome
+kabuki syndrome
+griscelli syndrome type 3
+methylmalonic aciduria cbla type
+methylmalonic aciduria cblb type
+methylmalonic acidemia with homocystinuria
+methylmalonic aciduria and homocystinuria, cbld type
+cryopyrin-associated periodic syndromes
+spondyloepimetaphyseal dysplasia, missouri type
+torg-winchester syndrome
+amelogenesis imperfecta, hypomaturation type, iia2
+histiocytoma, benign fibrous
+actinobacillus infections
+fusobacterium infections
+metaphyseal anadysplasia 2
+meningioma, familial
+classical lissencephalies and subcortical band heterotopias
+currarino triad
+congenital disorder of glycosylation, type iib
+congenital disorder of glycosylation type 1f
+congenital disorder of glycosylation type 1b
+congenital amegakaryocytic thrombocytopenia
+amish brittle hair brain syndrome
+myeloperoxidase deficiency
+mitochondrial dna depletion syndrome 6 (hepatocerebral type)
+charcot-marie-tooth disease, dominant intermediate d
+charcot-marie-tooth disease, type 2i
+charcot-marie-tooth disease, type 2j
+roussy-levy hereditary areflexic dystasia
+ataxia-telangiectasia-like disorder
+combined oxidative phosphorylation deficiency 2
+combined oxidative phosphorylation deficiency 5
+mental retardation, autosomal recessive 4
+mental retardation, x-linked 72
+neurofibromatosis 1
+prostate cancer, hereditary, 13
+deafness, autosomal recessive 74
+keratoacanthoma familial
+myostatin-related muscle hypertrophy
+orofacial cleft 5
+tooth agenesis, selective, 1
+witkop syndrome
+craniosynostosis, type 2
+parietal foramina with cleidocranial dysplasia
+eye burns
+nevus
+blood coagulation disorders, inherited
+homocystinuria due to deficiency of n(5,10)-methylenetetrahydrofolate reductase activity
+orofacial cleft 1
+myopathy, centronuclear, x-linked
+charcot-marie-tooth disease, type 4b1
+spastic ataxia 4, autosomal recessive
+methylcobalamin deficiency, cblg type
+homocystinuria-megaloblastic anemia due to defect in cobalamin metabolism, cble complementation type
+abetalipoproteinemia
+methylmalonic aciduria due to methylmalonyl-coa mutase deficiency
+colorectal adenomatous polyposis, autosomal recessive
+mevalonate kinase deficiency
+porokeratosis, disseminated superficial actinic 1
+influenza in birds
+cardiomyopathy, familial hypertrophic, 4
+cardiomyopathy, hypertrophic, familial
+oculodigitoesophagoduodenal syndrome
+myd88 deficiency
+aortic aneurysm, familial thoracic 4
+deafness, autosomal dominant 4a
+inclusion body myopathy, autosomal dominant
+distal arthrogryposis type 2b
+freeman-sheldon syndrome
+cardiomyopathy, dilated, 1ee
+cardiomyopathy, familial hypertrophic, 14
+cardiomyopathy, dilated, 1s
+myopathy, myosin storage
+scapuloperoneal myopathy, myh7-related
+carney complex variant
+hecht syndrome
+deafness, autosomal dominant 17
+epstein syndrome
+fechtner syndrome
+macrothrombocytopenia progressive deafness
+may-hegglin anomaly
+sebastian syndrome
+cardiomyopathy, familial hypertrophic, 10
+cardiomyopathy, familial hypertrophic, 8
+deafness, autosomal recessive 3
+deafness, autosomal dominant 48
+deafness, autosomal recessive 30
+griscelli syndrome type 1
+microvillus inclusion disease
+deafness, autosomal dominant 22;dfna22 deafness, autosomal dominant 22, with hypertrophic cardiomyopathy,
+deafness, autosomal recessive 37
+deafness, autosomal dominant 11
+deafness, autosomal recessive 2
+usher syndromes
+usher syndrome, type 1b
+muscular dystrophy, limb-girdle, type 1a
+myopathy, myofibrillar, 3
+spheroid body myopathy
+solitary fibrous tumors
+kanzaki disease
+schindler disease, type 1
+n-acetyl glutamate synthetase deficiency
+gray platelet syndrome
+nijmegen breakage syndrome
+granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type i
+granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type ii
+hidradenitis suppurativa, familial
+optic atrophies, hereditary
+exudative vitreoretinopathy 2, x-linked
+norrie disease
+neuropathy, hereditary motor and sensory, lom type
+nemaline myopathy 2
+charcot-marie-tooth disease, type 1f
+charcot-marie-tooth disease, type 2e
+never in mitosis gene a-related kinase 1
+neuraminidase 1 deficiency
+maturity-onset diabetes of the young, type 6
+diarrhea 4, malabsorptive, congenital
+cardiomyopathy, dilated, 1cc
+neurofibromatoses
+neurofibromatosis, familial spinal
+neurofibromatosis-noonan syndrome
+watson syndrome
+neurofibromatosis 2
+schwannomatosis
+ectodermal dysplasia, anhidrotic, with t-cell immunodeficiency, autosomal dominant
+neuropathy, hereditary sensory and autonomic, type v
+severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation
+dyskeratosis congenita, autosomal recessive
+nance-horan syndrome
+spastic paraplegia 6, autosomal dominant
+ichthyosis, congenital, autosomal recessive 6
+de lange syndrome
+choreoathetosis, hypothyroidism, and neonatal respiratory distress
+atrial septal defect 7 with or without atrioventricular conduction defects
+hypothyroidism, congenital, nongoitrous, 5
+spondylo-megaepiphyseal-metaphyseal dysplasia
+asperger syndrome, x-linked, susceptibility to, 1
+autism, susceptibility to, x-linked 1
+asperger syndrome, x-linked, susceptibility to, 2
+autism, susceptibility to, x-linked 2
+vitiligo-associated multiple autoimmune disease susceptibility 1
+familial cold autoinflammatory syndrome 2
+familial cold autoinflammatory syndrome 1
+muckle-wells syndrome
+hydatidiform mole
+ciliary dyskinesia, primary, 6
+hereditary macular coloboma
+premature ovarian failure 5
+sarcoidosis, early-onset
+synovitis granulomatous with uveitis and cranial neuropathies
+brachydactyly, type b2
+multiple synostoses syndrome 1
+stapes ankylosis with broad thumb and toes
+tarsal carpal coalition syndrome
+pyloric stenosis, infantile hypertrophic, 1
+hajdu-cheney syndrome
+cadasil
+niemann-pick disease, type c2
+joubert syndrome 4
+nephronophthisis, familial juvenile
+senior-loken syndrome 1
+nephronophthisis 3
+renal-hepatic-pancreatic dysplasia
+renal hepatic pancreatic dysplasia dandy walker cyst
+nephronophthisis 4
+senior-loken syndrome 4
+nephrotic syndrome, idiopathic, steroid-resistant
+atrial fibrillation, familial, 6
+acromesomelic dysplasia, maroteaux type
+asthma-related traits, susceptibility to, 2
+dosage-sensitive sex reversal
+enhanced s-cone syndrome
+retinitis pigmentosa 37
+46, xx disorders of sex development
+acanthosis nigricans
+hypertension, early-onset, autosomal dominant, with severe exacerbation in pregnancy
+chondrosarcoma, extraskeletal myxoid
+46,xy sex reversal 3
+gonadal dysgenesis, 46,xx
+gonadal dysgenesis, 46,xy
+premature ovarian failure 7
+neurofibrosarcoma
+noonan syndrome 6
+sotos syndrome
+weaver syndrome
+ck syndrome
+congenital hemidysplasia with ichthyosiform erythroderma and limb defects
+uridine 5-prime monophosphate hydrolase deficiency, hemolytic anemia due to
+calcification of joints and arteries
+glaucoma 1, open angle, o
+familial medullary thyroid carcinoma
+striatonigral degeneration infantile
+night blindness, congenital stationary, type 1a
+ornithine aminotransferase deficiency
+three m syndrome 2
+band-like calcification with simplified gyration and polymicrogyria
+dent disease 2
+oculocerebrorenal syndrome
+joubert syndrome 10
+orofaciodigital syndrome type1
+simpson-golabi-behmel syndrome, type 2
+alpha-ketoglutarate dehydrogenase deficiency
+glaucoma, normal tension, susceptibility to
+optic atrophy 1 and deafness
+costeff optic atrophy syndrome
+optic atrophy and cataract, autosomal dominant
+mental retardation, x-linked, with cerebellar hypoplasia and distinctive facial appearance
+colorblindness, partial, deutan series
+tritanopia
+hip contracture
+lordosis
+osteoarthritis, spine
+shoulder dislocation
+amyotrophic lateral sclerosis 12
+immune dysfunction with t-cell inactivation due to calcium entry defect 1
+amyloidosis ix
+osteopetrosis, autosomal recessive 1
+osteopetrosis, autosomal recessive 5
+ornithine transcarbamylase deficiency, hyperammonemia due to
+deafness, autosomal recessive 22
+deafness, autosomal recessive 9
+microphthalmia, syndromic 5
+succinyl-coa:3-oxoacid coa transferase deficiency
+bleeding disorder, platelet-type, 8
+muscular dystrophy, oculopharyngeal
+lissencephaly
+phenylketonurias
+mental retardation, x-linked 30
+fanconi anemia, complementation group n
+hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration
+pantothenate kinase-associated neurodegeneration
+spondyloepimetaphyseal dysplasia, pakistani type
+parkinson disease 4, autosomal dominant lewy body
+parkinson disease 7, autosomal recessive early-onset
+papillorenal syndrome
+craniofacial deafness hand syndrome
+waardenburg syndrome
+maturity-onset diabetes of the young, type 9
+aniridia
+aniridia cerebellar ataxia mental deficiency
+aniridia, type 2
+coloboma of optic nerve
+ectopia pupillae
+foveal hypoplasia and presenile cataract syndrome
+keratitis, hereditary
+optic nerve hypoplasia, bilateral
+hypothyroidism, congenital, nongoitrous, 2
+tooth agenesis, selective, 3
+pyruvate carboxylase deficiency disease
+hyperphenylalaninemia, bh4-deficient, d
+propionic acidemia
+deafness, autosomal recessive 23
+usher syndrome, type 1f
+epileptic encephalopathy, early infantile, 9
+phosphoenolpyruvate carboxykinase deficiency
+phosphoenolpyruvate carboxykinase 2 deficiency
+microcephalic osteodysplastic primordial dwarfism, type ii
+seckel syndrome 2
+body mass index quantitative trait locus 12
+proprotein convertase 1/3 deficiency
+tracheoesophageal fistula
+hypercholesterolemia, autosomal dominant, 3
+cerebral cavernous malformations 3
+pigmented nodular adrenocortical disease, primary, 2
+night blindness, congenital stationary
+night blindness, congenital stationary, autosomal dominant 2
+cone dystrophy 4
+retinitis pigmentosa 57
+retinal cone dystrophy 3a
+striatal degeneration, autosomal dominant
+hypereosinophilic syndrome, idiopathic
+leigh syndrome, x-linked
+pyruvate dehydrogenase complex deficiency disease
+pyruvate metabolism, inborn errors
+pyruvate dehydrogenase e3-binding protein deficiency
+pyruvate dehydrogenase phosphatase deficiency
+maturity-onset diabetes of the young, type 4
+pancreatic agenesis, congenital
+spinocerebellar ataxia 23
+prolidase deficiency
+advanced sleep-phase syndrome, familial
+peroxisome biogenesis disorder 2b
+peroxisome biogenesis disorders
+refsum disease, infantile
+chondrodysplasia punctata, rhizomelic
+rhizomelic chondrodysplasia punctata, type 1
+glycogen storage disease type vii
+dimauro disease
+phosphoglycerate kinase 1 deficiency
+glycogen storage disease xiv
+borjeson-forssman-lehmann syndrome
+siderius x-linked mental retardation syndrome
+phosphoglycerate dehydrogenase deficiency
+glycogen storage disease, type ixd
+glycogen storage disease ixa1
+glycogen storage disease ixb
+glycogen storage disease ixc
+fibrosis of extraocular muscles, congenital, 2
+hyperphosphatasia with mental retardation syndrome 1
+corneal dystrophy, fleck
+parkinson disease 6, autosomal recessive early-onset
+lethal congenital contractural syndrome 3
+iridogoniodysgenesis, type 2
+ring dermoid of cornea
+cataract, posterior polar, 4
+polycystic kidney disease, type 2
+adenosine triphosphate, elevated, of erythrocytes
+pyruvate kinase deficiency of red cells
+ectodermal dysplasia/ skin fragility syndrome
+arrhythmogenic right ventricular dysplasia, familial, 9
+neurodegeneration with brain iron accumulation 2a
+neurodegeneration with brain iron accumulation 2b
+parkinson disease 14, autosomal recessive
+salivary gland adenoma, pleomorphic
+thrombophilia, familial, due to decreased release of tissue plasminogen activator;thph9 hyperfibrinolysis, familial, due to increased release of tissue plasminogen
+epileptic encephalopathy, early infantile, 12
+nephrotic syndrome, type 3
+epidermolysa bullosa simplex and limb girdle muscular dystrophy
+epidermolysis bullosa simplex, ogna type
+epidermolysis bullosa simplex with pyloric atresia
+muscular dystrophy, limb-girdle, type 2q
+spinal muscular atrophy, distal, autosomal recessive, 4
+osteopetrosis, autosomal recessive 6
+pulmonary function
+plasminogen deficiency, type i
+cardiomyopathy, dilated, 1p
+ehlers-danlos syndrome type 6
+nevo syndrome
+bruck syndrome 2
+bone fragility with contractures, arterial rupture, and deafness
+spastic paraplegia 2, x-linked
+congenital disorder of glycosylation type 1a
+charcot-marie-tooth disease, demyelinating, type 1e
+neuropathy, hereditary, with liability to pressure palsies
+dna repair-deficiency disorders
+epileptic encephalopathy, early infantile, 10
+purine nucleoside phosphorylase deficiency
+neutral lipid storage disease with myopathy
+spastic paraplegia 39, autosomal recessive
+pyridoxamine 5-prime-phosphate oxidase deficiency
+premature ovarian failure 2b
+diffuse cerebral sclerosis of schilder
+mitochondrial dna depletion syndrome 1 (mngie type)
+mitochondrial dna depletion syndrome 4a (alpers type)
+mitochondrial dna depletion syndrome 4b (mngie type)
+progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 1
+progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal recessive
+progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 4
+xeroderma pigmentosum, variant type
+mandibulofacial dysostosis
+mandibulofacial dysostosis, treacher collins type, autosomal recessive
+treacher collins syndrome 2
+acth syndrome, ectopic
+aortic stenosis, subvalvular
+proopiomelanocortin deficiency
+rhabdomyoma
+muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 3
+muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 3
+keratosis linearis with ichthyosis congenita and sclerosing keratoderma
+muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 1
+muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 1
+muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 2
+muscular dystrophy-dystroglycanopathy (congenital with mental retardation), type b, 2
+muscular dystrophy-dystroglycanopathy (limb-girdle), type c, 2
+microvascular complications of diabetes, susceptibility to, 5
+adrenal hyperplasia, congenital, due to cytochrome p450 oxidoreductase deficiency
+antley-bixler syndrome with genital anomalies and disordered steroidogenesis
+disordered steroidogenesis due to cytochrome p450 oxidoreductase deficiency
+focal dermal hypoplasia
+chromosome disorders
+dwarfism, pituitary
+pituitary hormone deficiency, combined, 1
+progressive hearing loss stapes fixation
+deafness, autosomal dominant 15
+gestational trophoblastic disease
+carotid intimal medial thickness 1
+lipodystrophy, familial partial, type 3
+juvenile osteoporosis
+osteogenesis imperfecta, type ix
+spinocerebellar ataxia 12
+ceroid lipofuscinosis, neuronal, 1
+renpenning syndrome 1
+pierre robin syndrome
+hemophagocytic lymphohistiocytosis, familial, 2
+jacobs syndrome
+epilepsy, progressive myoclonic, 1b
+cardiomyopathy, familial hypertrophic, 6
+glycogen storage disease of heart, lethal congenital
+carbohydrate metabolism, inborn errors
+atrial myxoma, familial
+pigmented nodular adrenocortical disease, primary, 1
+spinocerebellar ataxia 14
+gerstmann-straussler-scheinker disease
+huntington disease-like 1
+insomnia, fatal familial
+spongiform encephalopathy with neuropsychiatric features
+congenital thrombotic disease, due to protein c deficiency
+thrombophilia due to protein c deficiency, autosomal recessive
+hyperprolinemia
+cone-rod dystrophy 12
+macular dystrophy, retinal, 2
+retinitis pigmentosa 41
+stargardt disease 4
+thrombophilia due to protein s deficiency, autosomal dominant
+retinitis pigmentosa 18
+retinitis pigmentosa 11
+retinitis pigmentosa 13
+choroidal dystrophy, central areolar 2
+fundus albipunctatus
+patterned dystrophy of retinal pigment epithelium
+retinitis pigmentosa 7
+arts syndrome
+deafness, x-linked 1
+optic atrophy polyneuropathy deafness
+phosphoribosylpyrophosphate synthetase superactivity
+retrognathia
+mental retardation, autosomal recessive 1
+combined saposin deficiency
+gaucher disease, atypical, due to saposin c deficiency
+krabbe disease, atypical, due to saposin a deficiency
+metachromatic leukodystrophy due to saposin b deficiency
+phosphoserine aminotransferase deficiency
+linitis plastica
+alzheimer disease, familial, 3, with spastic paraparesis and apraxia
+cardiomyopathy, dilated, 1u
+alzheimer disease type 4
+cardiomyopathy, dilated, 1v
+pyogenic arthritis, pyoderma gangrenosum, and acne
+holoprosencephaly 7
+duodenal diseases
+leopard syndrome
+macrocephaly autism syndrome
+proteus syndrome
+vacterl hydrocephaly
+diabetes mellitus, permanent neonatal, with cerebellar agenesis
+asthma-related traits, susceptibility to, 1
+asthma, nasal polyps, and aspirin intolerance
+chondrodysplasia, blomstrand type
+eiken skeletal dysplasia
+failure of tooth eruption, primary
+jansen type metaphyseal chondrodysplasia
+brachydactyly, type e2
+potocki-lupski syndrome
+leopard syndrome, 1
+metachondromatosis
+osteochondroma
+choanal atresia and lymphedema
+deafness, autosomal recessive 84a
+lipodystrophy, congenital generalized, type 4
+6-pyruvoyl-tetrahydropterin synthase deficiency
+myopathy with lactic acidosis and sideroblastic anemia
+poliomyelitis
+rosselli-gulienetti syndrome
+zlotogora-ogur syndrome
+ectodermal dysplasia-syndactyly syndrome 1
+cutis laxa, autosomal recessive, type iib
+glycogen storage disease type vi
+hyperphenylalaninemia, bh4-deficient, c
+acrocephalopolysyndactyly type ii
+griscelli syndrome type 2
+warburg sjo fledelius syndrome
+martsolf syndrome
+charcot-marie-tooth disease, type 2b
+neutrophil immunodeficiency syndrome
+nijmegen breakage syndrome-like disorder
+breast-ovarian cancer, familial, susceptibility to, 3
+fanconi anemia, complementation group o
+leopard syndrome, 2
+noonan syndrome 5
+alpha/beta t-cell lymphopenia with gamma/delta t-cell expansion, severe cytomegalovirus infection, and autoimmunity
+combined cellular and humoral immune defects with granulomas
+severe combined immunodeficiency, autosomal recessive, t cell-negative, b cell-negative, nk cell-positive
+encephalopathy, acute, infection-induced, susceptibility to, 3
+pontocerebellar hypoplasia type 6
+capillary malformation-arteriovenous malformation
+port-wine stain
+microphthalmia, isolated 3
+cone-rod dystrophy 11
+tarp syndrome
+cardiomyopathy, dilated, 1dd
+alopecia, neurologic defects, and endocrinopathy syndrome
+absent radii and thrombocytopenia
+keratomalacia
+leber congenital amaurosis 12
+leber congenital amaurosis 13
+leber congenital amaurosis 3
+retinal dystrophies
+deafness, autosomal recessive 24
+craniosynostosis radial aplasia syndrome
+rapadilino syndrome
+rothmund-thomson syndrome
+spastic paraplegia 31, autosomal dominant
+norman roberts lissencephaly syndrome
+hyperuricemic nephropathy, familial juvenile, 2
+otitis externa
+multiple endocrine neoplasia type 2a
+multiple endocrine neoplasia type 2b
+simpson-golabi-behmel syndrome
+congenital disorder of glycosylation, type in
+prolonged electroretinal response suppression
+rh-null, regulator type
+anemia, hemolytic, congenital
+night blindness, congenital stationary, autosomal dominant 1
+retinitis pigmentosa 4
+cone-rod dystrophy 7
+macrocephaly, alopecia, cutis laxa, and scoliosis
+bothnia retinal dystrophy
+newfoundland rod-cone dystrophy
+anauxetic dysplasia
+cartilage-hair hypoplasia
+metaphyseal dysplasia without hypotrichosis
+aicardi-goutieres syndrome 4
+aicardi-goutieres syndrome 3
+prostate cancer, hereditary, 1
+leukoencephalopathy, cystic, without megalencephaly
+riddle syndrome
+meningitis, viral
+gaze palsy, familial horizontal, with progressive scoliosis
+brachydactyly, type b1
+robinow syndrome, autosomal recessive
+retinitis pigmentosa 1
+retinitis pigmentosa 2
+retinitis pigmentosa 9
+amaurosis congenita of leber, type 2
+cone-rod dystrophy, x-linked, 1
+retinitis pigmentosa 3
+retinitis pigmentosa, x-linked, and sinorespiratory infections, with or without deafness
+cone-rod dystrophy 13
+joubert syndrome 7
+meckel syndrome, type 5
+ribose 5-phosphate isomerase deficiency
+diamond-blackfan anemia 7
+diamond-blackfan anemia 5
+diamond-blackfan anemia 6
+diamond-blackfan anemia 9
+diamond-blackfan anemia 4
+anemia, diamond-blackfan, 3
+diamond-blackfan anemia 10
+coffin-lowry syndrome
+diamond-blackfan anemia 8
+mitochondrial dna depletion syndrome 8a (encephalomyopathic type with renal tubulopathy)
+progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 5
+retinoschisis
+ciliary dyskinesia, primary, 11
+ciliary dyskinesia, primary, 12
+palmoplantar hyperkeratosis with squamous cell carcinoma of skin and 46,xx sex reversal
+anonychia congenita
+platelet disorder, familial, with associated myeloid malignancy
+cleidocranial dysplasia
+stomatognathic system abnormalities
+malignant hyperthermia susceptibility type 1
+minicore myopathy with external ophthalmoplegia
+myopathy, central core
+arrhythmogenic right ventricular dysplasia, familial, 2
+spastic ataxia charlevoix-saguenay type
+ehlers-danlos syndrome
+townes-brocks syndrome
+oculootoradial syndrome
+tumoral calcinosis, normophosphatemic, familial
+aicardi-goutieres syndrome 5
+chylomicron retention disease
+sarcosinemia
+keratosis follicularis spinulosa decalvans, x-linked
+cleft palate, isolated, and mental retardation
+shwachman syndrome
+charcot-marie-tooth disease, type 4b2
+lathosterolosis
+epilepsy, progressive myoclonic 4, with or without renal failure
+generalized epilepsy with febrile seizures plus, type 2
+migraine, familial hemiplegic, 3
+brugada syndrome 5
+epilepsy, benign neonatal, 3
+epileptic encephalopathy, early infantile, 11
+brugada syndrome 7
+hypokalemic periodic paralysis, type 2
+paramyotonia congenita of von eulenburg
+potassium aggravated myotonia
+long qt syndrome 10
+cardiomyopathy, dilated, 1e
+long qt syndrome 3
+long qt syndrome type 3
+sick sinus syndrome 1, autosomal recessive
+indifference to pain, congenital, autosomal recessive
+paroxysmal extreme pain disorder
+bronchiectasis with or without elevated sweat chloride 2
+bronchiectasis with or without elevated sweat chloride 3
+cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency
+leukoencephalopathy with dystonia and motor neuropathy
+mitochondrial complex ii deficiency
+carney-stratakis syndrome
+cowden-like syndrome
+carcinoid tumors, intestinal
+craniolenticulosutural dysplasia
+thyroid hormone metabolism, abnormal
+cone-rod dystrophy 10
+retinitis pigmentosa 35
+rigid spine syndrome
+neuritis with brachial predilection
+panniculitis, nodular nonsuppurative
+corticosteroid-binding globulin deficiency
+deafness, autosomal recessive 91
+heparin cofactor ii deficiency
+plasminogen activator inhibitor-1 deficiency
+anti-plasmin deficiency, congenital
+complement component 4, partial deficiency of
+familial encephalopathy with neuroserpin inclusion bodies
+schinzel-giedion syndrome
+amyotrophic lateral sclerosis 4, juvenile
+spinocerebellar ataxia, autosomal recessive 1
+surfactant metabolism dysfunction, pulmonary, 2
+limb-girdle muscular dystrophy, type 2d
+limb-girdle muscular dystrophy, type 2e
+cardiomyopathy, dilated, 1l
+limb-girdle muscular dystrophy type 2f
+limb-girdle muscular dystrophy, type 2c
+cherubism
+ter haar syndrome
+charcot-marie-tooth disease, type 4c
+mononeuropathy of the median nerve, mild
+split hand foot deformity 1
+holoprosencephaly 3
+microphthalmia, isolated, with coloboma 5
+single upper central incisor
+noonan syndrome-like disorder with loose anagen hair
+langer mesomelic dysplasia
+leri-weil syndrome
+short stature, idiopathic, x-linked
+stocco dos santos syndrome
+sucrase-isomaltase deficiency, congenital
+branchiootic syndrome 3
+deafness, autosomal dominant 23
+holoprosencephaly 2
+branchiootorenal syndrome 2
+microphthalmia, isolated, with cataract 2
+bile acid malabsorption, primary
+buruli ulcer
+anemia, hypochromic microcytic, with iron overload
+bartter syndrome, antenatal type 1
+gitelman syndrome
+corpus callosum agenesis neuronopathy
+erythrocyte lactate transporter defect
+hyperinsulinemic hypoglycemia, familial, 7
+cataract, juvenile, with microcornea and glucosuria
+allan-herndon-dudley syndrome
+deafness, autosomal dominant 25
+thiamine responsive megaloblastic anemia syndrome
+episodic ataxia, type 6
+pleuropneumonia
+hypomyelination, global cerebral
+adult-onset citrullinemia type 2
+neonatal-onset citrullinemia type 2
+hhh syndrome
+amish lethal microcephaly
+carnitine-acylcarnitine translocase deficiency
+epileptic encephalopathy, early infantile, 3
+mitochondrial phosphate carrier deficiency
+progressive external ophthalmoplegia with mitochondrial dna deletions, autosomal dominant, 2
+achondrogenesis type 1b
+atelosteogenesis type 2
+diastrophic dysplasia
+epiphyseal dysplasia, multiple, 4
+pendred syndrome
+ichthyosis prematurity syndrome
+histiocytosis, sinus
+histiocytosis with joint contractures and sensorineural deafness
+de vivo disease
+glut1 deficiency syndrome 2
+arterial tortuosity syndrome
+fanconi-bickel syndrome
+hypouricemia, renal, 2
+spastic paraplegia 42, autosomal dominant
+nephrolithiasis/osteoporosis, hypophosphatemic, 1
+pulmonary alveolar microlithiasis
+testicular microlithiasis
+hypophosphatemic rickets with hypercalciuria, hereditary
+congenital disorder of glycosylation, type iif
+congenital disorder of glycosylation, type 2c
+schneckenbecken dysplasia
+hyperglycinuria
+iminoglycinuria
+glycogen storage disease ib
+glycogen storage disease ic
+spondylocheirodysplasia, ehlers-danlos syndrome-like
+hemochromatosis, type 4
+oculocutaneous albinism, type iv
+folate malabsorption, hereditary
+autosomal dominant distal renal tubular acidosis
+elliptocytosis, hereditary
+renal tubular acidosis, distal, with hemolytic anemia
+spherocytosis, type 4
+corneal dystrophy and perceptive deafness
+corneal dystrophy, fuchs endothelial, 4
+corneal endothelial dystrophy type 2
+renal tubular acidosis, proximal, with ocular abnormalities and mental retardation
+brown-vialetto-van laere syndrome
+glucose/galactose malabsorption
+thyroid dyshormonogenesis 1
+body mass index quantitative trait locus 11
+hartnup disease
+parkinsonism-dystonia, infantile
+superior mesenteric artery syndrome
+lysinuric protein intolerance
+nephrolithiasis/osteoporosis, hypophosphatemic, 2
+mental retardation, x-linked, syndromic, christianson type
+loeys-dietz syndrome
+growth mental deficiency syndrome of myhre
+juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome
+nicolaides baraitser syndrome
+rhabdoid tumor predisposition syndrome 2
+schimke immunoosseous dysplasia
+rhabdoid tumor predisposition syndrome 1
+cdls, x-linked
+spinal muscular atrophies of childhood
+spinal muscular atrophy 4
+niemann-pick diseases
+niemann-pick disease, type a
+niemann-pick disease, type b
+snyder robinson syndrome
+waardenburg syndrome, type 2d
+cerebral dysgenesis, neuropathy, ichthyosis, and palmoplantar keratoderma syndrome
+parkinson disease 1, autosomal dominant
+retinitis pigmentosa 33
+long qt syndrome 12
+microcephaly, microphthalmia, ectrodactyly of lower limbs, and prognathism
+mental retardation, anterior maxillary protrusion, and strabismus
+dermatitis, atopic, 4
+microvascular complications of diabetes, susceptibility to, 6
+noonan syndrome 4
+sclerosteosis
+peripheral demyelinating neuropathy, central dysmyelination, waardenburg syndrome, and hirschsprung disease
+waardenburg syndrome, type 4c
+yemenite deaf-blind hypopigmentation syndrome
+hypotrichosis-lymphedema-telangiectasia syndrome
+microphthalmia, syndromic 3
+mental retardation, x-linked, with panhypopituitarism
+panhypopituitarism x-linked
+campomelic dysplasia
+hepatic venoocclusive disease with immunodeficiency
+spastic paraplegia 4, autosomal dominant
+spastic paraplegia 11, autosomal recessive
+spastic paraplegia 20, autosomal recessive
+mast syndrome
+spastic paraplegia 7, autosomal recessive
+tropical calcific pancreatitis
+netherton syndrome
+diarrhea 3, secretory sodium, congenital
+dystonia, dopa-responsive, due to sepiapterin reductase deficiency
+legius syndrome
+elliptocytosis 2
+pyropoikilocytosis, hereditary
+spherocytosis, type 3
+epileptic encephalopathy, early infantile, 5
+neuropathy, hereditary sensory and autonomic, type ia
+neuropathy, hereditary sensory and autonomic, type ic
+pseudovaginal perineoscrotal hypospadias
+congenital disorder of glycosylation, type iq
+perisylvian syndrome
+rolandic epilepsy, mental retardation, and speech dyspraxia, x-linked
+46,xx gonadal dysgenesis, complete, sry-positive
+46,xy sex reversal 1
+ichthyosis with hypotrichosis, autosomal recessive
+amish infantile epilepsy syndrome
+hyper-ige recurrent infection syndrome, autosomal dominant
+growth hormone insensitivity with immunodeficiency
+microcephaly 7, primary, autosomal recessive
+immune dysfunction with t-cell inactivation due to calcium entry defect 2
+microphthalmia, syndromic 9
+polyhydramnios, megalencephaly, and symptomatic epilepsy
+deafness, autosomal recessive 16
+hemophagocytic lymphohistiocytosis, familial, 4
+epileptic encephalopathy, early infantile, 4
+mitochondrial dna depletion syndrome 2 (myopathic type)
+mitochondrial dna depletion syndrome 5 (encephalomyopathic with methylmalonic aciduria)
+mitochondrial dna depletion syndrome 9 (encephalomyopathic type with methylmalonic aciduria)
+multiple sulfatase deficiency disease
+orofacial cleft 10
+diabetes mellitus, insulin-dependent, 5
+sulfite oxidase deficiency
+spermatogenic failure 4
+epilepsy, x-linked, with variable learning disabilities and behavior disorders
+spinocerebellar ataxia, autosomal recessive 8
+mental retardation, autosomal dominant 5
+mental retardation, x-linked 96
+corneal dystrophy, gelatinous drop-like
+dystonia 3, torsion, x-linked
+diabetes mellitus, insulin-dependent, 21
+transaldolase deficiency
+myeloproliferative syndrome, transient
+bare lymphocyte syndrome, type i
+amyotrophic lateral sclerosis 10
+thiourea tasting
+barth syndrome
+hypoparathyroidism-retardation-dysmorphism syndrome
+kenny caffey syndrome
+kenny-caffey syndrome, type 1
+spinocerebellar ataxia 17
+cousin syndrome
+pelviscapular dysplasia
+atrial septal defect 4
+cleft palate x-linked
+ulnar-mammary syndrome
+ischiopatellar dysplasia
+holt-oram syndrome
+ghosal hematodiaphyseal dysplasia
+cardiomyopathy, dilated, 1n
+muscular dystrophy, limb-girdle, type 2g
+transcobalamin ii deficiency
+spinocerebellar ataxia, autosomal recessive, with axonal neuropathy
+sveinsson chorioretinal atrophy
+deafness, autosomal dominant 12
+deafness, autosomal recessive 21
+venous malformations, multiple cutaneous and mucosal
+dyskeratosis congenita, autosomal dominant
+congenital atransferrinemia
+char syndrome
+hemochromatosis, type 3
+arenaviridae infections
+thyroid dyshormonogenesis 3
+camurati-engelmann syndrome
+arrhythmogenic right ventricular dysplasia, familial, 1
+corneal dystrophy, epithelial basement membrane
+corneal dystrophy, lattice type iiia
+corneal dystrophy of bowman layer, type 1
+groenouw type i corneal dystrophy
+lattice corneal dystrophy type 1
+loeys-dietz syndrome, type 1a
+loeys-dietz syndrome, type 2a
+aortic aneurysm, familial thoracic 3
+hernia, inguinal
+loeys-dietz syndrome, type 1b
+holoprosencephaly 4
+lamellar ichthyosis, type 1
+peeling skin syndrome
+peeling skin syndrome, acral type
+dystonia 6, torsion
+thyroid hormone resistance, generalized, autosomal dominant
+thyroid hormone resistance, generalized, autosomal recessive
+thyroid hormone resistance, selective pituitary
+jensen syndrome
+mohr-tranebjaerg syndrome
+fundus dystrophy, pseudoinflammatory, of sorsby
+revesz debuse syndrome
+korsakoff syndrome
+atrial septal defect 6
+macular degeneration, age-related, 10
+deafness, autosomal dominant 36
+deafness, autosomal recessive 7
+epidermodysplasia verruciformis
+optic atrophy 7
+joubert syndrome 2
+meckel syndrome type 2
+arrhythmogenic right ventricular dysplasia, familial, 5
+joubert syndrome 6
+meckel syndrome type 3
+nephronophthisis 11
+deafness, autosomal recessive 6
+cardiomyopathy, dilated, 1t
+enterokinase deficiency
+deafness, autosomal recessive 8
+iron-refractory iron deficiency anemia
+osteopetrosis, autosomal recessive 7
+polyostotic osteolytic dysplasia, hereditary expansile
+paget disease, juvenile
+immunoglobulin a deficiency 2
+periodic fever, familial, autosomal dominant
+osteopetrosis, autosomal recessive 2
+cardiomyopathy, dilated, 1z
+cardiomyopathy, familial hypertrophic, 13
+cardiomyopathy, dilated, 1ff
+cardiomyopathy, dilated, 2a
+cardiomyopathy, familial hypertrophic, 7
+cardiomyopathy, familial restrictive, 1
+nemaline myopathy 5
+cardiomyopathy, dilated, 1d
+cardiomyopathy, familial hypertrophic, 2
+cardiomyopathy, familial restrictive, 3
+ehlers-danlos syndrome caused by tenascin-x deficiency
+keratosis palmoplantaris with esophageal cancer
+retinitis pigmentosa 31
+dystonia musculorum deformans type 1
+adrenocortical carcinoma, hereditary
+papilloma, choroid plexus
+ectrodactyly-cleft lip/palate syndrome
+ectrodactyly, ectodermal dysplasia, and cleft lip/palate syndrome 3
+hay-wells syndrome
+limb-mammary syndrome
+propping zerres syndrome
+rapp-hodgkin syndrome
+split-hand/foot malformation 4
+cardiomyopathy, dilated, 1y
+cardiomyopathy, familial hypertrophic, 3
+arthrogryposis, distal, type 1a
+nemaline myopathy 4
+nemaline myopathy 1
+thiopurine s-methyltransferase deficiency
+thyroid dyshormonogenesis 2a
+ceroid lipofuscinosis, neuronal, 2
+deafness, autosomal recessive 79
+spondyloepiphyseal dysplasia tarda, x-linked
+mental retardation, autosomal recessive 13
+trehalase deficiency
+polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy
+chilblain lupus
+vasculopathy, retinal, with cerebral leukodystrophy
+coma, post-head injury
+thyrotropin-releasing hormone deficiency
+limb-girdle muscular dystrophy type 2h
+mulibrey nanism
+deafness, autosomal recessive 28
+achondrogenesis type 1a
+deafness, aminoglycoside-induced
+liver failure, infantile, transient
+night blindness, congenital stationary, type 1c
+hypomagnesemia 1, intestinal
+amyotrophic lateral sclerosis-parkinsonism/dementia complex 1
+langer-giedion syndrome
+trichorhinophalangeal syndrome type 2
+trichorhinophalangeal syndrome, type i
+trichorhinophalangeal syndrome, type iii
+brachyolmia type 3
+hereditary motor and sensory neuropathy, type iic
+metatropic dwarfism
+parastremmatic dwarfism
+scapuloperoneal spinal muscular atrophy
+sodium serum level quantitative trait locus 1
+spondyloepiphyseal dysplasia, maroteaux type
+focal cortical dysplasia of taylor
+pontocerebellar hypoplasia, type 2b
+pontocerebellar hypoplasia, type 2c
+pontocerebellar hypoplasia, type 2a
+pontocerebellar hypoplasia, type 4
+combined oxidative phosphorylation deficiency 3
+hypothyroidism, congenital, nongoitrous, 4
+hyperthyroidism, familial gestational
+hyperthyroidism, nonautoimmune
+exudative vitreoretinopathy 5
+mental retardation, x-linked 58
+sudden infant death with dysgenesis of the testes syndrome
+spinocerebellar ataxia 11
+retinitis pigmentosa 51
+cardiomyopathy, dilated, 1g
+cardiomyopathy, familial hypertrophic, 9
+distal myopathy markesbery-griggs type
+hereditary myopathy with early respiratory failure
+muscular dystrophy, limb-girdle, type 2j
+myopathy, early-onset, with fatal cardiomyopathy
+amyloidosis, hereditary, transthyretin-related
+dystransthyretinemic euthyroidal hyperthyroxinemia
+polymicrogyria with optic nerve hypoplasia
+macrothrombocytopenia, autosomal dominant, tubb1-related
+polymicrogyria, symmetric or asymmetric
+combined oxidative phosphorylation deficiency 4
+leber congenital amaurosis 15
+retinitis pigmentosa 14
+mental retardation, autosomal recessive 7
+saethre-chotzen syndrome with eyelid anomalies
+tyrosine kinase 2 deficiency
+mitochondrial neurogastrointestinal encephalopathy syndrome
+oculocutaneous albinism type 1
+oculocutaneous albinism type 1b
+oculocutaneous albinism type 3
+arthrogryposis multiplex congenita, distal, x-linked
+corneal dystrophy, crystalline, of schnyder
+johanson blizzard syndrome
+parkinson disease 5, autosomal dominant
+gilbert disease
+crigler najjar syndrome, type 1
+crigler najjar syndrome, type 2
+hyperbilirubinemia, transient familial neonatal
+glomerulocystic kidney disease with hyperuricemia and isosthenuria
+hyperuricemic nephropathy, familial juvenile, 1
+medullary cystic kidney disease 2
+oroticaciduria 1
+hemophagocytic lymphohistiocytosis, familial, 3
+immunodeficiency with hyper-igm, type 5
+beta-ureidopropionase deficiency
+mental retardation, x-linked, syndromic 14
+urocanase deficiency
+porphyria, erythropoietic
+poikiloderma with neutropenia
+deafness, autosomal recessive 18a
+usher syndrome, type 1c
+usher syndrome, type ig
+usher syndrome, type 2a
+sertoli cell-only syndrome
+cystocele
+sacral defect and anterior sacral meningocele
+amyotrophic lateral sclerosis 8
+spinal muscular atrophy, proximal, adult, autosomal dominant
+cardiomyopathy, dilated, 1w
+cardiomyopathy, familial hypertrophic, 15
+inclusion body myopathy with early-onset paget disease and frontotemporal dementia
+vitamin d-dependent rickets, type 2a
+arthrogryposis renal dysfunction cholestasis syndrome
+vitamin k-dependent clotting factors, combined deficiency of, 2
+dysequilibrium syndrome
+myopathy, x-linked, with excessive autophagy
+neuroacanthocytosis
+cohen syndrome
+corneal dystrophies, hereditary
+keratoconus 1
+microphthalmia, isolated 2
+microphthalmia, isolated, with coloboma 3
+von willebrand disease, type 1
+von willebrand disease, type 2
+von willebrand disease, type 3
+neutropenia, severe congenital, x-linked
+wiskott-aldrich syndrome
+cranioectodermal dysplasia 2
+glaucoma 1, open angle, g
+pachygyria with mental retardation, seizures, and arachnoid cysts
+amelogenesis imperfecta, hypomaturation type, iia3
+deafness, autosomal dominant 6
+arthropathy, progressive pseudorheumatoid, of childhood
+neuropathy, hereditary sensory and autonomic, type iia
+odontoonychodermal dysplasia
+schopf-schulz-passarge syndrome
+split-hand/foot malformation 6
+tetra-amelia autosomal recessive
+46,xx sex reversal with dysgenesis of kidneys, adrenals, and lungs
+mullerian aplasia and hyperandrogenism
+rokitansky kuster hauser syndrome
+al awadi syndrome
+fibular aplasia or hypoplasia, femoral bowing and poly-, syn-, and oligodactyly
+denys-drash syndrome
+frasier syndrome
+meacham winn culler syndrome
+nephrotic syndrome, type 4
+wilson-turner x-linked mental retardation syndrome
+major affective disorder 7
+xanthinuria, type i
+xeroderma pigmentosum, complementation group c
+nephronophthisis-like nephropathy 1
+charcot-marie-tooth disease, dominant intermediate c
+t cell immunodeficiency primary
+skeletal defects, genital hypoplasia, and mental retardation
+mental retardation, x-linked 91
+mental retardation, x-linked, syndromic, raymond type
+corneal dystrophy, fuchs endothelial, 6
+corneal dystrophy, posterior polymorphous, 3
+mowat-wilson syndrome
+diaphragmatic hernia 3
+spastic paraplegia 15, autosomal recessive
+spastic paraplegia 33, autosomal dominant
+holoprosencephaly 5
+heterotaxy, visceral, x-linked
+acro-osteolysis
+mandibuloacral dysplasia with type b lipodystrophy
+nephrolithiasis, uric acid, susceptibility to
+ehlers-danlos syndrome 6b
+retinitis pigmentosa 58
+spinocerebellar ataxia, autosomal recessive 5
+seborrhea-like dermatitis with psoriasiform elements
+mental retardation, x-linked 45
