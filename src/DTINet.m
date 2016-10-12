@@ -37,7 +37,7 @@ function [roc_avg, pr_avg] = DTINet(seed, nFold, interaction, drug_feat, prot_fe
 		[testroc, testpr] = auc(Ytest, Ypred, 1e-6);
 		AUROC(foldID) = testroc;
 		AUPRC(foldID) = testpr;
-		fprintf('Fold %d, Train: %f (ROC) %f (PR), Test: %f (ROC) %f (PR) \n', foldID, trainroc, trainpr, testroc, testpr);
+		fprintf('Fold %d, Train: AUROC=%f AUPR=%f; Test: AUROC=%f, AUPR=%f\n', foldID, trainroc, trainpr, testroc, testpr);
 	end
 	roc_avg = mean(AUROC);
     pr_avg = mean(AUPRC);

@@ -21,7 +21,6 @@ for p = 1 : Nrepeat
 end
 
 for i = 1 : Nrepeat
-fprintf('Repetition #%d: %.6f, %.6f\n', i, AUROC(i), AUPRC(i));
+	fprintf('Repetition #%d: AUROC=%.6f, AUPR=%.6f\n', i, AUROC(i), AUPRC(i));
 end
-fprintf('mean: %.6f (ROC), %.6f (PR)\n', mean(AUROC), mean(AUPRC));
-fprintf('std: %.6f, %.6f\n', std(AUROC), std(AUPRC));
+fprintf('Mean: AUROC=%.6f, AUPR=%.6f\n', mean(AUROC), mean(AUPRC));

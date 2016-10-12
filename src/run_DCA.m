@@ -1,7 +1,8 @@
-maxiter = 10;
+
+maxiter = 20;
 restartProb = 0.50;
-dim_drug = 400;
-dim_prot = 1000;
+dim_drug = 100;
+dim_prot = 400;
 
 drugNets = {'Sim_mat_drug_drug', 'Sim_mat_drug_disease', 'Sim_mat_drug_se', 'Sim_mat_Drugs'};
 proteinNets = {'Sim_protein_protein', 'Sim_mat_protein_disease', 'Sim_mat_Proteins'};
