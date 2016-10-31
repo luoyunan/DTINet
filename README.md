@@ -43,6 +43,9 @@ We provided the pre-trained vector representations for drugs and proteins, which
 - `drug_vector_d100.txt`
 - `protein_vector_d400.txt`
 
+#### `output/` directory
+- `Supplementary_File_1.xlsx`:  A list of top 150 predictions of drug-target interactions by DTINet.
+
 ### Third-party software
 Our implementation uses the following library, while you do not need to install it since it is included in the src/ folder for convenience.
 - [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/)
