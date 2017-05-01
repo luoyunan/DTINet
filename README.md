@@ -8,6 +8,12 @@ We provide an example script to run experiments on our dataset:
 
 **Note:** See the "Tutorial" section below for a detailed instruction on how to specify parameters of DTINet, or how to run DTINet on you own dataset.
 
+### Supplementary Information
+#### `supplementary/` directory
+- `Supplementary_Table_3.xlsx`:  The list of top 150 novel drug-target interactions predicted by DTINet, which was trained based all on drugs and targets that have at least one known interacting pair. Known drug-target pairs (corresponding to those non-zero entries in the drug-target interaction matrix) and novel predicted DTIs that share homologous proteins (with sequence identity scores >40%) with known DTIs were excluded from the list.
+- `Supplementary_Table_4.zip`:  The entire list of novel drug-target interactions predicted by DTINet, which was trained based on all drugs and targets that have at least one known interacting pair.
+- `Supplementary_Table_5.xlsx`:  Examples of the novel predictions which can be supported by the previous known evidence in the literature.
+
 ### Code and data
 #### `src/` directory
 - `DTINet.m`: predict drug-target interactions (DTIs)
@@ -42,9 +48,6 @@ We provide an example script to run experiments on our dataset:
 We provided the pre-trained vector representations for drugs and proteins, which were used to produce the results in our paper.
 - `drug_vector_d100.txt`
 - `protein_vector_d400.txt`
-
-#### `output/` directory
-- `Supplementary_File_1.xlsx`:  A list of top 150 predictions of drug-target interactions by DTINet.
 
 ### Third-party software
 Our implementation uses the following library, while you do not need to install it since it is included in the src/ folder for convenience.
