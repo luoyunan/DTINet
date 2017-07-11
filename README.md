@@ -1,5 +1,5 @@
 ## DTINet: A Network Integration Approach for Drug-Target Interaction Prediction
-DTINet is a new computational pipeline to predict novel drug-target interactions (DTIs) from heterogeneous network. DTINet focuses on learning a low-dimensional vector representation of features for each node in the heterogeneous network, and then predicts the likelihood of a new DTI based on these representations via a vector space projection scheme.
+DTINet is a computational pipeline to predict novel drug-target interactions (DTIs) from heterogeneous network. DTINet focuses on learning a low-dimensional vector representation of features for each node in the heterogeneous network, and then predicts the likelihood of a new DTI based on these representations via a vector space projection scheme. See preprint on [bioRxiv:100305](http://www.biorxiv.org/content/early/2017/03/20/100305).
 
 ### Quick start
 We provide an example script to run experiments on our dataset: 
@@ -11,7 +11,7 @@ We provide an example script to run experiments on our dataset:
 ### Supplementary Information
 #### `supplementary/` directory
 - `Supplementary_Table_3.xlsx`:  The list of top 150 novel drug-target interactions predicted by DTINet, which was trained based all on drugs and targets that have at least one known interacting pair. Known drug-target pairs (corresponding to those non-zero entries in the drug-target interaction matrix) and novel predicted DTIs that share homologous proteins (with sequence identity scores >40%) with known DTIs were excluded from the list.
-- `Supplementary_Table_4.zip`:  The entire list of novel drug-target interactions predicted by DTINet, which was trained based on all drugs and targets that have at least one known interacting pair.
+- `Supplementary_Table_4.xlsx`:  The entire list of novel drug-target interactions predicted by DTINet, which was trained based on all drugs and targets that have at least one known interacting pair.
 - `Supplementary_Table_5.xlsx`:  Examples of the novel predictions which can be supported by the previous known evidence in the literature.
 
 ### Code and data
@@ -30,8 +30,8 @@ We provide an example script to run experiments on our dataset:
 - `protein.txt`: list of protein names
 - `disease.txt`: list of disease names
 - `se.txt`: list of side effect names
-- `drug_dict_map: a complete ID mapping between drug names and DrugBank ID
-- `protein_dict_map: a complete ID mapping between protein names and UniProt ID
+- `drug_dict_map`: a complete ID mapping between drug names and DrugBank ID
+- `protein_dict_map`: a complete ID mapping between protein names and UniProt ID
 - `mat_drug_se.txt` 		: Drug-SideEffect association matrix
 - `mat_protein_protein.txt` : Protein-Protein interaction matrix
 - `mat_protein_drug.txt` 	: Protein-Drug interaction matrix
