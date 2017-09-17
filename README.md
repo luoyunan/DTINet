@@ -6,7 +6,7 @@ We provide an example script to run experiments on our dataset:
 
 - Run `run_DTINet.m`: predict drug-target interactions, and evaluate the results with cross-validation. 
 
-**Note:** See the "Tutorial" section below for a detailed instruction on how to specify parameters of DTINet, or how to run DTINet on you own dataset.
+**Note:** See the "Tutorial" section below for a detailed instruction on how to specify parameters of DTINet, or how to run DTINet on your own dataset.
 
 ### Supplementary Information
 #### `supplementary/` directory
@@ -23,7 +23,8 @@ We provide an example script to run experiments on our dataset:
 - `auc.m`: evaluation script
 - `run_DCA.m`: example code of running `DCA.m` for feature learning
 - `run_DTINet.m`: example code of running `DTINet.m` for drug-target prediction
-- `train_mf.m`exa64: executable binary file of inductive matrix completion algorithm (downloaded from [here](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/))
+- `train_mf.mexa64`: pre-built binary file of inductive matrix completion algorithm (downloaded from [here](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/))
+- `download_imc.sh`: download the inductive matrix completion source and build the executable library from source.
 
 #### `data/` directory
 - `drug.txt`: list of drug names
@@ -50,13 +51,14 @@ We provided the pre-trained vector representations for drugs and proteins, which
 - `protein_vector_d400.txt`
 
 ### Third-party software
-Our implementation uses the following library, while you do not need to install it since it is included in the src/ folder for convenience.
-- [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/)
+Our implementation requires the [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) (IMC) library. We provide an executable binary file in the src/ folder for convenience. The executable binary file was built on a typical Ubuntu 14.04 (64 bit) system. If you are using other Linux platforms, please consider building the library from its source by running `bash download_imc.sh`.
+
+**Tips**: We recommend users to download and install the IMC library using the `download_imc.sh` script. If you download the library yourself from the [website](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) of IMC, please be aware that DTINet requires the C/C++ version (with Python and Matlab interfaces). Please do not use the other version, i.e., a pure MATLAB implementation. The pure MATLAB version treats the unknown/missing entries in the interaction matrix as zeros, which is not the same as required in DTINet.
 
 ### Tutorial
 1. Put interaction/association matrices in the `data/` folder.
 2. Create a `network/` folder under `DTINet/` and run `compute_similarity.m`, which will compute the Jaccard similarity of drugs and proteins, based on interaction/association matrices.
-3. Specify parameters (number of dimensions of feature vectors, restart probability, maximum number of iterations) and run `run_DCA.m`, which will learn the feature vectors of drugs and proteins and save them in the `feature/` folder.
+3. Specify parameters (number of dimensions of feature vectors, restart probability, the maximum number of iterations) and run `run_DCA.m`, which will learn the feature vectors of drugs and proteins and save them in the `feature/` folder.
 4. Set the path of feature vectors and corresponding parameters in `run_DTINet.m` and execute it. This script will predict the drug-target interactions and evaluate the results using a ten-fold cross-validation.
 
 ### Citation
