@@ -1,5 +1,5 @@
 ## DTINet: A Network Integration Approach for Drug-Target Interaction Prediction
-DTINet is a computational pipeline to predict novel drug-target interactions (DTIs) from heterogeneous network. DTINet focuses on learning a low-dimensional vector representation of features for each node in the heterogeneous network, and then predicts the likelihood of a new DTI based on these representations via a vector space projection scheme. See preprint on [bioRxiv:100305](http://www.biorxiv.org/content/early/2017/03/20/100305).
+DTINet is a computational pipeline to predict novel drug-target interactions (DTIs) from heterogeneous network. DTINet focuses on learning a low-dimensional vector representation of features for each node in the heterogeneous network, and then predicts the likelihood of a new DTI based on these representations via a vector space projection scheme. See our paper on [Nature Communications](https://www.nature.com/articles/s41467-017-00680-8) and preprint on [bioRxiv:100305](http://www.biorxiv.org/content/early/2017/03/20/100305).
 
 ### Quick start
 We provide an example script to run experiments on our dataset: 
@@ -62,7 +62,20 @@ Our implementation requires the [Inductive Matrix Completion](http://bigdata.ice
 4. Set the path of feature vectors and corresponding parameters in `run_DTINet.m` and execute it. This script will predict the drug-target interactions and evaluate the results using a ten-fold cross-validation.
 
 ### Citation
-TBA
+Luo, Y., Zhao, X., Zhou, J., Yang, J., Zhang, Y., Kuang, W., Peng, J., Chen, L. & Zeng, J. A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information. *Nature Communications* **8**, (2017).
+
+    @article{Luo2017,
+      author = {Yunan Luo and Xinbin Zhao and Jingtian Zhou and Jinglin Yang and Yanqing Zhang and Wenhua Kuang and Jian Peng and Ligong Chen and Jianyang Zeng},
+      title = {A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information},
+      doi = {10.1038/s41467-017-00680-8},
+      url = {https://doi.org/10.1038/s41467-017-00680-8},
+      year  = {2017},
+      month = {sep},
+      publisher = {Springer Nature},
+      volume = {8},
+      number = {1},
+      journal = {Nature Communications}
+    }
 
 ### Contacts
 If you have any questions or comments, please feel free to email Yunan Luo (luoyunan[at]gmail[dot]com) and/or Jianyang Zeng (zengjy321[at]tsinghua[dot]edu[dot]cn).
