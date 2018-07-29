@@ -45,7 +45,7 @@ We provided the pre-trained vector representations for drugs and proteins, which
 - `protein_vector_d400.txt`
 
 ### Third-party software
-Our implementation requires the [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) (IMC) library. We provide an executable binary file in the src/ folder for convenience. The executable binary file was built on a typical Ubuntu 14.04 (64 bit) system. If you are using other Linux platforms, please consider building the library from its source by running `bash download_imc.sh`.
+Our implementation requires the [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) (IMC) library. We provide an executable binary file in the src/ folder for convenience. The executable binary file was built on a typical Ubuntu 14.04 (64 bit) system. If you are using other Linux platforms, please consider building the library from its source by running `bash install_imc.sh`.
 
 **Tips**: We recommend users to install the IMC library using the `install_imc.sh` script. If you download the library yourself from the [website](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) of IMC, please be aware that DTINet requires the C/C++ version (with Python and Matlab interfaces). Please do not use the other version, i.e., a pure MATLAB implementation. The pure MATLAB version treats the unknown/missing entries in the interaction matrix as zeros, which is not the same as required in DTINet.
 
