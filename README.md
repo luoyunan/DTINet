@@ -8,12 +8,6 @@ We provide an example script to run experiments on our dataset:
 
 **Note:** See the "Tutorial" section below for a detailed instruction on how to specify parameters of DTINet, or how to run DTINet on your own dataset.
 
-### Supplementary Information
-#### `supplementary/` directory
-- `Supplementary_Data_1.xlsx`:  The list of top 150 novel drug-target interactions predicted by DTINet, which was trained based all on drugs and targets that have at least one known interacting pair. Known drug-target pairs (corresponding to those non-zero entries in the drug-target interaction matrix) and novel predicted DTIs that share homologous proteins (with sequence identity scores >40%) with known DTIs were excluded from the list.
-- `Supplementary_Data_2.xlsx`:  The entire list of novel drug-target interactions predicted by DTINet, which was trained based on all drugs and targets that have at least one known interacting pair.
-- `Supplementary_Data_3.xlsx`:  Examples of the novel predictions which can be supported by the previous known evidence in the literature.
-
 ### Code and data
 #### `src/` directory
 - `DTINet.m`: predict drug-target interactions (DTIs)
@@ -53,13 +47,19 @@ We provided the pre-trained vector representations for drugs and proteins, which
 ### Third-party software
 Our implementation requires the [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) (IMC) library. We provide an executable binary file in the src/ folder for convenience. The executable binary file was built on a typical Ubuntu 14.04 (64 bit) system. If you are using other Linux platforms, please consider building the library from its source by running `bash download_imc.sh`.
 
-**Tips**: We recommend users to download and install the IMC library using the `download_imc.sh` script. If you download the library yourself from the [website](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) of IMC, please be aware that DTINet requires the C/C++ version (with Python and Matlab interfaces). Please do not use the other version, i.e., a pure MATLAB implementation. The pure MATLAB version treats the unknown/missing entries in the interaction matrix as zeros, which is not the same as required in DTINet.
+**Tips**: We recommend users to install the IMC library using the `install_imc.sh` script. If you download the library yourself from the [website](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) of IMC, please be aware that DTINet requires the C/C++ version (with Python and Matlab interfaces). Please do not use the other version, i.e., a pure MATLAB implementation. The pure MATLAB version treats the unknown/missing entries in the interaction matrix as zeros, which is not the same as required in DTINet.
 
 ### Tutorial
 1. Put interaction/association matrices in the `data/` folder.
 2. Create a `network/` folder under `DTINet/` and run `compute_similarity.m`, which will compute the Jaccard similarity of drugs and proteins, based on interaction/association matrices.
 3. Specify parameters (number of dimensions of feature vectors, restart probability, the maximum number of iterations) and run `run_DCA.m`, which will learn the feature vectors of drugs and proteins and save them in the `feature/` folder.
 4. Set the path of feature vectors and corresponding parameters in `run_DTINet.m` and execute it. This script will predict the drug-target interactions and evaluate the results using a ten-fold cross-validation.
+
+### Supplementary Information
+#### `supplementary/` directory
+- `Supplementary_Data_1.xlsx`:  The list of top 150 novel drug-target interactions predicted by DTINet, which was trained based all on drugs and targets that have at least one known interacting pair. Known drug-target pairs (corresponding to those non-zero entries in the drug-target interaction matrix) and novel predicted DTIs that share homologous proteins (with sequence identity scores >40%) with known DTIs were excluded from the list.
+- `Supplementary_Data_2.xlsx`:  The entire list of novel drug-target interactions predicted by DTINet, which was trained based on all drugs and targets that have at least one known interacting pair.
+- `Supplementary_Data_3.xlsx`:  Examples of the novel predictions which can be supported by the previous known evidence in the literature.
 
 ### Citation
 Luo, Y., Zhao, X., Zhou, J., Yang, J., Zhang, Y., Kuang, W., Peng, J., Chen, L. & Zeng, J. A network integration approach for drug-target interaction prediction and computational drug repositioning from heterogeneous information. *Nature Communications* **8**, (2017).
