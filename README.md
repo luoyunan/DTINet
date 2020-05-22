@@ -1,5 +1,5 @@
 ## DTINet: A Network Integration Approach for Drug-Target Interaction Prediction
-DTINet is a computational pipeline to predict novel drug-target interactions (DTIs) from heterogeneous network. DTINet focuses on learning a low-dimensional vector representation of features for each node in the heterogeneous network, and then predicts the likelihood of a new DTI based on these representations via a vector space projection scheme. See our paper on [Nature Communications](https://www.nature.com/articles/s41467-017-00680-8) and preprint on [bioRxiv:100305](http://www.biorxiv.org/content/early/2017/03/20/100305).
+DTINet is a computational pipeline to predict novel drug-target interactions (DTIs) from heterogeneous network. DTINet focuses on learning a low-dimensional vector representation of features for each node in the heterogeneous network, and then predicts the likelihood of a new DTI based on these representations via a vector space projection scheme. See our paper on [Nature Communications](https://www.nature.com/articles/s41467-017-00680-8).
 
 ### Quick start
 We provide an example script to run experiments on our dataset: 
@@ -45,9 +45,9 @@ We provided the pre-trained vector representations for drugs and proteins, which
 - `protein_vector_d400.txt`
 
 ### Third-party software
-Our implementation requires the [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) (IMC) library. We provide an executable binary file in the src/ folder for convenience. The executable binary file was built on a typical Ubuntu 14.04 (64 bit) system. If you are using other Linux platforms, please consider building the library from its source by running `bash install_imc.sh`.
+Our implementation requires the [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) (IMC) library. We provide an executable binary file (`train_mf.mexa64`) in the src/ folder for convenience. The executable binary file was built on a typical Ubuntu 14.04 (64 bit) system.
 
-**Tips**: We recommend users to install the IMC library using the `install_imc.sh` script. If you download the library yourself from the [website](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) of IMC, please be aware that DTINet requires the C/C++ version (with Python and Matlab interfaces). Please do not use the other version, i.e., a pure MATLAB implementation. The pure MATLAB version treats the unknown/missing entries in the interaction matrix as zeros, which is not the same as required in DTINet.
+We also provided the source code of IMC (`leml-imf-src.zip`) in the `src/` folder since the downloads from the IMC website is currently available. If you are using other Linux platforms or have issues using the provided binary file, please consider building the library from its source code by running `bash install_imc.sh`.
 
 ### Tutorial
 1. Put interaction/association matrices in the `data/` folder.
@@ -78,4 +78,4 @@ Luo, Y., Zhao, X., Zhou, J., Yang, J., Zhang, Y., Kuang, W., Peng, J., Chen, L. 
     }
 
 ### Contacts
-If you have any questions or comments, please feel free to email Yunan Luo (luoyunan[at]gmail[dot]com) and/or Jianyang Zeng (zengjy321[at]tsinghua[dot]edu[dot]cn).
+If you have any questions or comments, please feel free to email Yunan Luo (luoyunan[at]gmail[dot]com).
