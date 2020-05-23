@@ -45,9 +45,9 @@ We provided the pre-trained vector representations for drugs and proteins, which
 - `protein_vector_d400.txt`
 
 ### Third-party software
-Our implementation requires the [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) (IMC) library. We provide an executable binary file (`train_mf.mexa64`) in the src/ folder for convenience. The executable binary file was built on a typical Ubuntu 14.04 (64 bit) system.
+Our implementation requires the [Inductive Matrix Completion](http://bigdata.ices.utexas.edu/software/inductive-matrix-completion/) (IMC) library. We provided an executable binary file (`src/train_mf.mexa64`) for convenience. The executable binary file was built on a typical Ubuntu 14.04 (64 bit) system.
 
-We also provided the source code of IMC (`leml-imf-src.zip`) in the `src/` folder since the downloads from the IMC website is currently available. If you are using other Linux platforms or have issues using the provided binary file, please consider building the library from its source code by running `bash install_imc.sh`.
+We also provided the source code of IMC (`src/leml-imf-src.zip`) since the downloads from the IMC website is currently unavailable. If you are using other Linux platforms or have issues using the provided binary file, please consider building the library from source code by running `bash install_imc.sh` in the `src/` folder.
 
 ### Tutorial
 1. Put interaction/association matrices in the `data/` folder.
