@@ -1,7 +1,8 @@
 ## DTINet: A Network Integration Approach for Drug-Target Interaction Prediction
+:loudspeaker::collision::new: **Updates**: A Python implementation of DTINet can be found in this GitHub repo: [PyDTINet](https://github.com/luoyunan/PyDTINet).
+
 DTINet is a computational pipeline to predict novel drug-target interactions (DTIs) from heterogeneous network. DTINet focuses on learning a low-dimensional vector representation of features for each node in the heterogeneous network, and then predicts the likelihood of a new DTI based on these representations via a vector space projection scheme. See our paper on [Nature Communications](https://www.nature.com/articles/s41467-017-00680-8).
 
-Updates: A **Python** implementation of DTINet can be found in this GitHub repo: [PyDTINet](https://github.com/luoyunan/PyDTINet).
 
 ### Quick start
 We provide an example script to run experiments on our dataset: 
